@@ -36,13 +36,11 @@
 	<title>Buddhasahassanāmāvali - Gratitude Verses to the Buddha</title>
 </svelte:head>
 
-<h1>{JSON.stringify(verses)}</h1>
+<!-- <h1>{JSON.stringify(verses)}</h1> -->
 <main>
 	<header>
 		<h1>Buddhasahassanāmāvali</h1> 
 		<h2>Gratitude Verses to the Buddha</h2>
-
-		<a href={`buddhasahassanamavali/${verses[0].slug}`}>Verse 1</a>
 	</header>
 
 	<section class="summary">
@@ -115,9 +113,9 @@
 									<div class="mod-indent"></div>
 									<div>
 											<div class="activityinstance">
-													<a href="/buddhasahassanamavali">
-															<span class="instancename">View Verses</span>
-													</a>
+												<a href={`buddhasahassanamavali/verse-1`}>
+														<span class="instancename">View Verses</span>
+												</a>
 											</div>
 									</div>
 							</div>
