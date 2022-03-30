@@ -3,7 +3,7 @@
 
 	export async function load() {
 		const graphcms = new GraphQLClient(
-			'https://api-us-west-2.graphcms.com/v2/cl0j2ytsq2g0k01xkg40ihtzv/master',
+			'',
 			{
 				headers: {}
 			}
