@@ -41,17 +41,17 @@
 
 	<hr />
 	<ul class="section img-text">
-			<li class="activity page modtype_page" id="module-986">
+			<li>
 				<a href="https://learning.pariyatti.org/mod/page/view.php?id=986">
 						<span>Introduction by Klaus Nothnagel</span>
 				</a>					
 			</li>
-			<li class="activity page modtype_page" id="module-989">
+			<li>
 				<a href="https://learning.pariyatti.org/mod/page/view.php?id=989">
 						<span class="instancename">Foreword by S.N. Goenka<span class="accesshide"> Page</span></span>
 				</a>											
 			</li>
-			<li class="activity page modtype_page" id="module-989">	
+			<li>
 			<a href={`buddhasahassanamavali/verse-1`}>
 						<span class="instancename">View Verses</span>
 				</a>											
