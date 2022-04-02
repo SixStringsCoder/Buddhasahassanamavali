@@ -40,6 +40,9 @@
 
 <script>
   export let verse;
+
+  const prevVerse = () => console.log("Prev verse")
+  const nextVerse = () => console.log("Next verse")
 </script>
 
 <svelte:head>
@@ -74,14 +77,15 @@
       {verse.englishVerse}
     </pre>
 
-     <!-- Next/prev buttons -->
+    <!-- Next/prev buttons -->
     <span class="prev" on:click={prevVerse}>&#10094;</span>
     <span class="next" on:click={nextVerse}>&#10095;</span>
   </section>
 
   <hr />
+
   <section class="pali-vocab">
-  <!--PALI VOCABULARY-->
+    <!--PALI VOCABULARY-->
     <h3>Vocabulary</h3>
     <ol>
       {#each verse.vocabularyWords as wordObj}
@@ -108,8 +112,6 @@
 
 <style>
   main {
-    /* width: 100%;
-    padding: 0; */
     display: flex;
     flex-direction: column;
     align-items: center;
