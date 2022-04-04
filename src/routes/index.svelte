@@ -52,7 +52,7 @@
 				</a>											
 			</li>
 			<li>
-			<a href={`buddhasahassanamavali/verse-1`}>
+				<a href={`buddhasahassanamavali/verse-1`}>
 						<span class="instancename">View Verses</span>
 				</a>											
 			</li>

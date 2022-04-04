@@ -11,5 +11,5 @@ export const components = [
 export const dictionary = {
 	"": [[0, 2], [1]],
 	"buddhasahassanamavali/pastCode_storage": [[0, 3], [1]],
-	"buddhasahassanamavali/[slug]": [[0, 4], [1]]
+	"buddhasahassanamavali/[slug]": [[0, 4], [1], 1]
 };
