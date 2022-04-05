@@ -1,25 +1,26 @@
 <!-- Use this async load with fetch if you want to fetch JSON locally -->
-<!-- <script context="module">
+<script context="module">
   export async function load({ params, fetch }) {
     const response = await fetch(`../verses.json`); // stored in static folder
     const verses = await response.json();
-    const verse = verses.filter(verse => verse.slug === params.slug)
+    const verseData = verses.filter(verse => verse.slug === params.slug)
     return {
       props: {
-        verse,
-        slug: params.slug
+        verseData
       }
     }
   }
-</script>  -->
+</script> 
 
 
 <script>
-  export let verse
+  export let verseData
+  $: [verse] = verseData
+  $: console.log(verse)
   
   let verseNo = 1
   $: URL = `http://localhost:3000/buddhasahassanamavali/verse-${verseNo}`
-  //$: console.log(URL)
+  $: console.log(URL)
 
   const prevVerse = () => verseNo === 1 ? verseNo = 2 : verseNo -= 1
   const nextVerse = () => verseNo === 2 ? verseNo = 1 : verseNo += 1
@@ -61,6 +62,7 @@
     </pre>
 
     <!-- Next/prev buttons -->
+
     <a href={URL}><span class="prev" on:click={prevVerse}>&#10094;</span></a>
     <a href={URL}><span class="next" on:click={nextVerse}>&#10095;</span></a>
   </section>
