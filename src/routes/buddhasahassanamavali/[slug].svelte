@@ -4,11 +4,9 @@
   export async function load({ params, fetch }) {
     const response = await fetch(`../verses.json`); // stored in static folder
     const verses = await response.json();
-    const verse = verses.filter(verse => verse.slug === params.slug)
+    const verse = verses.find(verse => verse.slug === params.slug)
     return {
-      props: {
-        verse
-      }
+      props: { verse }
     }
   }
 </script>  -->
@@ -16,11 +14,13 @@
 
 <script>
   export let verse
-  $: [verse] = verse
   
   let verseNo = 1
   $: URL = `http://localhost:3000/buddhasahassanamavali/verse-${verseNo}`
-  $: console.log(URL)
+
+  import SearchInput from './SearchInput.svelte';
+  let searchTerm;
+  $: console.log(searchTerm)
 
   const prevVerse = () => verseNo === 1 ? verseNo = 2 : verseNo -= 1
   const nextVerse = () => verseNo === 2 ? verseNo = 1 : verseNo += 1
@@ -36,6 +36,11 @@
   <section class="verse">
     <!--TITLE HEADING-->
     <h1>Buddhasahassanāmāvali</h1>
+
+    <section>
+      <SearchInput bind:searchTerm />
+    </section>
+
     <h2>Verse {verse.verseId}</h2>
 
     <!--AUDIO-->

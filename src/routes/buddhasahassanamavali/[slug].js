@@ -1,8 +1,8 @@
 import versesJSON from '../../../static/verses.json';
 
-export async function get({ params }) {
-  const verse = versesJSON.filter(verse => verse.slug === params.slug)
-
+export async function get({params}) {
+  const verse = versesJSON.find(verse => verse.slug === params.slug)
+  
   return {
     status: 200,
     body: {
