@@ -1,22 +1,22 @@
 <!-- Use this async load with fetch if you want to fetch JSON locally -->
-<script context="module">
+<!-- otherwise uncomment out GraphCMS code in [slug].js and fetch from GraphCMS -->
+<!-- <script context="module">
   export async function load({ params, fetch }) {
     const response = await fetch(`../verses.json`); // stored in static folder
     const verses = await response.json();
-    const verseData = verses.filter(verse => verse.slug === params.slug)
+    const verse = verses.filter(verse => verse.slug === params.slug)
     return {
       props: {
-        verseData
+        verse
       }
     }
   }
-</script> 
+</script>  -->
 
 
 <script>
-  export let verseData
-  $: [verse] = verseData
-  $: console.log(verse)
+  export let verse
+  $: [verse] = verse
   
   let verseNo = 1
   $: URL = `http://localhost:3000/buddhasahassanamavali/verse-${verseNo}`
@@ -63,8 +63,8 @@
 
     <!-- Next/prev buttons -->
 
-    <a href={URL}><span class="prev" on:click={prevVerse}>&#10094;</span></a>
-    <a href={URL}><span class="next" on:click={nextVerse}>&#10095;</span></a>
+    <a href={URL}><span class="prev" title="Get previous verse" on:click={prevVerse}>&#10094;</span></a>
+    <a href={URL}><span class="next" title="Get next verse" on:click={nextVerse}>&#10095;</span></a>
   </section>
 
   <hr />

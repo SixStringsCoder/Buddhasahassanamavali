@@ -1,3 +1,18 @@
+import versesJSON from '../../../static/verses.json';
+
+export async function get({ params }) {
+  const verse = versesJSON.filter(verse => verse.slug === params.slug)
+
+  return {
+    status: 200,
+    body: {
+      verse
+    }
+  }
+}
+
+
+// Use this for API call to GraphCMS
 // import { GraphQLClient } from 'graphql-request';
 
 // export async function get({params}) {
@@ -47,6 +62,9 @@
 
 
 
+
+
+// Use this to fetch all Verses from GraphCMS
 // const { verses } = await graphcmsClient.request(
 //   `query VersesIndex {
 //     verses {
