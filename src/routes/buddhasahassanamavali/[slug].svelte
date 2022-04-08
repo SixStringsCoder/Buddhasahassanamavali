@@ -19,7 +19,10 @@
   $: URL = `http://localhost:3000/buddhasahassanamavali/verse-${verseNo}`
 
   import SearchInput from './SearchInput.svelte';
+  import VerseInput from './VerseInput.svelte';
   let searchTerm;
+  let verseNumber;
+
   $: console.log(searchTerm)
 
   const prevVerse = () => verseNo === 1 ? verseNo = 2 : verseNo -= 1
@@ -30,16 +33,12 @@
   <title>Buddhasahassanāmāvali - Verse {verse.verseId}</title>
 </svelte:head>
 
-
-
 <main>
   <section class="verse">
     <!--TITLE HEADING-->
     <h1>Buddhasahassanāmāvali</h1>
 
-    <section>
-      <SearchInput bind:searchTerm />
-    </section>
+    <VerseInput bind:verseNumber />
 
     <h2>Verse {verse.verseId}</h2>
 
@@ -52,17 +51,17 @@
     </div>
 
     <!--DEVANAGIRI PALI SCRIPT-->
-    <pre class="pali-italics">
+    <pre class="pali-italics" title="DEVANAGIRI PALI SCRIPT">
       {verse.paliDevanagariVerse}
     </pre>
 
     <!--ROMAN PALI SCRIPT-->
-    <pre class="pali-italics">
+    <pre class="pali-italics" title="ROMAN PALI SCRIPT">
       {verse.paliRomanVerse}
     </pre>
 
     <!--ENGLISH  TRANSLATION-->
-    <pre id="english">
+    <pre id="english" title="ENGLISH TRANSLATION">
       {verse.englishVerse}
     </pre>
 
@@ -83,6 +82,10 @@
       {/each}
     </ol>
   </section>
+
+  
+  <SearchInput bind:searchTerm />
+  
 
   <section class="quizlet-pdf-cont">
     <!--QUIZLET-->
@@ -130,6 +133,7 @@
     width: 100%;
     text-align: center;
     line-height: 125%;
+    margin: 0;
   }
 
   pre#english {
