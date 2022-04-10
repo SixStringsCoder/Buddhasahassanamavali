@@ -59,18 +59,19 @@
 <main>
   <section class="verse">
     <!--TITLE HEADING-->
-    <div id="title-heading-cont">
-      <h1>Buddhasahassanāmāvali</h1>
-      <span on:click={handleSearchVere}>🔎</span>
-    </div>
-
+    
+    <h1>Buddhasahassanāmāvali</h1>
+    
     {#if showVerseSearch}
       <VerseInput bind:verseNo 
                   verseURL={URL}
                   on:click={handleGoToVerse} />
     {/if}
 
-    <h2>Verse {verse.verseId}</h2>
+    <div id="title-heading-cont">
+      <h2>Verse {verse.verseId}</h2>
+      <span on:click={handleSearchVere}>🔎</span>
+    </div>
 
     <!--AUDIO-->
     <div class="audio-cont">
@@ -167,14 +168,16 @@
   }
 
   div#title-heading-cont {
-    
+    position: relative;
     display: flex;
-    align-items: center;
+    justify-content: center;
   }
 
   div#title-heading-cont span {
+    position: absolute;
+    top: 0;
+    right: 90px;
     font-size: 1rem;
-    margin: 0 0 5px 10px;
     cursor: pointer;
   }
 
@@ -184,7 +187,7 @@
   }
 
   pre {
-    width: 100%;
+    width: 300px;
     text-align: center;
     line-height: 125%;
     margin: 0;
