@@ -1,19 +1,24 @@
 <script lang="ts">
-  export let verseNumber;
+  export let verseNo;
+  export let verseURL;
+
 </script>
 
 
 
 <div class="search-input-cont">
-  <input type="number" 
-        id="verse-num-field" 
-        placeholder="Go to Verse (number)"
-        autocomplete="off"
-        min="1"
-        max="150"
-        maxlength="3"
-        bind:value={verseNumber}
-        on:input />
+    <input type="number" 
+          id="verse-num-field" 
+          placeholder="Go to Verse (number)"
+          autocomplete="off"
+          min="1"
+          max="150"
+          maxlength="3"
+          bind:value={verseNo}
+          />
+    <a href={verseURL}>
+      <button on:click>GO</button>
+    </a>
 </div> 
 
 
@@ -32,5 +37,9 @@
 		border-radius: 5px;
 		padding: 8px;
 		margin: 0 10px 20px;
+  }
+
+  button {
+    height: 32px;
   }
 </style>

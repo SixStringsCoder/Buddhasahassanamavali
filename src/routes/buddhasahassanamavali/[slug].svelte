@@ -13,29 +13,43 @@
 
 
 <script>
+  import versesJSON from '../../../static/verses.json';
   export let verse
   
+  let versesQty = versesJSON.length;
   let verseNo = 1
   $: URL = `http://localhost:3000/buddhasahassanamavali/verse-${verseNo}`
 
   import SearchInput from './SearchInput.svelte';
   import VerseInput from './VerseInput.svelte';
   let searchTerm;
-  let verseNumber;
+  let showVerseSearch = false
 
   const prevVerse = () => verseNo === 1 ? verseNo = 2 : verseNo -= 1
   const nextVerse = () => verseNo === 2 ? verseNo = 1 : verseNo += 1
 
+  const handleGoToVerse = () => {
+    if (verseNo > versesQty) {
+      verseNo = 1;
+      alert("That verse doesn't exist")
+      return;
+    }
+    return;
+  }
 
+  const handleSearchVere = () => {
+    showVerseSearch = !showVerseSearch;
+    verseNo = null
+  }
+
+  // Get Vocabulary words
   import { getWords } from './api/getWords.js';
-
   export let words = [];
   $: console.log(words)
 
   const handleWords = async () => {
     return words = await getWords()
   }
- 
 </script>
 
 <svelte:head>
@@ -45,9 +59,16 @@
 <main>
   <section class="verse">
     <!--TITLE HEADING-->
-    <h1>Buddhasahassanāmāvali</h1>
+    <div id="title-heading-cont">
+      <h1>Buddhasahassanāmāvali</h1>
+      <span on:click={handleSearchVere}>🔎</span>
+    </div>
 
-    <VerseInput bind:verseNumber />
+    {#if showVerseSearch}
+      <VerseInput bind:verseNo 
+                  verseURL={URL}
+                  on:click={handleGoToVerse} />
+    {/if}
 
     <h2>Verse {verse.verseId}</h2>
 
@@ -75,7 +96,6 @@
     </pre>
 
     <!-- Next/prev buttons -->
-
     <a href={URL}><span class="prev" title="Get previous verse" on:click={prevVerse}>&#10094;</span></a>
     <a href={URL}><span class="next" title="Get next verse" on:click={nextVerse}>&#10095;</span></a>
   </section>
@@ -96,7 +116,7 @@
         <p>...waiting</p>
       {:then vocabularyWords}
         {#each words as {word, definition, etymology}}
-          <li>{word} - {definition} {etymology ? `---> ${etymology}` : ""}</li>
+          <li><strong>{word}</strong> - {definition} {etymology ? `---> ${etymology}` : ""}</li>
         {/each}
       {:catch error}
         <p style="color: red">Something went wrong!</p>
@@ -126,6 +146,7 @@
 
 <style>
   main {
+    width: 100%;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -143,6 +164,18 @@
   h1, h2, h3 {
     text-align: center;
     font-weight: bold;
+  }
+
+  div#title-heading-cont {
+    
+    display: flex;
+    align-items: center;
+  }
+
+  div#title-heading-cont span {
+    font-size: 1rem;
+    margin: 0 0 5px 10px;
+    cursor: pointer;
   }
 
   .audio-cont {
