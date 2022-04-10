@@ -26,7 +26,7 @@
   }
 
 	div.search-input-cont {
-		width: 50%;
+		width: 75%;
 		display: flex;
 		align-items: center;
 		margin: 0 20px 10px;

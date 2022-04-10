@@ -14,6 +14,7 @@
 
 <script>
   import versesJSON from '../../../static/verses.json';
+  import ModalVocab from './ModalVocab.svelte'
   export let verse
   
   let versesQty = versesJSON.length;
@@ -37,7 +38,7 @@
     return;
   }
 
-  const handleSearchVere = () => {
+  const handleSearchVerse = () => {
     showVerseSearch = !showVerseSearch;
     verseNo = null
   }
@@ -45,10 +46,12 @@
   // Get Vocabulary words
   import { getWords } from './api/getWords.js';
   export let words = [];
+  let modalShowing = false;
   $: console.log(words)
 
   const handleWords = async () => {
-    return words = await getWords()
+    words = await getWords()
+    modalShowing = !modalShowing;
   }
 </script>
 
@@ -68,9 +71,9 @@
                   on:click={handleGoToVerse} />
     {/if}
 
-    <div id="title-heading-cont">
+    <div class="title-heading-cont">
       <h2>Verse {verse.verseId}</h2>
-      <span on:click={handleSearchVere}>🔎</span>
+      <span on:click={handleSearchVerse}>🔎</span>
     </div>
 
     <!--AUDIO-->
@@ -105,24 +108,20 @@
 
   <section class="pali-vocab">
     <!--PALI VOCABULARY-->
-    <h3>Vocabulary</h3>
+    <div class="title-heading-cont">
+      <h3>Vocabulary</h3>
+      <span on:click={handleWords}>🔎</span>
+    </div>
     <ol>
       {#each verse.vocabularyWords as wordObj}
         <li><b>{wordObj.word}</b> - {wordObj.definition}  {wordObj.etymology ? `--> (${wordObj.etymology})` : ""}</li>    
       {/each}
     </ol>
-    <button on:click={handleWords}>All Vocabulary</button>
-    <ul>
-      {#await words}
-        <p>...waiting</p>
-      {:then vocabularyWords}
-        {#each words as {word, definition, etymology}}
-          <li><strong>{word}</strong> - {definition} {etymology ? `---> ${etymology}` : ""}</li>
-        {/each}
-      {:catch error}
-        <p style="color: red">Something went wrong!</p>
-      {/await}
-      </ul>
+    
+
+    {#if modalShowing}
+    <ModalVocab {words} on:click={() => modalShowing = !modalShowing} />
+    {/if}
   </section>
 
   
@@ -167,13 +166,13 @@
     font-weight: bold;
   }
 
-  div#title-heading-cont {
+  div.title-heading-cont {
     position: relative;
     display: flex;
     justify-content: center;
   }
 
-  div#title-heading-cont span {
+  div.title-heading-cont span {
     position: absolute;
     top: 0;
     right: 90px;
