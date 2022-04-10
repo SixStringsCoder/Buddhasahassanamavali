@@ -23,10 +23,19 @@
   let searchTerm;
   let verseNumber;
 
-  $: console.log(searchTerm)
-
   const prevVerse = () => verseNo === 1 ? verseNo = 2 : verseNo -= 1
   const nextVerse = () => verseNo === 2 ? verseNo = 1 : verseNo += 1
+
+
+  import { getWords } from './api/getWords.js';
+
+  export let words = [];
+  $: console.log(words)
+
+  const handleWords = async () => {
+    return words = await getWords()
+  }
+ 
 </script>
 
 <svelte:head>
@@ -81,6 +90,18 @@
         <li><b>{wordObj.word}</b> - {wordObj.definition}  {wordObj.etymology ? `--> (${wordObj.etymology})` : ""}</li>    
       {/each}
     </ol>
+    <button on:click={handleWords}>All Vocabulary</button>
+    <ul>
+      {#await words}
+        <p>...waiting</p>
+      {:then vocabularyWords}
+        {#each words as {word, definition, etymology}}
+          <li>{word} - {definition} {etymology ? `---> ${etymology}` : ""}</li>
+        {/each}
+      {:catch error}
+        <p style="color: red">Something went wrong!</p>
+      {/await}
+      </ul>
   </section>
 
   
