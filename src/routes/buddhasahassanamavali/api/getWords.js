@@ -17,6 +17,7 @@ export const getWords = async () => {
         }
       }`
     );
+    console.log(vocabularyWords)
     return vocabularyWords;
   } catch(error) {
     return {
