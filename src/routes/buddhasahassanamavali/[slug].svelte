@@ -11,7 +11,6 @@
   }
 </script>  -->
 
-
 <script>
   import versesJSON from '../../../static/verses.json';
   import ModalVocab from './ModalVocab.svelte'
@@ -62,7 +61,6 @@
 <main>
   <section class="verse">
     <!--TITLE HEADING-->
-    
     <h1>Buddhasahassanāmāvali</h1>
     
     {#if showVerseSearch}

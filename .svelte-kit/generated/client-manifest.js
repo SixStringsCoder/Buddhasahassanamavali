@@ -8,7 +8,8 @@ export const components = [
 	() => import("../../src/routes/buddhasahassanamavali/SearchInput.svelte"),
 	() => import("../../src/routes/buddhasahassanamavali/ModalVocab.svelte"),
 	() => import("../../src/routes/buddhasahassanamavali/VerseInput.svelte"),
-	() => import("../../src/routes/buddhasahassanamavali/[slug].svelte")
+	() => import("../../src/routes/buddhasahassanamavali/[slug].svelte"),
+	() => import("../../src/routes/addcontent/index.svelte")
 ];
 
 export const dictionary = {
@@ -17,5 +18,6 @@ export const dictionary = {
 	"buddhasahassanamavali/SearchInput": [[0, 4], [1]],
 	"buddhasahassanamavali/ModalVocab": [[0, 5], [1]],
 	"buddhasahassanamavali/VerseInput": [[0, 6], [1]],
-	"buddhasahassanamavali/[slug]": [[0, 7], [1], 1]
+	"buddhasahassanamavali/[slug]": [[0, 7], [1], 1],
+	"addcontent": [[0, 8], [1]]
 };
