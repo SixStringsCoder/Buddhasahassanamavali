@@ -1,4 +1,4 @@
-import versesJSON from '../../../static/verses.json';
+import versesJSON from '../../../static/verses_graphcms.json';
 
 export async function get({params}) {
   const verse = versesJSON.find(verse => verse.slug === params.slug)
