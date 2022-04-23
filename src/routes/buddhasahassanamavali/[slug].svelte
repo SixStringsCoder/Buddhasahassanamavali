@@ -125,7 +125,9 @@
     
 
     {#if modalShowing}
-    <ModalVocab {words} on:click={() => modalShowing = !modalShowing} />
+    <ModalVocab {words}
+                bind:searchTerm
+                on:click={() => modalShowing = !modalShowing} />
     {/if}
   </section>
 

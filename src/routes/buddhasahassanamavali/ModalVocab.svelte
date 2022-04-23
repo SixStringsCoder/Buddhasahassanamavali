@@ -1,12 +1,23 @@
 <script>
   import { fade } from 'svelte/transition'
   export let words;
+  export let searchTerm;
 </script>
 
 <!-- The Modal -->
 <div id="myModal" class="modal" transition:fade>
   <div class="modal-content">
     <span class="close" on:click>&times;</span>
+    <!-- Search Input -->
+    <div id="search-input-cont">
+      <input type="text" 
+             id="search-field" 
+             placeholder="Search..." 
+             autocomplete="off"
+             bind:value={searchTerm}
+             on:input />
+    </div> 
+    <!-- List of Vocabulary -->
     <ul>
       {#await words}
         <p>...waiting</p>
@@ -24,27 +35,43 @@
 
 <style>
   .modal {
-    display: block; /* Hidden by default */
-    position: fixed; /* Stay in place */
-    z-index: 1; /* Sit on top */
+    display: block; 
+    position: fixed; 
+    z-index: 1; 
     left: 0;
     top: 0;
-    width: 100%; /* Full width */
-    height: 100%; /* Full height */
-    overflow: auto; /* Enable scroll if needed */
-    background-color: rgb(0,0,0); /* Fallback color */
-    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+    width: 100%; 
+    height: 100%; 
+    overflow: auto; 
+    background-color: rgb(0,0,0); 
+    background-color: rgba(0,0,0,0.4); 
   }
 
   /* Modal Content/Box */
   .modal-content {
     position: relative;
     background-color: #fefefe;
-    margin: 15% auto; /* 15% from the top and centered */
+    margin: 15% auto;
     padding: 20px;
     border: 1px solid #888;
-    width: 80%; /* Could be more or less, depending on screen size */
+    width: 80%; /* Adjust depending on screen size */
   }
+
+  #search-input-cont {
+		width: 85%;
+		display: flex;
+		align-items: center;
+		margin: 0 0 0 10px;
+	}
+
+	#search-field {
+		width: 100%;
+		font-size: 1.3rem;
+		border: 1px solid gray;
+		border-radius: 5px;
+		padding: 8px;
+		margin: 0 10px 0;
+	}
 
   ul {
     padding: 5px;
