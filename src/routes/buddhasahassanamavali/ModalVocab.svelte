@@ -20,7 +20,7 @@
     <!-- List of Vocabulary -->
     <ul>
       {#await words}
-        <p>...waiting</p>
+        <p>...loading all vocabulary</p>
       {:then words}
         {#each words as {word, definition, etymology}}
           <li><strong>{word}</strong> - {definition} {etymology ? `${etymology}` : ""}</li>

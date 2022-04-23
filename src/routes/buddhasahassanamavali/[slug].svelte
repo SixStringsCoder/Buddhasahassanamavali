@@ -47,7 +47,12 @@
   // Get Vocabulary words
   // import { getWords } from './api/getWords.js';
 
-  let words = wordsJSON.sort((currWord, nextWord) => {
+  const vocabFromVerses = versesJSON.reduce((accumArr, currObj) => {
+    return [...accumArr, currObj.vocabulary].flat()
+    }, [])
+  $: console.log(vocabFromVerses)
+
+  let words = vocabFromVerses.sort((currWord, nextWord) => {
     if (currWord.wordId > nextWord.wordId) {
       return 1;
     }
@@ -118,8 +123,8 @@
       <span on:click={handleModal}>🔎</span>
     </div>
     <ol>
-      {#each verse.vocabulary as wordStr}
-        <li>{wordStr}</li>    
+      {#each verse.vocabulary as wordObj}
+        <li><b>{wordObj.word}</b> - {wordObj.definition} <br>{!wordObj.etymology ? "" : `(${wordObj.etymology})`}</li>    
       {/each}
     </ol>
     
