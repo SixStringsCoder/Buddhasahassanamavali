@@ -12,21 +12,23 @@
 </script>  -->
 
 <script>
-  import versesJSON from '../../../static/verses.json';
+  import versesJSON from '../../../static/verses.json'
+  import wordsJSON from '../../../static/words.json'
   import ModalVocab from './ModalVocab.svelte'
+  import SearchInput from './SearchInput.svelte'
+  import VerseInput from './VerseInput.svelte'
+
   export let verse
-  
-  let versesQty = versesJSON.length;
+  $: console.log(verse)
+  let versesQty = versesJSON.length
   let verseNo = 1
   $: URL = `http://localhost:3000/buddhasahassanamavali/verse-${verseNo}`
 
-  import SearchInput from './SearchInput.svelte';
-  import VerseInput from './VerseInput.svelte';
   let searchTerm;
   let showVerseSearch = false
 
-  const prevVerse = () => verseNo === 1 ? verseNo = 2 : verseNo -= 1
-  const nextVerse = () => verseNo === 2 ? verseNo = 1 : verseNo += 1
+  const prevVerse = () => verseNo === 1 ? verseNo = versesJSON.length-1 : verseNo -= 1
+  const nextVerse = () => verseNo === versesJSON.length-1 ? verseNo = 1 : verseNo += 1
 
   const handleGoToVerse = () => {
     if (verseNo > versesQty) {
@@ -43,19 +45,24 @@
   }
 
   // Get Vocabulary words
-  import { getWords } from './api/getWords.js';
-  export let words = [];
-  let modalShowing = false;
-  $: console.log(words)
+  // import { getWords } from './api/getWords.js';
 
-  const handleWords = async () => {
-    words = await getWords()
-    modalShowing = !modalShowing;
-  }
+  let words = wordsJSON.sort((currWord, nextWord) => {
+    if (currWord.wordId > nextWord.wordId) {
+      return 1;
+    }
+    if (currWord.wordId < nextWord.wordId) {
+      return -1;
+    }
+    return 0;
+  });
+
+  let modalShowing = false;
+  const handleModal = () => modalShowing = !modalShowing;
 </script>
 
 <svelte:head>
-  <title>Buddhasahassanāmāvali - Verse {verse.verseId}</title>
+  <title>Buddhasahassanāmāvali - Verse {verse.id}</title>
 </svelte:head>
 
 <main>
@@ -70,31 +77,31 @@
     {/if}
 
     <div class="title-heading-cont">
-      <h2>Verse {verse.verseId}</h2>
+      <h2>{verse.id}</h2>
       <span on:click={handleSearchVerse}>🔎</span>
     </div>
 
     <!--AUDIO-->
     <div class="audio-cont">
       <audio controls>
-        <source src={verse.audioUrl} type="audio/mp3">      
+        <source src={verse.audio} type="audio/mp3">      
             Your browser does not support HTML 5 audio.
       </audio>
     </div>
 
     <!--DEVANAGIRI PALI SCRIPT-->
     <pre class="pali-italics" title="DEVANAGIRI PALI SCRIPT">
-      {verse.paliDevanagariVerse}
+      {verse.devanagari}
     </pre>
 
     <!--ROMAN PALI SCRIPT-->
     <pre class="pali-italics" title="ROMAN PALI SCRIPT">
-      {verse.paliRomanVerse}
+      {verse.romanpali}
     </pre>
 
     <!--ENGLISH  TRANSLATION-->
     <pre id="english" title="ENGLISH TRANSLATION">
-      {verse.englishVerse}
+      {verse.english}
     </pre>
 
     <!-- Next/prev buttons -->
@@ -108,11 +115,11 @@
     <!--PALI VOCABULARY-->
     <div class="title-heading-cont">
       <h3>Vocabulary</h3>
-      <span on:click={handleWords}>🔎</span>
+      <span on:click={handleModal}>🔎</span>
     </div>
     <ol>
-      {#each verse.vocabularyWords as wordObj}
-        <li><b>{wordObj.word}</b> - {wordObj.definition}  {wordObj.etymology ? `--> (${wordObj.etymology})` : ""}</li>    
+      {#each verse.vocabulary as wordStr}
+        <li>{wordStr}</li>    
       {/each}
     </ol>
     
@@ -129,7 +136,7 @@
   <section class="quizlet-pdf-cont">
     <!--QUIZLET-->
     <div>
-      <iframe src={verse.quizletUrl} height="410" width="100%" style="border:0" title="flashcards"></iframe>
+      <iframe src={verse.quizlet} height="410" width="100%" style="border:0" title="flashcards"></iframe>
     </div>
       
     <!--PDF DOWNLOAD LINK and BUTTON-->

@@ -12,7 +12,7 @@
         <p>...waiting</p>
       {:then words}
         {#each words as {word, definition, etymology}}
-          <li><strong>{word}</strong> - {definition} {etymology ? `---> ${etymology}` : ""}</li>
+          <li><strong>{word}</strong> - {definition} {etymology ? `${etymology}` : ""}</li>
         {/each}
       {:catch error}
         <p style="color: red">Something went wrong!</p>
