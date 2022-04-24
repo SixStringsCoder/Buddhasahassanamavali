@@ -19,12 +19,10 @@
   import VerseInput from './VerseInput.svelte'
 
   export let verse
-  $: console.log(verse)
   let versesQty = versesJSON.length
   let verseNo = 1
   $: URL = `http://localhost:3000/buddhasahassanamavali/verse-${verseNo}`
 
-  let searchTerm;
   let showVerseSearch = false
 
   const prevVerse = () => verseNo === 1 ? verseNo = versesJSON.length-1 : verseNo -= 1
@@ -44,9 +42,7 @@
     verseNo = null
   }
 
-  // Get Vocabulary words
-  // import { getWords } from './api/getWords.js';
-
+  // Get All Vocabulary words
   const vocabFromVerses = versesJSON.reduce((accumArr, currObj) => {
     return [...accumArr, currObj.vocabulary].flat()
     }, [])
@@ -61,6 +57,15 @@
     }
     return 0;
   });
+
+  // WORD SEARCH
+  let searchTerm;
+
+  let filterWords = [];
+  $: console.log(filterWords)
+  const handleWordSearch = () => {
+    filterWords = words.filter(word => word.wordId.startsWith(searchTerm))
+  }
 
   let modalShowing = false;
   const handleModal = () => modalShowing = !modalShowing;
@@ -123,15 +128,17 @@
       <span on:click={handleModal}>🔎</span>
     </div>
     <ol>
-      {#each verse.vocabulary as wordObj}
-        <li><b>{wordObj.word}</b> - {wordObj.definition} <br>{!wordObj.etymology ? "" : `(${wordObj.etymology})`}</li>    
-      {/each}
+        {#each verse.vocabulary as wordObj}
+          <li><b>{wordObj.word}</b> - {wordObj.definition} <br>{!wordObj.etymology ? "" : `(${wordObj.etymology})`}</li>    
+        {/each}
     </ol>
     
 
     {#if modalShowing}
     <ModalVocab {words}
+                {filterWords}
                 bind:searchTerm
+                on:submit={handleWordSearch}
                 on:click={() => modalShowing = !modalShowing} />
     {/if}
   </section>
