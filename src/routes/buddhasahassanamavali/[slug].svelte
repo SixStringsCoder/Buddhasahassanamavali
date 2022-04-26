@@ -13,20 +13,25 @@
 
 <script>
   import versesJSON from '../../../static/verses.json'
-  import wordsJSON from '../../../static/words.json'
+  // import wordsJSON from '../../../static/words.json'
   import ModalVocab from './ModalVocab.svelte'
   // import SearchInput from './SearchInput.svelte'
   import VerseInput from './VerseInput.svelte'
 
   export let verse
+  export let params
+
   let versesQty = versesJSON.length
   let verseNo = 1
-  $: URL = `http://localhost:3000/buddhasahassanamavali/verse-${verseNo}`
+  let rootURL = "http://localhost:3000"
+  $: URL = `${rootURL}/buddhasahassanamavali/verse-${verseNo}`
+  $: console.log(params.slug, verseNo, URL, verse)
 
+  const prevVerse = () => verseNo === 1 ? verseNo = versesQty-1 : verseNo -= 1
+  const nextVerse = () => verseNo === versesQty-1 ? verseNo = 1 : verseNo += 1
+
+  // SEARCH FOR A VERSE INPUT
   let showVerseSearch = false
-
-  const prevVerse = () => verseNo === 1 ? verseNo = versesJSON.length-1 : verseNo -= 1
-  const nextVerse = () => verseNo === versesJSON.length-1 ? verseNo = 1 : verseNo += 1
 
   const handleGoToVerse = () => {
     if (verseNo > versesQty) {
@@ -42,11 +47,11 @@
     verseNo = null
   }
 
-  // Get All Vocabulary words
+  // GET ALL VOCABULARY WORDS
   const vocabFromVerses = versesJSON.reduce((accumArr, currObj) => {
     return [...accumArr, currObj.vocabulary].flat()
     }, [])
-  $: console.log(vocabFromVerses)
+  // $: console.log(vocabFromVerses)
 
   let words = vocabFromVerses.sort((currWord, nextWord) => {
     if (currWord.wordId > nextWord.wordId) {
@@ -62,13 +67,14 @@
   let searchTerm;
 
   let filterWords = [];
-  $: console.log(filterWords)
+  //$: console.log(filterWords)
   const handleWordSearch = () => {
     filterWords = words.filter(word => word.wordId.startsWith(searchTerm))
   }
 
   let modalShowing = false;
   const handleModal = () => modalShowing = !modalShowing;
+
 </script>
 
 <svelte:head>
@@ -93,8 +99,7 @@
 
     <!--AUDIO-->
     <div class="audio-cont">
-      <audio controls>
-        <source src={verse.audio} type="audio/mp3">      
+      <audio controls src={verse.audio} type="audio/mp3">      
             Your browser does not support HTML 5 audio.
       </audio>
     </div>
@@ -129,17 +134,17 @@
     </div>
     <ol>
         {#each verse.vocabulary as wordObj}
-          <li><b>{wordObj.word}</b> - {wordObj.definition} <br>{!wordObj.etymology ? "" : `(${wordObj.etymology})`}</li>    
+          <li><b>{wordObj.word}</b> - {wordObj.meaning} <br>{!wordObj.composition ? "" : `(${wordObj.composition})`}</li>    
         {/each}
     </ol>
     
 
     {#if modalShowing}
-    <ModalVocab {words}
-                {filterWords}
-                bind:searchTerm
-                on:submit={handleWordSearch}
-                on:click={() => modalShowing = !modalShowing} />
+      <ModalVocab {words}
+                  {filterWords}
+                  bind:searchTerm
+                  on:submit={handleWordSearch}
+                  on:click={() => modalShowing = !modalShowing} />
     {/if}
   </section>
   
