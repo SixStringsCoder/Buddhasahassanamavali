@@ -13,7 +13,7 @@
 
 <script>
   import versesJSON from '../../../static/verses.json'
-  // import wordsJSON from '../../../static/words.json'
+  import wordsJSON from '../../../static/words.json'
   import ModalVocab from './ModalVocab.svelte'
   // import SearchInput from './SearchInput.svelte'
   import VerseInput from './VerseInput.svelte'

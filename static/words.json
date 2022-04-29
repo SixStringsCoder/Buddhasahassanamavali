@@ -1,5 +1,695 @@
 [
   {
+    "wordId": "adikalyanam",
+    "word": "ādikalyāṇaṃ",
+    "meaning": "in the beginning + beneficial",
+    "formation": "ādi + kalyāṇa+ṃ"
+  },
+  {
+    "wordId": "anuppattasadattho",
+    "word": "anuppattasadattho",
+    "meaning": "having reached+one’s own+goal",
+    "formation": "anu+p+patta+sad+attho"
+  },
+  {
+    "wordId": "anuttaro",
+    "word": "anuttaro",
+    "meaning": "not + higher (than that)",
+    "formation": "an+uttaro"
+  },
+  {
+    "wordId": "araham",
+    "word": "arahaṃ",
+    "meaning": "a worthy one, an Arahant",
+    "formation": "arahant +nom.sg."
+  },
+  {
+    "wordId": "atthaya",
+    "word": "atthāya",
+    "meaning": "for the benefit",
+    "formation": "attha +aya"
+  },
+  {
+    "wordId": "bahujanahitaya",
+    "word": "bahujanahitāya",
+    "meaning": "many +people,beings +benefit +for",
+    "formation": "bahu+jana+hita+āya"
+  },
+  {
+    "wordId": "bahujanasukhaya",
+    "word": "bahujanasukhāya",
+    "meaning": "many +people,beings +happiness +for",
+    "formation": "bahu+jana+sukha+āya"
+  },
+  {
+    "wordId": "bahussuto",
+    "word": "bahussuto",
+    "meaning": "much heared—well versed, of great learning",
+    "formation": "bahu+s+suto"
+  },
+  {
+    "wordId": "brahmacariyam",
+    "word": "brahmacariyaṃ",
+    "meaning": "faring the path of a brahma",
+    "formation": "brahma+cariya+ṃ"
+  },
+  {
+    "wordId": "devamanussanam",
+    "word": "devamanussānaṃ",
+    "meaning": "gods + mankind +of",
+    "formation": "deva+manussa+ānaṃ"
+  },
+  {
+    "wordId": "dutiyo",
+    "word": "dutiyo",
+    "meaning": "the second",
+    "formation": ""
+  },
+  {
+    "wordId": "etamattham",
+    "word": "etamatthaṃ",
+    "meaning": "this + meaning/matter/goal",
+    "formation": "etaṃ + atthaṃ"
+  },
+  {
+    "wordId": "katakaraniyo",
+    "word": "katakaraṇīyo",
+    "meaning": "done+ought to be done",
+    "formation": "kata/pp.+karaṇīyo/ger"
+  },
+  {
+    "wordId": "katama",
+    "word": "katama",
+    "meaning": "interr. what?",
+    "formation": ""
+  },
+  {
+    "wordId": "kevalaparipunnam",
+    "word": "kevalaparipuṇṇaṃ",
+    "meaning": "complete+pref.+full",
+    "formation": "kevala+pari+puṇṇaṃ"
+  },
+  {
+    "wordId": "khinasavo",
+    "word": "khīṇāsavo",
+    "meaning": "destroyed, exhausted, ‘without’ impurities (lit.: that which flows—intoxicating extract)",
+    "formation": "khīṇa/pp.+āsavo"
+  },
+  {
+    "wordId": "lokanukampaya",
+    "word": "lokānukampāya",
+    "meaning": "the world + pref. +trembling",
+    "formation": "loka+anu+kampā(f.) +āya"
+  },
+  {
+    "wordId": "lokavidu",
+    "word": "lokavidū",
+    "meaning": "the world + clever, wise",
+    "formation": "loka+vidū(adj.)"
+  },
+  {
+    "wordId": "majjhekalyanam",
+    "word": "majjhekalyāṇaṃ",
+    "meaning": "in the middle +beneficial",
+    "formation": "majjhe+kalyāṇaṃ"
+  },
+  {
+    "wordId": "ohitabharo",
+    "word": "ohitabhāro",
+    "meaning": "laid down + burden",
+    "formation": "ohita/pp.+bhāro"
+  },
+  {
+    "wordId": "patipado",
+    "word": "pāṭipado",
+    "meaning": "following the path in the correct manner",
+    "formation": "pāṭipada(adj.)"
+  },
+  {
+    "wordId": "pathamo",
+    "word": "paṭhamo",
+    "meaning": "the first",
+    "formation": ""
+  },
+  {
+    "wordId": "pakaseti",
+    "word": "pakāseti",
+    "meaning": "to make known, explain, illuminate",
+    "formation": "caus. of pakāsati"
+  },
+  {
+    "wordId": "parikkhinabhavasamyojano",
+    "word": "parikkhīṇabhavasaṃyojano",
+    "meaning": "pref.+destroyed +becoming +fetters",
+    "formation": "pari+k+khīṇa+bhava+saṃyojano"
+  },
+  {
+    "wordId": "parisuddham",
+    "word": "parisuddhaṃ",
+    "meaning": "pref. +pure",
+    "formation": "pari+suddha+ṃ"
+  },
+  {
+    "wordId": "pariyosanakalyanam",
+    "word": "pariyosānakalyāṇaṃ",
+    "meaning": "end, conclusion + beneficial",
+    "formation": "pariyosāna+kalyāṇa+ṃ"
+  },
+  {
+    "wordId": "purisadammasarathi",
+    "word": "purisadammasārathi",
+    "meaning": "men + to be taimed (see: dameti) + trainer (the trainer of the mankind that needs to tamed)",
+    "formation": "purisa+damma/pp.+sārathi"
+  },
+  {
+    "wordId": "sattham",
+    "word": "sātthaṃ",
+    "meaning": "with meaning",
+    "formation": "sa + attha+ṃ"
+  },
+  {
+    "wordId": "savako",
+    "word": "sāvako",
+    "meaning": "disciple, pupil",
+    "formation": ""
+  },
+  {
+    "wordId": "silavatupapanno",
+    "word": "sīlavatūpapanno",
+    "meaning": "morality+practise+being furnished with",
+    "formation": "sīla+vata+ūpapanno/pp."
+  },
+  {
+    "wordId": "sabyanjanam",
+    "word": "sabyañjanaṃ",
+    "meaning": "with letter, according to the letter",
+    "formation": "sa+byañjanaṃ"
+  },
+  {
+    "wordId": "sammadanna",
+    "word": "sammadaññā",
+    "meaning": "right + knowledge",
+    "formation": "samma+d+aññā"
+  },
+  {
+    "wordId": "buddhanamuppado",
+    "word": "buddhānamuppādo",
+    "meaning": "of the buddhas + arising, apearance",
+    "formation": "buddha+ānam+uppādo"
+  },
+  {
+    "wordId": "jivitam",
+    "word": "jīvitaṃ",
+    "meaning": "life, living",
+    "formation": "jīvita (pp. of jivati)+ ṃ"
+  },
+  {
+    "wordId": "kiccho",
+    "word": "kiccho",
+    "meaning": "adj. with difficulity, difficult, hard",
+    "formation": ""
+  },
+  {
+    "wordId": "maccana",
+    "word": "maccāna",
+    "meaning": "of a mortal",
+    "formation": "macca+ āna"
+  },
+  {
+    "wordId": "manussapatilabho",
+    "word": "manussapaṭilābho",
+    "meaning": "mankind + pref. + attainment, gain",
+    "formation": "manussa+paṭi+lābho"
+  },
+  {
+    "wordId": "saddhammassavanam",
+    "word": "saddhammassavanaṃ",
+    "meaning": "good, true + dhamma + hearing, listening",
+    "formation": "sad+dhamma+s+savanaṃ"
+  },
+  {
+    "wordId": "accayena",
+    "word": "accayena",
+    "meaning": "lapse, passing away + instr. : after the laps of…",
+    "formation": "accaya+ena"
+  },
+  {
+    "wordId": "adhiccamidam",
+    "word": "adhiccamidaṃ",
+    "meaning": "without + a cause +this, unlikely",
+    "formation": "a+dhicca+m+idaṃ"
+  },
+  {
+    "wordId": "amusmim",
+    "word": "amusmiṃ",
+    "meaning": "that, that one",
+    "formation": "asu (dem.pron.) + loc."
+  },
+  {
+    "wordId": "api",
+    "word": "api",
+    "meaning": "indecl. : moreover, further on",
+    "formation": ""
+  },
+  {
+    "wordId": "dakkhino",
+    "word": "dakkhiṇo",
+    "meaning": "right, southern",
+    "formation": ""
+  },
+  {
+    "wordId": "dippati",
+    "word": "dippati",
+    "meaning": "to shine (forth)",
+    "formation": ""
+  },
+  {
+    "wordId": "dukkhanirodhagamini",
+    "word": "dukkhanirodhagāminī",
+    "meaning": "the method of walking the path of ….",
+    "formation": "dukkha + nirodha + gāminī"
+  },
+  {
+    "wordId": "dukkhanirodho",
+    "word": "dukkhanirodho",
+    "meaning": "eradication, cessation + suffering",
+    "formation": "dukkha + nirodho"
+  },
+  {
+    "wordId": "dukkhasamudayo",
+    "word": "dukkhasamudayo",
+    "meaning": "arising, origination + suffering",
+    "formation": "dukkha + sam + udayo"
+  },
+  {
+    "wordId": "dukkho",
+    "word": "dukkho",
+    "meaning": "suffering",
+    "formation": ""
+  },
+  {
+    "wordId": "ekacchiggaḷam",
+    "word": "ekacchiggaḷaṃ",
+    "meaning": "one + hole",
+    "formation": "eka+c+chiggaḷaṃ"
+  },
+  {
+    "wordId": "ekodakaassa",
+    "word": "ekodakāassa",
+    "meaning": "one + water + would be",
+    "formation": "eka+odakā+assa"
+  },
+  {
+    "wordId": "givam",
+    "word": "gīvaṃ",
+    "meaning": "the neck, throat",
+    "formation": "gīvā+ṃ"
+  },
+  {
+    "wordId": "kano",
+    "word": "kāṇo",
+    "meaning": "blind",
+    "formation": ""
+  },
+  {
+    "wordId": "kacchapo",
+    "word": "kacchapo",
+    "meaning": "turtle, tortoise",
+    "formation": "kacchapo"
+  },
+  {
+    "wordId": "karaniyo",
+    "word": "karaṇīyo",
+    "meaning": "what ought to be done, duty, obligation",
+    "formation": "caroti + ger."
+  },
+  {
+    "wordId": "kim",
+    "word": "kiṃ",
+    "meaning": "what is it then",
+    "formation": "nu kho"
+  },
+  {
+    "wordId": "mahapathavi",
+    "word": "mahāpathavī",
+    "meaning": "great + earth",
+    "formation": "mahā+pathav"
+  },
+  {
+    "wordId": "mannatha",
+    "word": "maññatha",
+    "meaning": "what do you think, believe, imagine",
+    "formation": "maññati+a+tha"
+  },
+  {
+    "wordId": "patipada",
+    "word": "paṭipadā",
+    "meaning": "means of reaching a destination",
+    "formation": "paṭi + padā"
+  },
+  {
+    "wordId": "pacchimo",
+    "word": "pacchimo",
+    "meaning": "western",
+    "formation": ""
+  },
+  {
+    "wordId": "pakkhipeyya",
+    "word": "pakkhipeyya",
+    "meaning": "to throw",
+    "formation": "pakkhipeti +eyya"
+  },
+  {
+    "wordId": "paveseyya",
+    "word": "paveseyyā",
+    "meaning": "caus.: to make enter",
+    "formation": "paveseti + eyyā"
+  },
+  {
+    "wordId": "puratthimo",
+    "word": "puratthimo",
+    "meaning": "eastern",
+    "formation": ""
+  },
+  {
+    "wordId": "samhareyya",
+    "word": "saṃhareyya",
+    "meaning": "to draw, collect, take up, pull, push",
+    "formation": "saṃharati +eyya"
+  },
+  {
+    "wordId": "sakim",
+    "word": "sakiṃ",
+    "meaning": "once",
+    "formation": "sakiṃ (adv.)"
+  },
+  {
+    "wordId": "seyyathapi",
+    "word": "seyyathāpi",
+    "meaning": "just so, as alike",
+    "formation": "seyyathā + pi"
+  },
+  {
+    "wordId": "tamenam",
+    "word": "tamenaṃ",
+    "meaning": "this + that (that very)",
+    "formation": "taṃ + enaṃ"
+  },
+  {
+    "wordId": "tasmatiha",
+    "word": "tasmātiha",
+    "meaning": "accordingly (thus surely indeed)",
+    "formation": "tasmā/abl.+iti+ha/emph.part."
+  },
+  {
+    "wordId": "ummujjeyya",
+    "word": "ummujjeyya",
+    "meaning": "emerge, rise up",
+    "formation": "ummujjati +eyya"
+  },
+  {
+    "wordId": "uttaro",
+    "word": "uttaro",
+    "meaning": "northern",
+    "formation": ""
+  },
+  {
+    "wordId": "vato",
+    "word": "vāto",
+    "meaning": "wind",
+    "formation": ""
+  },
+  {
+    "wordId": "vassasatassa",
+    "word": "vassasatassa",
+    "meaning": "a year + hundred + of",
+    "formation": "vassa+sata+assa"
+  },
+  {
+    "wordId": "yogo",
+    "word": "yogo",
+    "meaning": "practise",
+    "formation": ""
+  },
+  {
+    "wordId": "yugam",
+    "word": "yugaṃ",
+    "meaning": "yoke",
+    "formation": "yuga+ṃ"
+  },
+  {
+    "wordId": "appamadena",
+    "word": "appamādena",
+    "meaning": "without negligence",
+    "formation": "ap+pamāda+ena"
+  },
+  {
+    "wordId": "gandhakutiya",
+    "word": "gandhakuṭiyā",
+    "meaning": "smell, odour, perfume + cabin, hut+ from",
+    "formation": "gandha+kuṭī+iyā"
+  },
+  {
+    "wordId": "katapurebhattakicco",
+    "word": "katapurebhattakicco",
+    "meaning": "fulfilled+ earlier, before + meal + obligations ; i.e.: having fulfilled the duties of the morning",
+    "formation": "kata+ pure + bhatta+ kicco"
+  },
+  {
+    "wordId": "manussattapatilabho",
+    "word": "manussattapaṭilābho",
+    "meaning": "human + being + acquisition i.e.: the attainment of a life as human",
+    "formation": "manussa+ satta+ paṭi+ lābho"
+  },
+  {
+    "wordId": "nisiditva",
+    "word": "nisīditvā",
+    "meaning": "sitting/ having sat down",
+    "formation": "ni+ sīditati +vā/ger."
+  },
+  {
+    "wordId": "ovadati",
+    "word": "ovadati",
+    "meaning": "to give advise, exhort, instruct",
+    "formation": "o+ vadati"
+  },
+  {
+    "wordId": "pade",
+    "word": "pāde",
+    "meaning": "the feet",
+    "formation": "pāda + e"
+  },
+  {
+    "wordId": "pabbajja",
+    "word": "pabbajjā",
+    "meaning": "leaving the world, one who has gone into homelessnes to live as an ascetic or recluse",
+    "formation": "pabbajjā"
+  },
+  {
+    "wordId": "pakkhaletva",
+    "word": "pakkhāletvā",
+    "meaning": "washing , having washed",
+    "formation": "pa+k+khāleti+vā"
+  },
+  {
+    "wordId": "sampadetha",
+    "word": "sampādetha",
+    "meaning": "strive!, accomplish!",
+    "formation": "sam+pādeti +tha/2.n d.imp."
+  },
+  {
+    "wordId": "sampatti",
+    "word": "sampatti",
+    "meaning": "attainment",
+    "formation": "sam+patti"
+  },
+  {
+    "wordId": "upatthane",
+    "word": "upaṭṭhāne",
+    "meaning": "ministering, attending to",
+    "formation": "upa+ṭ+ṭhāna +e"
+  },
+  {
+    "wordId": "ajaḷata",
+    "word": "ajaḷatā",
+    "meaning": "not + dull, stupid (being of no stupidity)",
+    "formation": "a+jaḷa+tā"
+  },
+  {
+    "wordId": "aneḷamugata",
+    "word": "aneḷamūgatā",
+    "meaning": "not + deaf + dumb",
+    "formation": "an+eḷa+mūga+tā"
+  },
+  {
+    "wordId": "ariyayatane",
+    "word": "ariyāyatane",
+    "meaning": "the region of the Ariyas",
+    "formation": "ariya+āyatane"
+  },
+  {
+    "wordId": "avekallata",
+    "word": "avekallatā",
+    "meaning": "without + deficiency",
+    "formation": "a+vekallatā"
+  },
+  {
+    "wordId": "chando",
+    "word": "chando",
+    "meaning": "resolution, intention, will",
+    "formation": ""
+  },
+  {
+    "wordId": "channam",
+    "word": "channaṃ",
+    "meaning": "of six",
+    "formation": "cha+gen."
+  },
+  {
+    "wordId": "dhamme",
+    "word": "dhamme",
+    "meaning": "in the dhamma",
+    "formation": "dhamma+e"
+  },
+  {
+    "wordId": "indriyanam",
+    "word": "indriyānaṃ",
+    "meaning": "of sense faculties",
+    "formation": "indriya+ānaṃ"
+  },
+  {
+    "wordId": "kusale",
+    "word": "kusale",
+    "meaning": "fortunate, beneficial",
+    "formation": "kusala+e"
+  },
+  {
+    "wordId": "paccajati",
+    "word": "paccājāti",
+    "meaning": "being reborn, coming to new existence",
+    "formation": "paṭi+ā+jāti"
+  },
+  {
+    "wordId": "deseta",
+    "word": "desetā",
+    "meaning": "instructor, teacher",
+    "formation": "desetar, nom.sing."
+  },
+  {
+    "wordId": "dhammavinayassa",
+    "word": "dhammavinayassa",
+    "meaning": "teaching + discipline + of",
+    "formation": "dhammavinayassa"
+  },
+  {
+    "wordId": "dullabho",
+    "word": "dullabho",
+    "meaning": "hard, difficult + attainment, acquisition",
+    "formation": "du+ l+labho"
+  },
+  {
+    "wordId": "katannu",
+    "word": "kataññū",
+    "meaning": "grateful, lit.: knowing what has been done (for oneself)",
+    "formation": "kata+aññū"
+  },
+  {
+    "wordId": "katavedi",
+    "word": "katavedī",
+    "meaning": "grateful, lit.: understanding what has been done (for oneself)",
+    "formation": "kata+vedī"
+  },
+  {
+    "wordId": "tathagatappaveditassa",
+    "word": "tathāgatappaveditassa",
+    "meaning": "made known by a tathāgata",
+    "formation": "tathā+gata+p+ pa+vedita/pp.+ssa"
+  },
+  {
+    "wordId": "tinnam",
+    "word": "tiṇṇaṃ",
+    "meaning": "three",
+    "formation": "ti+gen."
+  },
+  {
+    "wordId": "cakkavatti",
+    "word": "cakkavattī",
+    "meaning": "someone who sets rolling the wheel",
+    "formation": "cakka+vattin"
+  },
+  {
+    "wordId": "dveme",
+    "word": "dveme",
+    "meaning": "these two",
+    "formation": "dve+ime"
+  },
+  {
+    "wordId": "dvinnam",
+    "word": "dvinnaṃ",
+    "meaning": "of two",
+    "formation": "dve+gen."
+  },
+  {
+    "wordId": "puggalo",
+    "word": "puggalo",
+    "meaning": "an individual, a person",
+    "formation": ""
+  },
+  {
+    "wordId": "raja",
+    "word": "rājā",
+    "meaning": "king",
+    "formation": "rājā (nom. sing)"
+  },
+  {
+    "wordId": "acchariyamanusso",
+    "word": "acchariyamanusso",
+    "meaning": "wonderful, exceptional + man",
+    "formation": "acchariya+manusso"
+  },
+  {
+    "wordId": "anutappa",
+    "word": "anutappā",
+    "meaning": "to be regretted",
+    "formation": "anu+tappa/grd."
+  },
+  {
+    "wordId": "dullabho",
+    "word": "dullabho",
+    "meaning": "rare, difficult attainement",
+    "formation": "du+l+labho"
+  },
+  {
+    "wordId": "ekapuggalo",
+    "word": "ekapuggalo",
+    "meaning": "one +person",
+    "formation": "eka+puggalo"
+  },
+  {
+    "wordId": "kalakiriya",
+    "word": "kālakiriyā",
+    "meaning": "time + doing, death, lit: fulfilling one’s time",
+    "formation": "kāla+kiriyā/abstr. of karoti"
+  },
+  {
+    "wordId": "katamo",
+    "word": "katamo",
+    "meaning": "interr. which one?",
+    "formation": ""
+  },
+  {
+    "wordId": "lokasmim",
+    "word": "lokasmiṃ",
+    "meaning": "world + in the",
+    "formation": "loka+asmiṃ"
+  },
+  {
+    "wordId": "patubhavo",
+    "word": "pātubhāvo",
+    "meaning": "appearance, manifestation",
+    "formation": "pātur/indecl.+bhāvo"
+  },
+  {
     "wordId": "bhagava",
     "word": "bhagavā",
     "meaning": "freed from all impurities",
