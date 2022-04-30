@@ -3,18 +3,18 @@
     "wordId": "ekamantam",
     "word": "ekamantaṃ",
     "meaning": "one + end,side",
-    "formation": "eka+ m+ anta\t"
+    "formation": "eka+ m+ anta"
   }, 
   {
     "wordId": "etadavoca",
     "word": "etadavoca",
-    "meaning": "",
-    "formation": "eta+ d+ avoca\tthus + spoke"
+    "meaning": "thus + spoke",
+    "formation": "eta+ d+ avoca"
   }, 
   {
     "wordId": "katham",
     "word": "kathaṃ",
-    "meaning": "interrog.\twhat?",
+    "meaning": "interrog. what?",
     "formation": ""
   }, 
   {
@@ -188,7 +188,8 @@
   {
     "wordId": "atha",
     "word": "atha",
-    "formation": "indecl. copulative: and then,then"
+    "meaning": "indecl. copulative: and then,then",
+    "formation": ""
   }, 
   {
     "wordId": "cittaklesehi",
@@ -199,7 +200,8 @@
   {
     "wordId": "duramam",
     "word": "dūramaṃ",
-    "formation": "far"
+    "meaning": "far",
+    "formation": ""
   }, 
   {
     "wordId": "dhammanuvattino",
