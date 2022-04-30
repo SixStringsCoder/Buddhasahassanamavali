@@ -1,5 +1,167 @@
 [
   {
+    "wordId": "aramaramaneyyakam",
+    "word": "ārāmarāmaṇeyyakaṃ",
+    "meaning": "pleasure parks + enjoyable",
+    "formation": "ārāma+rāmaṇīya+ (adj./altern.:eyya)+kaṃ"
+  }, 
+  {
+    "wordId": "appamattakam",
+    "word": "appamattakaṃ",
+    "meaning": "of little + measure: of rare occurence",
+    "formation": "appa + matta + ka+ṃ"
+  }, 
+  {
+    "wordId": "atthamannatum",
+    "word": "atthamaññātuṃ",
+    "meaning": "meaning + considering, understanding",
+    "formation": "attha + m + aññātuṃ"
+  }, 
+  {
+    "wordId": "avijjagata",
+    "word": "avijjāgatā",
+    "meaning": "ignorance + gone with",
+    "formation": "avijjā+gatā"
+  }, 
+  {
+    "wordId": "avinnataresu",
+    "word": "aviññātāresu",
+    "meaning": "amongst + unlearned, ignorant",
+    "formation": "a+viññātār+esu"
+  }, 
+  {
+    "wordId": "bhumiramaneyyakam",
+    "word": "bhūmirāmaṇeyyakaṃ",
+    "meaning": "places + enjoyable",
+    "formation": "bhūmi +rāmaṇeyya+kaṃ"
+  }, 
+  {
+    "wordId": "dharenti",
+    "word": "dhārenti",
+    "meaning": "they take up,grasp",
+    "formation": ""
+  }, 
+  {
+    "wordId": "dhatanam",
+    "word": "dhātānaṃ",
+    "meaning": "taken up",
+    "formation": "dhāta/pp. +ānaṃ/gen.dat."
+  }, 
+  {
+    "wordId": "khanukantakatthanam",
+    "word": "khāṇukaṇṭakaṭṭhānaṃ",
+    "meaning": "stumps,trunks + thorny + places",
+    "formation": "khāṇu+kaṇṭaka+ṭ+ṭhānaṃ"
+  }, 
+  {
+    "wordId": "milakkhesu",
+    "word": "milakkhesu",
+    "meaning": "amongst barbarians, outcasts",
+    "formation": "milakkha+esu"
+  }, 
+  {
+    "wordId": "nadividuggam",
+    "word": "nadīviduggaṃ",
+    "meaning": "river, riverford + difficult",
+    "formation": "nadī+vi+duggaṃ"
+  }, 
+  {
+    "wordId": "patibala",
+    "word": "paṭibalā",
+    "meaning": "able, competent",
+    "formation": "paṭibalā"
+  }, 
+  {
+    "wordId": "patipajjanti",
+    "word": "paṭipajjanti",
+    "meaning": "they enter upon a path",
+    "formation": "paṭi+ pajjanti"
+  }, 
+  {
+    "wordId": "pabbatavisamam",
+    "word": "pabbatavisamaṃ",
+    "meaning": "mountain + uneven",
+    "formation": "pabbata+visamaṃ"
+  }, 
+  {
+    "wordId": "paccajayanti",
+    "word": "paccājāyanti",
+    "meaning": "getting reborn in a new existence",
+    "formation": "paṭi + ā + jāyanti"
+  }, 
+  {
+    "wordId": "paccantimesu",
+    "word": "paccantimesu",
+    "meaning": "bordering, neighbouring",
+    "formation": "paccantima +esu"
+  }, 
+  {
+    "wordId": "pannacakkhuna",
+    "word": "paññācakkhunā",
+    "meaning": "wisdom + eye (endowed with)",
+    "formation": "paññā+ cakkhunā"
+  }, 
+  {
+    "wordId": "pokkharaniramaneyyakam",
+    "word": "pokkharaṇirāmaṇeyyakaṃ",
+    "meaning": "lotusponds + enjoyable",
+    "formation": "pokkharaṇi+rāmaṇeyyakaṃ"
+  }, 
+  {
+    "wordId": "samvejaniyesu",
+    "word": "saṃvejaniyesu",
+    "meaning": "amongst those to be moved",
+    "formation": "saṃvejaniya + esu"
+  }, 
+  {
+    "wordId": "samvijjanti",
+    "word": "saṃvijjanti",
+    "meaning": "pl.\tto be moved,stirred,agitated",
+    "formation": ""
+  }, 
+  {
+    "wordId": "sammuḷha",
+    "word": "sammūḷhā",
+    "meaning": "bewildered, ignorant",
+    "formation": "saṃ+mūḷhā"
+  }, 
+  {
+    "wordId": "subhasitadubbhasitassa",
+    "word": "subhāsitadubbhāsitassa",
+    "meaning": "well spoken + badly spoken",
+    "formation": "su+bhāsita+du+b+bhāsita+assa"
+  }, 
+  {
+    "wordId": "thanesu",
+    "word": "ṭhānesu",
+    "meaning": "at, in places",
+    "formation": "ṭhāna + esu"
+  }, 
+  {
+    "wordId": "thalaja",
+    "word": "thalajā",
+    "meaning": "land+ born",
+    "formation": "thala+jā"
+  }, 
+  {
+    "wordId": "ukkulavikulam",
+    "word": "ukkūlavikūlaṃ",
+    "meaning": "steep slopes + down slopes",
+    "formation": "ud+kūla+vi+kūlaṃ"
+  }, 
+  {
+    "wordId": "upaparikkhanti",
+    "word": "upaparikkhanti",
+    "meaning": "they test, reflect, investigate",
+    "formation": "upa+parikkhanti"
+  }, 
+  {
+    "wordId": "vanaramaneyyakam",
+    "word": "vanarāmaṇeyyakaṃ",
+    "meaning": "forest + enjoyable",
+    "formation": "vana+rāmaṇeyyakaṃ"
+  },
+  {
     "wordId": "apara",
     "word": "apārā",
     "meaning": "not beyond",
