@@ -1,5 +1,363 @@
 [
   {
+    "wordId": "ekamantam",
+    "word": "ekamantaṃ",
+    "meaning": "one + end,side",
+    "formation": "eka+ m+ anta\t"
+  }, 
+  {
+    "wordId": "etadavoca",
+    "word": "etadavoca",
+    "meaning": "",
+    "formation": "eta+ d+ avoca\tthus + spoke"
+  }, 
+  {
+    "wordId": "katham",
+    "word": "kathaṃ",
+    "meaning": "interrog.\twhat?",
+    "formation": ""
+  }, 
+  {
+    "wordId": "miccha",
+    "word": "miccha",
+    "meaning": "wrong",
+    "formation": ""
+  }, 
+  {
+    "wordId": "ajivo",
+    "word": "ājīvo",
+    "meaning": "livlihood",
+    "formation": ""
+  }, 
+  {
+    "wordId": "ditthi",
+    "word": "diṭṭhi",
+    "meaning": "view",
+    "formation": ""
+  }, 
+  {
+    "wordId": "kammanto",
+    "word": "kammanto",
+    "meaning": "action",
+    "formation": ""
+  }, 
+  {
+    "wordId": "nanam",
+    "word": "ñāṇaṃ",
+    "meaning": "wisdom",
+    "formation": ""
+  }, 
+  {
+    "wordId": "sankappo",
+    "word": "saṅkappo",
+    "meaning": "thought",
+    "formation": ""
+  }, 
+  {
+    "wordId": "samadhi",
+    "word": "samādhi",
+    "meaning": "concentration",
+    "formation": ""
+  }, 
+  {
+    "wordId": "sati",
+    "word": "sati",
+    "meaning": "awareness",
+    "formation": ""
+  }, 
+  {
+    "wordId": "vaca",
+    "word": "vācā",
+    "meaning": "speech",
+    "formation": ""
+  }, 
+  {
+    "wordId": "vayamo",
+    "word": "vāyāmo",
+    "meaning": "effort",
+    "formation": ""
+  }, 
+  {
+    "wordId": "vimutti",
+    "word": "vimutti",
+    "meaning": "liberation",
+    "formation": ""
+  }, 
+  {
+    "wordId": "nisidi",
+    "word": "nisīdi",
+    "meaning": "aor.\tsat down",
+    "formation": ""
+  }, 
+  {
+    "wordId": "nisinno",
+    "word": "nisinno",
+    "meaning": "pp.\thaving sat down",
+    "formation": ""
+  }, 
+  {
+    "wordId": "orima",
+    "word": "orima",
+    "meaning": "the lowest,on this side",
+    "formation": ""
+  }, 
+  {
+    "wordId": "parimam",
+    "word": "pārimaṃ",
+    "meaning": "the further,on the other side",
+    "formation": ""
+  }, 
+  {
+    "wordId": "saraniya",
+    "word": "sāraṇīya",
+    "meaning": "adj.\tcourteous,friendly",
+    "formation": ""
+  }, 
+  {
+    "wordId": "saddhim",
+    "word": "saddhiṃ",
+    "meaning": "together with",
+    "formation": ""
+  }, 
+  {
+    "wordId": "samma",
+    "word": "samma",
+    "meaning": "right",
+    "formation": ""
+  }, 
+  {
+    "wordId": "sammodaniyam",
+    "word": "sammodanīyaṃ",
+    "meaning": "to be pleasant",
+    "formation": "sa+m+modanīyaṃ"
+  }, 
+  {
+    "wordId": "sammodi",
+    "word": "sammodi",
+    "meaning": "to rejoice,delight",
+    "formation": "aor. of sammodati"
+  }, 
+  {
+    "wordId": "tenupasankami",
+    "word": "tenupasaṅkami",
+    "meaning": "there + he approached",
+    "formation": "tene+ upasaṅkami"
+  }, 
+  {
+    "wordId": "upasankamitva",
+    "word": "upasaṅkamitvā",
+    "meaning": "having approached",
+    "formation": "upasaṅkamat (ger.)"
+  }, 
+  {
+    "wordId": "vitisaretva",
+    "word": "vītisāretvā",
+    "meaning": "having addressed,made pass between",
+    "formation": "vītisārett (ger.)"
+  },
+  {
+    "wordId": "adanapatinissagge",
+    "word": "ādānapaṭinissagge",
+    "meaning": "clinging,craving + giving up,renouncing",
+    "formation": "ādāna+paṭi+nissagga+e"
+  }, 
+  {
+    "wordId": "akincano",
+    "word": "akiñcano",
+    "meaning": "having nothing",
+    "formation": "adj."
+  }, 
+  {
+    "wordId": "anupadaya",
+    "word": "anupādāya",
+    "meaning": "not + holding on to: free from clinging",
+    "formation": "an + upādāya (neg. absolutive of upādiyati)"
+  }, 
+  {
+    "wordId": "appaka",
+    "word": "appakā",
+    "meaning": "not many,few",
+    "formation": "appa + ka + ā"
+  }, 
+  {
+    "wordId": "athayam",
+    "word": "athāyaṃ",
+    "meaning": "and then + this,this very",
+    "formation": "atha + ayaṃ"
+  }, 
+  {
+    "wordId": "atha",
+    "word": "atha",
+    "formation": "indecl. copulative: and then,then"
+  }, 
+  {
+    "wordId": "cittaklesehi",
+    "word": "cittaklesehi",
+    "meaning": "mind + with impurity,stain",
+    "formation": "citta + klesa + ehi"
+  }, 
+  {
+    "wordId": "duramam",
+    "word": "dūramaṃ",
+    "formation": "far"
+  }, 
+  {
+    "wordId": "dhammanuvattino",
+    "word": "dhammānuvattino",
+    "meaning": "dhamma + following accordingly",
+    "formation": "dhamma + anu + vattino"
+  }, 
+  {
+    "wordId": "hitva",
+    "word": "hitvā",
+    "meaning": "abandoning,renouncing",
+    "formation": "ger. of jahāti/jahati"
+  }, 
+  {
+    "wordId": "itara",
+    "word": "itarā",
+    "meaning": "other",
+    "formation": ""
+  }, 
+  {
+    "wordId": "jana",
+    "word": "janā",
+    "meaning": "people, folks",
+    "formation": ""
+  }, 
+  {
+    "wordId": "jutimanto",
+    "word": "jutimanto",
+    "meaning": "full of splendor",
+    "formation": "juti + mant + o"
+  }, 
+  {
+    "wordId": "kame",
+    "word": "kāme",
+    "meaning": "desires",
+    "formation": "kāma + e"
+  }, 
+  {
+    "wordId": "kanham",
+    "word": "kaṇhaṃ",
+    "meaning": "black, dark evil, wicked",
+    "formation": "kaṇha"
+  }, 
+  {
+    "wordId": "maccudheyya",
+    "word": "maccudheyya",
+    "meaning": "death + realm, sphere",
+    "formation": "maccu + dheyya"
+  }, 
+  {
+    "wordId": "oka",
+    "word": "okā",
+    "meaning": "home + no home + arrived",
+    "formation": "anokamāgamma oka + an +oka +m+āgamma,"
+  }, 
+  {
+    "wordId": "paragamino",
+    "word": "pāragāmino",
+    "meaning": "beyond + going",
+    "formation": "pāra +gāmino"
+  }, 
+  {
+    "wordId": "paramessanti",
+    "word": "pāramessanti",
+    "meaning": "beyond + will go,run",
+    "formation": "pāra+m+eti + fut. 3. pl."
+  }, 
+  {
+    "wordId": "paja",
+    "word": "pajā",
+    "meaning": "progeny, offspring, men",
+    "formation": ""
+  }, 
+  {
+    "wordId": "panḍito",
+    "word": "paṇḍito",
+    "meaning": "wise one",
+    "formation": ""
+  }, 
+  {
+    "wordId": "parinibbuta",
+    "word": "parinibbutā",
+    "meaning": "completely + calmed, extinguished",
+    "formation": "pari + nibbutā"
+  }, 
+  {
+    "wordId": "pariyodapeyya",
+    "word": "pariyodapeyya",
+    "meaning": "completely + should clean",
+    "formation": "pari + y + odapeti + opt."
+  }, 
+  {
+    "wordId": "rata",
+    "word": "ratā",
+    "meaning": "pp. delighting in",
+    "formation": ""
+  }, 
+  {
+    "wordId": "sambodhiyangesu",
+    "word": "sambodhiyaṅgesu",
+    "meaning": "with + enlightenment + limb",
+    "formation": "sam+bodhi+y+aṅga+esu"
+  }, 
+  {
+    "wordId": "sammadakkhate",
+    "word": "sammadakkhāte",
+    "meaning": "well + explained,proclaimed",
+    "formation": "samma + d + akkhāte"
+  }, 
+  {
+    "wordId": "subhavitam",
+    "word": "subhāvitaṃ",
+    "meaning": "well + made,cultivated,developed",
+    "formation": "su + bhāvitaṃ"
+  }, 
+  {
+    "wordId": "suduttaram",
+    "word": "suduttaraṃ",
+    "meaning": "difficult + crossing over,going beyond",
+    "formation": "su + d +uttara + ṃ"
+  }, 
+  {
+    "wordId": "sukka",
+    "word": "sukka",
+    "meaning": "white,pure",
+    "formation": ""
+  }, 
+  {
+    "wordId": "tiramevanudhavati",
+    "word": "tīramevānudhāvati",
+    "meaning": "shore + this + follow + run along",
+    "formation": "tīram+eva+anu+dhāvati"
+  }, 
+  {
+    "wordId": "tatrabhiratimiccheyya",
+    "word": "tatrābhiratimiccheyya",
+    "meaning": "thus+highest+pleasure+should wish",
+    "formation": "tatra+ābhi+rati+m+iccheyya"
+  }, 
+  {
+    "wordId": "vippahaya",
+    "word": "vippahāya",
+    "meaning": "abandoning",
+    "formation": "vi + p + pahāya (ger.)"
+  }, 
+  {
+    "wordId": "viveke",
+    "word": "viveke",
+    "meaning": "detachement,solitude,loneliness",
+    "formation": "detachement,solitude,loneliness"
+  }, 
+  {
+    "wordId": "yattha",
+    "word": "yattha",
+    "meaning": "adv. where,at which place",
+    "formation": ""
+  },
+  {
     "wordId": "adikalyanam",
     "word": "ādikalyāṇaṃ",
     "meaning": "in the beginning + beneficial",
