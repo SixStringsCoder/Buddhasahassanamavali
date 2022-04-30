@@ -88,10 +88,6 @@
     justify-content: center;
     align-items: center;
 	}
-		
-	div.closer-cont {
-		
-	}
 
   button {
     position: relative;
@@ -99,12 +95,19 @@
     border: none;
     background: transparent;
     text-align: center;
+    cursor: pointer;
   }
 
   button#reset-search {
     width: 40px;
     padding: 0;
     font-size: 40px;
+  }
+
+  button#reset-search:active {
+    width: 40px;
+    padding: 0;
+    font-size: 37px;
   }
 
   form {
@@ -132,8 +135,8 @@
     font-size: 35px;
   }
 
-  button:active {
-    background-color: #000;
+  button#submit-btn:active {
+    font-size: 32px;
   }
 
   ul {
@@ -166,5 +169,9 @@
     color: black;
     text-decoration: none;
     cursor: pointer;
+  }
+
+  .close:active {
+    color: red;
   }
 </style>

@@ -208,7 +208,7 @@
   div.title-heading-cont span {
     position: absolute;
     top: 0;
-    right: 90px;
+    right: 70px;
     font-size: 1rem;
     cursor: pointer;
   }
