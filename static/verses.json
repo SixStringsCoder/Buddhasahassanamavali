@@ -12,49 +12,49 @@
         "wordId": "bhagava",
         "word": "bhagavā",
         "meaning": "freed from all impurities",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 1"
       },
       {
         "wordId": "araham",
         "word": "arahaṃ",
         "meaning": "the Worthy One, sanctified",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 1"
       },
       {
         "wordId": "sammasambuddho",
         "word": "sammāsambuddho",
         "meaning": "enlightened by his own efforts",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 1"
       },
       {
         "wordId": "sayambhu",
         "word": "sayambhū",
         "meaning": "Lord of oneself",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 1"
       },
       {
         "wordId": "vijjacaranasampanno",
         "word": "vijjācaraṇasampanno",
         "meaning": "perfect in theory and practice",
-        "composition": "vijjā + caraṇa + sampanno wisdom + practise + being endowed",
+        "formation": "vijjā + caraṇa + sampanno wisdom + practise + being endowed",
         "related-verse": "Verse 1"
       },
       {
         "wordId": "panamati",
         "word": "paṇamati",
         "meaning": "to bent, bow",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 1"
       },
       {
         "wordId": "panamamyaham",
         "word": "paṇamāmyahaṃ",
         "meaning": "bent + I",
-        "composition": "paṇamāmi + ahaṃ",
+        "formation": "paṇamāmi + ahaṃ",
         "related-verse": "Verse 1"
       }
     ]
@@ -72,21 +72,21 @@
         "wordId": "purisadammasarathi",
         "word": "purisadammasārathī",
         "meaning": "trainer of men",
-        "composition": "purisa + damma + sārathī men + trainer + charioteer",
+        "formation": "purisa + damma + sārathī men + trainer + charioteer",
         "related-verse": "Verse 2"
       },
       {
         "wordId": "lokavidu-anuttaro",
         "word": "lokavidū anuttaro",
         "meaning": "incomparable knower of all the worlds",
-        "composition": "loka + vidū + anuttaro world/universe + knowing + incomparable/unrivalled",
+        "formation": "loka + vidū + anuttaro world/universe + knowing + incomparable/unrivalled",
         "related-verse": "Verse 2"
       },
       {
         "wordId": "vsattha-devamanussanam",
         "word": "vsatthā devamanussānaṃ",
         "meaning": "teacher of gods and men alike",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 2"
       }
     ]
@@ -104,42 +104,42 @@
         "wordId": "sugato",
         "word": "sugato",
         "meaning": "well-gone",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 3"
       },
       {
         "wordId": "sugado",
         "word": "sugado",
         "meaning": "endowed with eloquence",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 3"
       },
       {
         "wordId": "sami",
         "word": "sāmī",
         "meaning": "Lord of his own",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 3"
       },
       {
         "wordId": "sukhado",
         "word": "sukhado",
         "meaning": "giver of happiness",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 3"
       },
       {
         "wordId": "santidayako",
         "word": "santidāyako",
         "meaning": "dispenser of peace",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 3"
       },
       {
         "wordId": "sabbasattanukampako",
         "word": "sabbasattānukampako",
         "meaning": "compassionate towards all beings",
-        "composition": "sabba + sattā + anukampakoall + beings + having compassion, feeling pity",
+        "formation": "sabba + sattā + anukampakoall + beings + having compassion, feeling pity",
         "related-verse": "Verse 3"
       }
     ]
@@ -157,42 +157,42 @@
         "wordId": "sabbuttamo",
         "word": "sabbuttamo",
         "meaning": "highest, greatest of all",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 4"
       },
       {
         "wordId": "sattha",
         "word": "satthā",
         "meaning": "teacher",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 4"
       },
       {
         "wordId": "settho",
         "word": "seṭṭho",
         "meaning": "best",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 4"
       },
       {
         "wordId": "samanaggo",
         "word": "samaṇaggo",
         "meaning": "foremost among monks",
-        "composition": "samaṇa + aggo\tasetics + foremost",
+        "formation": "samaṇa + aggo\tasetics + foremost",
         "related-verse": "Verse 4"
       },
       {
         "wordId": "santissaro",
         "word": "santissaro",
         "meaning": "Lord of peace",
-        "composition": "santi + issaro,peace + lord/ruler",
+        "formation": "santi + issaro,peace + lord/ruler",
         "related-verse": "Verse 4"
       },
       {
         "wordId": "ariyadhammam-annasi",
         "word": "ariyadhammaṃ aññāsi",
         "meaning": "supreme knower of the Noble Dhamma",
-        "composition": "aññāsi: aor. of jānāti/ājānāti\t\tknow/understand",
+        "formation": "aññāsi: aor. of jānāti/ājānāti\t\tknow/understand",
         "related-verse": "Verse 4"
       }
     ]
@@ -210,35 +210,35 @@
         "wordId": "bhaggarago",
         "word": "bhaggarāgo",
         "meaning": "who had vanquished all cravings",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 5"
       },
       {
         "wordId": "bhaggadoso",
         "word": "bhaggadoso",
         "meaning": "had vanquished all aversions",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 5"
       },
       {
         "wordId": "bhaggamoho",
         "word": "bhaggamoho",
         "meaning": "had vanquished all ignorance",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 5"
       },
       {
         "wordId": "bhaggamano",
         "word": "bhaggamāno",
         "meaning": "had vanquished conceits",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 5"
       },
       {
         "wordId": "bhaggamayo",
         "word": "bhaggamāyo",
         "meaning": "had vanquished deceits",
-        "composition": "bhagga: pp. of bhañjati\tbreak, break up, destroy",
+        "formation": "bhagga: pp. of bhañjati\tbreak, break up, destroy",
         "related-verse": "Verse 5"
       }
     ]
@@ -256,42 +256,42 @@
         "wordId": "yathavadi",
         "word": "yathāvādī",
         "meaning": "as he teaches",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 6"
       },
       {
         "wordId": "tathakari",
         "word": "tathākārī",
         "meaning": "that he practises",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 6"
       },
       {
         "wordId": "tathapatto",
         "word": "tathapatto",
         "meaning": "attained the highest truth",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 6"
       },
       {
         "wordId": "tathagato",
         "word": "tathāgato",
         "meaning": "known as the Tathāgata",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 6"
       },
       {
         "wordId": "yathakari",
         "word": "yathākārī",
         "meaning": "practising",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 6"
       },
       {
         "wordId": "tathavadi",
         "word": "tathāvādī",
         "meaning": "whatever he teaches",
-        "composition": "yathā – tathā\t",
+        "formation": "yathā – tathā\t",
         "related-verse": "Verse 6"
       }
     ]
@@ -309,28 +309,28 @@
         "wordId": "dhammaniyame",
         "word": "dhammaniyāme",
         "meaning": "in laws of Dhamma",
-        "composition": "niyāme\t\tway, manner, method",
+        "formation": "niyāme\t\tway, manner, method",
         "related-verse": "Verse 7"
       },
       {
         "wordId": "kovido",
         "word": "kovido",
         "meaning": "skilful, wise",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 7"
       },
       {
         "wordId": "dhammatayapi",
         "word": "dhammatāyapi",
         "meaning": "in protection of Dhamma",
-        "composition": "tāyati + api\t\tprotect, preserve, nourish",
+        "formation": "tāyati + api\t\tprotect, preserve, nourish",
         "related-verse": "Verse 7"
       },
       {
         "wordId": "dhammatthitiya",
         "word": "dhammaṭṭhitiyā",
         "meaning": "the stability of Dhamma",
-        "composition": "ṭhiti: acc.\tstability, duration",
+        "formation": "ṭhiti: acc.\tstability, duration",
         "related-verse": "Verse 7"
       }
     ]
@@ -348,42 +348,42 @@
         "wordId": "vitarago",
         "word": "vītarāgo",
         "meaning": "free from all craving",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 8"
       },
       {
         "wordId": "vitadoso",
         "word": "vītadoso",
         "meaning": "free from all aversion",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 8"
       },
       {
         "wordId": "vitakodho-",
         "word": "vītakodho",
         "meaning": "without any illwill",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 8"
       },
       {
         "wordId": "vitabhayo",
         "word": "vītabhayo",
         "meaning": "without any fear",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 8"
       },
       {
         "wordId": "vitasavo",
         "word": "vītāsavo",
         "meaning": "freed from all mental defilements",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 8"
       },
       {
         "wordId": "vitamoho",
         "word": "vītamoho",
         "meaning": "free from any ignorance",
-        "composition": "vīta: pp. of eti\t\tgone, freed from, deprived",
+        "formation": "vīta: pp. of eti\t\tgone, freed from, deprived",
         "related-verse": "Verse 8"
       }
     ]
@@ -401,42 +401,42 @@
         "wordId": "mahaviro",
         "word": "mahāvīro",
         "meaning": "a hero in bravery",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 9"
       },
       {
         "wordId": "mahadhiro",
         "word": "mahādhīro",
         "meaning": "firm in wisdom",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 9"
       },
       {
         "wordId": "mahasuro",
         "word": "mahāsūro",
         "meaning": "great in courage",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 9"
       },
       {
         "wordId": "mahabbalo",
         "word": "mahabbalo",
         "meaning": "great in strength",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 9"
       },
       {
         "wordId": "mahamaracamu-",
         "word": "mahāmāracamū",
         "meaning": "great army of Mara",
-        "composition": "mahā + māra + camū great + Mara + army",
+        "formation": "mahā + māra + camū great + Mara + army",
         "related-verse": "Verse 9"
       },
       {
         "wordId": "maddi",
         "word": "maddi",
         "meaning": "vanquished, crushed",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 9"
       }
     ]
@@ -454,42 +454,42 @@
         "wordId": "mahasilo",
         "word": "mahāsīlo",
         "meaning": "perfect in observing all moral precepts",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 10"
       },
       {
         "wordId": "mahacitto",
         "word": "mahācitto",
         "meaning": "practised the highest stage of concentration",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 10"
       },
       {
         "wordId": "mahabudho",
         "word": "mahābudho",
         "meaning": "possessed great wisdom",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 10"
       },
       {
         "wordId": "mahamuni",
         "word": "mahāmuni",
         "meaning": "a supreme sage",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 10"
       },
       {
         "wordId": "mahamohodadhim",
         "word": "mahāmohodadhiṃ",
         "meaning": "great ocean of ignorance",
-        "composition": "mahā+moho + udadhiṃ\t\tgreat + ignorance + sea",
+        "formation": "mahā+moho + udadhiṃ\t\tgreat + ignorance + sea",
         "related-verse": "Verse 10"
       },
       {
         "wordId": "tinno-(pp.-of-tarati)",
         "word": "tiṇṇo (pp. of tarati)",
         "meaning": "crossed",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 10"
       }
     ]
@@ -507,35 +507,35 @@
         "wordId": "mahamoham",
         "word": "mahāmohaṃ",
         "meaning": "great ignorance",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 11"
       },
       {
         "wordId": "vinasesi-",
         "word": "vināsesi\t",
         "meaning": "destroyed",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 11"
       },
       {
         "wordId": "maharaganirodhako",
         "word": "mahārāganirodhako",
         "meaning": "stopped the surging of passions",
-        "composition": "mahā+raga + nirodhako,great + passions + obstruct",
+        "formation": "mahā+raga + nirodhako,great + passions + obstruct",
         "related-verse": "Verse 11"
       },
       {
         "wordId": "mahadosam",
         "word": "mahādosaṃ",
         "meaning": "great aversions",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 11"
       },
       {
         "wordId": "niddhamsesi",
         "word": "niddhaṃsesi",
         "meaning": "shattered completely",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 11"
       }
     ]
@@ -553,21 +553,21 @@
         "wordId": "mahanandisamucchinno",
         "word": "mahānandīsamucchinno",
         "meaning": "completely eradicated all craving",
-        "composition": "mahā+nandī+samucchinno:",
+        "formation": "mahā+nandī+samucchinno:",
         "related-verse": "Verse 12"
       },
       {
         "wordId": "mahakilesanissato",
         "word": "mahākilesanissaṭo",
         "meaning": "rejected great lust and passion",
-        "composition": "mahā+kilesa + nissaṭo:",
+        "formation": "mahā+kilesa + nissaṭo:",
         "related-verse": "Verse 12"
       },
       {
         "wordId": "mahapapoghamuttinno",
         "word": "mahāpāpoghamuttiṇṇo",
         "meaning": "crossed the great flood of sin",
-        "composition": "mahā+papa + oghaṃ+uttiṇṇo:",
+        "formation": "mahā+papa + oghaṃ+uttiṇṇo:",
         "related-verse": "Verse 12"
       }
     ]
@@ -585,28 +585,28 @@
         "wordId": "mahasokasallakatto",
         "word": "mahāsokasallakatto",
         "meaning": "a supreme surgeon",
-        "composition": "dealing with terrible grief and woe",
+        "formation": "dealing with terrible grief and woe",
         "related-verse": "Verse 13"
       },
       {
         "wordId": "-great-grief-arrow-cut-off,-remove)-",
         "word": " great + grief + arrow + cut off, remove)",
         "meaning": "",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 13"
       },
       {
         "wordId": "mahakhilavisodhano",
         "word": "mahākhīlavisodhano",
         "meaning": "a radical destroyer of the strong stakes of craving",
-        "composition": "mahā + khīla + visodhano\tgreat + pillar, post + cleansing",
+        "formation": "mahā + khīla + visodhano\tgreat + pillar, post + cleansing",
         "related-verse": "Verse 13"
       },
       {
         "wordId": "mahasantisukhakaro",
         "word": "mahāsantisukhakaro",
         "meaning": "a great harbinger of peace and happiness",
-        "composition": "mahā + santi + sukha + karo\tgreat + peace + happiness + giver",
+        "formation": "mahā + santi + sukha + karo\tgreat + peace + happiness + giver",
         "related-verse": "Verse 13"
       }
     ]
@@ -624,35 +624,35 @@
         "wordId": "mahabhayam",
         "word": "mahābhayaṃ",
         "meaning": "great fear",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 14"
       },
       {
         "wordId": "padalesi-(caus./aor.-padaleti)",
         "word": "padālesi (caus./aor. padāleti)",
         "meaning": "cleared, broke, destroyed",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 14"
       },
       {
         "wordId": "chambhacchinno",
         "word": "chambhacchinno",
         "meaning": "cut off stupefaction",
-        "composition": "chambha + c + chinno",
+        "formation": "chambha + c + chinno",
         "related-verse": "Verse 14"
       },
       {
         "wordId": "bhayanudo",
         "word": "bhayanudo",
         "meaning": "drove away all forms of fear",
-        "composition": "bhaya + nudo",
+        "formation": "bhaya + nudo",
         "related-verse": "Verse 14"
       },
       {
         "wordId": "mahadukkhakkhandhanudo",
         "word": "mahādukkhakkhandhanudo",
         "meaning": "expelled greatest mass of suffering",
-        "composition": "mahā + dukkha + k + khandha + nudo\tgreat + suffering + multitude + dispel",
+        "formation": "mahā + dukkha + k + khandha + nudo\tgreat + suffering + multitude + dispel",
         "related-verse": "Verse 14"
       }
     ]
@@ -670,21 +670,21 @@
         "wordId": "mahakarunasampatto",
         "word": "mahākaruṇāsampatto",
         "meaning": "greatly compassionate",
-        "composition": "mahā + karuṇā + sampatto",
+        "formation": "mahā + karuṇā + sampatto",
         "related-verse": "Verse 15"
       },
       {
         "wordId": "mahamettayabhirato",
         "word": "mahāmettāyabhirato",
         "meaning": "took delight in radiating utmost loving-kindness",
-        "composition": "mahā + mettāya + abhirato\tgreat + compassion + delighting in",
+        "formation": "mahā + mettāya + abhirato\tgreat + compassion + delighting in",
         "related-verse": "Verse 15"
       },
       {
         "wordId": "mahajanahitarato",
         "word": "mahājanahitarato",
         "meaning": "fully devoted in bringing highest welfare to the greatest number of people",
-        "composition": "mahā + jana + hita + rato\tgreat + people + benefit + enjoying",
+        "formation": "mahā + jana + hita + rato\tgreat + people + benefit + enjoying",
         "related-verse": "Verse 15"
       }
     ]
@@ -702,28 +702,28 @@
         "wordId": "maha-avijja",
         "word": "mahā-avijjā",
         "meaning": "great ignorance",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 16"
       },
       {
         "wordId": "pammaddi-(aor.-of-pamaddati)",
         "word": "pammaddi (aor. of pamaddati)",
         "meaning": "crush, destroy, defeat",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 16"
       },
       {
         "wordId": "mayajalavimocano",
         "word": "māyājālavimocano",
         "meaning": "smashed the net of conceit and deceit",
-        "composition": "māyā + jāla + vimocano\tconceit + net + release",
+        "formation": "māyā + jāla + vimocano\tconceit + net + release",
         "related-verse": "Verse 16"
       },
       {
         "wordId": "micchavadam",
         "word": "micchāvādaṃ",
         "meaning": "false beliefs born from false doctrine",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 16"
       }
     ]
@@ -741,42 +741,42 @@
         "wordId": "mahaguru",
         "word": "mahāguru",
         "meaning": "a great teacher",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 17"
       },
       {
         "wordId": "naraguru",
         "word": "naraguru",
         "meaning": "a teacher of men",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 17"
       },
       {
         "wordId": "devaguru",
         "word": "devaguru",
         "meaning": "a teacher of gods",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 17"
       },
       {
         "wordId": "guruvaro",
         "word": "guruvaro",
         "meaning": "supreme teacher",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 17"
       },
       {
         "wordId": "jetthaguru",
         "word": "jeṭṭhaguru",
         "meaning": "highest teacher",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 17"
       },
       {
         "wordId": "setthaguru",
         "word": "seṭṭhaguru",
         "meaning": "a foremost teacher of outstanding qualities",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 17"
       }
     ]
@@ -794,42 +794,42 @@
         "wordId": "vissaguru",
         "word": "vissaguru",
         "meaning": "entire, all + teacher",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 18"
       },
       {
         "wordId": "lokaguru",
         "word": "lokaguru",
         "meaning": "teacher of the world",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 18"
       },
       {
         "wordId": "dhammaguru",
         "word": "dhammaguru",
         "meaning": "teacher of Dhamma",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 18"
       },
       {
         "wordId": "guru-uttamo",
         "word": "guru + uttamo",
         "meaning": "teacher + highest",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 18"
       },
       {
         "wordId": "natthi-(na-atthi)",
         "word": "natthi (na + atthi)",
         "meaning": "there is not",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 18"
       },
       {
         "wordId": "etadiso-(etad-diso)",
         "word": "etādiso (etād + diso)",
         "meaning": "such like",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 18"
       }
     ]
@@ -847,42 +847,42 @@
         "wordId": "ehipassikam",
         "word": "ehipassikaṃ",
         "meaning": "having the quality “come and see for yourself!”",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 19"
       },
       {
         "wordId": "dhammado",
         "word": "dhammado",
         "meaning": "giving the Dhamma",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 19"
       },
       {
         "wordId": "sanditthikam",
         "word": "sandiṭṭhikaṃ",
         "meaning": "showing result in this very life",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 19"
       },
       {
         "wordId": "akalikam",
         "word": "akālikaṃ",
         "meaning": "beyond time: immediately",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 19"
       },
       {
         "wordId": "opanayikam",
         "word": "opanayikaṃ",
         "meaning": "leading nearer",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 19"
       },
       {
         "wordId": "svakkhatam",
         "word": "svākkhātaṃ",
         "meaning": "well expounded",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 19"
       }
     ]
@@ -900,42 +900,42 @@
         "wordId": "sabbaneyyadhammam",
         "word": "sabbañeyyadhammaṃ",
         "meaning": "the entity of Dhamma",
-        "composition": "sabba + ñeyya + dhammaṃ,all + what should be known + Dhamma",
+        "formation": "sabba + ñeyya + dhammaṃ,all + what should be known + Dhamma",
         "related-verse": "Verse 20"
       },
       {
         "wordId": "neyya-(ftpp.-of-janati)",
         "word": "ñeyya (ftpp. of jānati)",
         "meaning": "should be known",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 20"
       },
       {
         "wordId": "natva-(ger.-of-janati)",
         "word": "ñatvā (ger. of jānati)",
         "meaning": "having fully realized",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 20"
       },
       {
         "wordId": "nattadhammam",
         "word": "ñattadhammaṃ",
         "meaning": "made known + Dhamma",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 20"
       },
       {
         "wordId": "adesayi",
         "word": "adesayi",
         "meaning": "preached",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 20"
       },
       {
         "wordId": "abhinnananasampunno",
         "word": "abhiññāñāṇasampuṇṇo",
         "meaning": "endowed with supreme kind of wisdom",
-        "composition": "abhiññā + ñāṇa + sampuṇṇo,highest wisdom + knowledge + filled",
+        "formation": "abhiññā + ñāṇa + sampuṇṇo,highest wisdom + knowledge + filled",
         "related-verse": "Verse 20"
       }
     ]
@@ -953,28 +953,28 @@
         "wordId": "vicitradhammakathiko",
         "word": "vicitradhammakathiko",
         "meaning": "enunciated",
-        "composition": "eloquently explained rare Dhamma",
+        "formation": "eloquently explained rare Dhamma",
         "related-verse": "Verse 21"
       },
       {
         "wordId": "abbhutamagguddesako",
         "word": "abbhutamagguddesako",
         "meaning": "guided people to follow that marvellous path",
-        "composition": "abbhuta + magga + uddesako\twonderful, marvellous + path + pointing out, indicating",
+        "formation": "abbhuta + magga + uddesako\twonderful, marvellous + path + pointing out, indicating",
         "related-verse": "Verse 21"
       },
       {
         "wordId": "mahakkhato",
         "word": "mahakkhāto",
         "meaning": "fully explained Dhamma",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 21"
       },
       {
         "wordId": "mahakathi",
         "word": "mahākathī",
         "meaning": "greatly expounded Dhamma",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 21"
       }
     ]
@@ -992,35 +992,35 @@
         "wordId": "a-danḍena",
         "word": "a + daṇḍena",
         "meaning": "without stick",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 22"
       },
       {
         "wordId": "a-satthena",
         "word": "a + satthena",
         "meaning": "without weapon",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 22"
       },
       {
         "wordId": "anusasayi-(aor.-of-anusasati)",
         "word": "anusāsayī (aor. of anusāsati)",
         "meaning": "righteously admonished, instructed",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 22"
       },
       {
         "wordId": "uddharesi-(aor.-of-uddharati)",
         "word": "uddharesi (aor. of uddharati)",
         "meaning": "raised, lifted up",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 22"
       },
       {
         "wordId": "bahu-satte",
         "word": "bahū satte",
         "meaning": "many beings",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 22"
       }
     ]
@@ -1038,49 +1038,49 @@
         "wordId": "adakkhi-(aor.-of-dakkhati,-dassati)",
         "word": "adakkhi (aor. of dakkhati, dassati)",
         "meaning": "seen, experienced",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 23"
       },
       {
         "wordId": "akkhasi",
         "word": "akkhāsi",
         "meaning": "taught, expounded",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 23"
       },
       {
         "wordId": "bhagava",
         "word": "bhagavā",
         "meaning": "Exalted One,",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 23"
       },
       {
         "wordId": "bhuri-nanava",
         "word": "bhūri + ñāṇavā",
         "meaning": "abundant + wisdom",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 23"
       },
       {
         "wordId": "nikkamo",
         "word": "nikkāmo",
         "meaning": "free from lust",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 23"
       },
       {
         "wordId": "nimmalo",
         "word": "nimmalo",
         "meaning": "pristine pure",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 23"
       },
       {
         "wordId": "natho",
         "word": "nātho",
         "meaning": "guardian of mankind",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 23"
       }
     ]
@@ -1098,28 +1098,28 @@
         "wordId": "attasaranamanusasi",
         "word": "attasaraṇamanusāsi",
         "meaning": "taught to take refuge in oneself",
-        "composition": "atta + saraṇaṃ +anusāsi",
+        "formation": "atta + saraṇaṃ +anusāsi",
         "related-verse": "Verse 24"
       },
       {
         "wordId": "nepakko",
         "word": "nepakko",
         "meaning": "a discriminating seer",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 24"
       },
       {
         "wordId": "anusasako",
         "word": "anusāsako",
         "meaning": "instructor, giving advice",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 24"
       },
       {
         "wordId": "dhammasaranamanusasi",
         "word": "dhammasaraṇamanusāsi",
         "meaning": "taught to take refuge in Dhamma.",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 24"
       }
     ]
@@ -1137,42 +1137,42 @@
         "wordId": "nimmamo-(ni + m + mamo)",
         "word": "nimmamo (ni + m + mamo)",
         "meaning": "not + mine",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 25"
       },
       {
         "wordId": "nirahankaro-(ni + r + aham + karo)",
         "word": "nirahaṅkāro (ni + r + ahaṃ+kāro)",
         "meaning": "free from egoism, selfishness",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 25"
       },
       {
         "wordId": "niralambo",
         "word": "nirālambo",
         "meaning": "without any support",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 25"
       },
       {
         "wordId": "niralayo",
         "word": "nirālayo",
         "meaning": "free from desires and defilements",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 25"
       },
       {
         "wordId": "nippapanco-(ni + p + papanco)",
         "word": "nippapañco (ni + p + papañco)",
         "meaning": "free from obstacle, impediment",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 25"
       },
       {
         "wordId": "nirarambho-(ni + r + arambho)",
         "word": "nirārambho (ni + r+ārambho)",
         "meaning": "without effort, undertaking",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 25"
       }
     ]
@@ -1190,42 +1190,42 @@
         "wordId": "nirasanko-(ni + r + asanko)",
         "word": "nirāsaṅko (ni + r+āsaṅko)",
         "meaning": "without fear, doubt",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 26"
       },
       {
         "wordId": "niratanko-(ni + r + atanko)",
         "word": "nirātaṅko (ni + r+ātaṅko)",
         "meaning": "without illness, disease",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 26"
       },
       {
         "wordId": "nirakankho",
         "word": "nirākaṅkho",
         "meaning": "free from longing",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 26"
       },
       {
         "wordId": "nirangano-(ni + r + angano)",
         "word": "niraṅgaṇo (ni + r + aṅgaṇo)",
         "meaning": "without impurity, sin",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 26"
       },
       {
         "wordId": "nissankilittho-(ni + s + sankilittho:-pp.)",
         "word": "nissaṅkiliṭṭho (ni + s + saṅkiliṭṭho: pp.)",
         "meaning": "without being stained, impure",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 26"
       },
       {
         "wordId": "nissango",
         "word": "nissaṅgo",
         "meaning": "fully liberated from all attachments",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 26"
       }
     ]
@@ -1243,49 +1243,49 @@
         "wordId": "nhato",
         "word": "nhāto",
         "meaning": "clean",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 27"
       },
       {
         "wordId": "dhoto",
         "word": "dhoto",
         "meaning": "washed",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 27"
       },
       {
         "wordId": "niddhoto",
         "word": "niddhoto",
         "meaning": "resplendent",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 27"
       },
       {
         "wordId": "nittanho",
         "word": "nittaṇho",
         "meaning": "without any more longing",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 27"
       },
       {
         "wordId": "nittharaniko",
         "word": "nittharaṇiko",
         "meaning": "getting across, ferrying over",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 27"
       },
       {
         "wordId": "nibbuto",
         "word": "nibbuto",
         "meaning": "allayed",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 27"
       },
       {
         "wordId": "nirodhappatto",
         "word": "nirodhappatto",
         "meaning": "attained the state of cessation",
-        "composition": "nirodha + p + pāpuṇāti: pp.,cessation + having obtained",
+        "formation": "nirodha + p + pāpuṇāti: pp.,cessation + having obtained",
         "related-verse": "Verse 27"
       }
     ]
@@ -1303,42 +1303,42 @@
         "wordId": "nibbhayo-(ni + b + bhayo)",
         "word": "nibbhayo (ni + b + bhayo)",
         "meaning": "without fear",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 28"
       },
       {
         "wordId": "naranisabho-(naro:-pl.-sabho)",
         "word": "naranisabho (naro: pl. + sabho)",
         "meaning": "like a bull among men",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 28"
       },
       {
         "wordId": "nicchambhi-(ni + c + chambhi)",
         "word": "nicchambhī (ni + c + chambhī)",
         "meaning": "without stupefaction",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 28"
       },
       {
         "wordId": "narakesari-(naro + kesari)-",
         "word": "narakesarī (naro + kesarī)",
         "meaning": "lion",
-        "composition": "having a mane among men",
+        "formation": "having a mane among men",
         "related-verse": "Verse 28"
       },
       {
         "wordId": "niddaro-(ni + d + daro)",
         "word": "niddaro (ni + d + daro)",
         "meaning": "without fear, terror",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 28"
       },
       {
         "wordId": "narajanno-(naro + janno)",
         "word": "narājañño (naro + jañño)",
         "meaning": "man of noble birth",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 28"
       }
     ]
@@ -1356,35 +1356,35 @@
         "wordId": "varanayako-(vara + nayako)",
         "word": "varanāyako (vara + nāyako)",
         "meaning": "excellent + leader",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 29"
       },
       {
         "wordId": "naniko",
         "word": "ñāṇiko",
         "meaning": "very wise",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 29"
       },
       {
         "wordId": "nanabhusano-(nana + bhusano)",
         "word": "ñāṇabhūsano (ñāṇa + bhūsano)",
         "meaning": "wisdom + jewel",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 29"
       },
       {
         "wordId": "nanaparagu",
         "word": "ñāṇapāragū",
         "meaning": "transcended the limits of knowledge",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 29"
       },
       {
         "wordId": "nanagu",
         "word": "ñāṇagū",
         "meaning": "imbued with the essence of knowledge",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 29"
       }
     ]
@@ -1402,42 +1402,42 @@
         "wordId": "nanannu",
         "word": "ñāṇaññū",
         "meaning": "highly knowledgeable",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 30"
       },
       {
         "wordId": "nanasampanno",
         "word": "ñāṇasampanno",
         "meaning": "possessed wealth of knowledge",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 30"
       },
       {
         "wordId": "pannasampanno",
         "word": "paññāsampanno",
         "meaning": "full of deepest wisdom",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 30"
       },
       {
         "wordId": "sabbannu",
         "word": "sabbaññū",
         "meaning": "of omniscient knowledge",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 30"
       },
       {
         "wordId": "dhammannu",
         "word": "dhammaññū",
         "meaning": "well-versed in Dhamma, knowing it well",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 30"
       },
       {
         "wordId": "dhammasampanno",
         "word": "dhammasampanno",
         "meaning": "endowed with Dhamma`s wealth",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 30"
       }
     ]
@@ -1455,35 +1455,35 @@
         "wordId": "nanamayo",
         "word": "ñāṇamayo",
         "meaning": "made of knowledge",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 31"
       },
       {
         "wordId": "nanalayo-(nana + alayo)",
         "word": "ñāṇālayo (ñāṇa+ālayo)",
         "meaning": "abode of knowledge",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 31"
       },
       {
         "wordId": "nanesi-(nana-esi-aor.-of-esati)",
         "word": "ñāṇesī (ñāṇa + esī aor. of esati)",
         "meaning": "seeking knowledge",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 31"
       },
       {
         "wordId": "nanakovido",
         "word": "ñāṇakovido",
         "meaning": "possessed extraordinary wisdom",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 31"
       },
       {
         "wordId": "nanadassanasampanno",
         "word": "ñāṇadassanasampanno",
         "meaning": "blessed with the vision of knowledge",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 31"
       }
     ]
@@ -1501,42 +1501,42 @@
         "wordId": "nanabhasi",
         "word": "ñāṇabhāsī",
         "meaning": "spoke wisely",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 32"
       },
       {
         "wordId": "nanavidu",
         "word": "ñāṇavidū",
         "meaning": "in store of all the knowledge",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 32"
       },
       {
         "wordId": "kalabhasi",
         "word": "kālabhāsī",
         "meaning": "spoke at the proper time",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 32"
       },
       {
         "wordId": "kalavidu",
         "word": "kālavidū",
         "meaning": "knowing the appropriate time to speak",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 32"
       },
       {
         "wordId": "saccabhasi",
         "word": "saccabhāsī",
         "meaning": "spoke truth",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 32"
       },
       {
         "wordId": "saccavidu",
         "word": "saccavidū",
         "meaning": "having himself realized truth",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 32"
       }
     ]
@@ -1554,49 +1554,49 @@
         "wordId": "mayamutto",
         "word": "māyāmutto",
         "meaning": "freed from deceit",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 33"
       },
       {
         "wordId": "mutto-(pp.-of-muncati)",
         "word": "mutto (pp. of muñcati)",
         "meaning": "released, set free",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 33"
       },
       {
         "wordId": "mohamutto",
         "word": "mohamutto",
         "meaning": "freed from ignorance",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 33"
       },
       {
         "wordId": "makkhamutto",
         "word": "makkhamutto",
         "meaning": "freed from hypocrisy",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 33"
       },
       {
         "wordId": "muttamado",
         "word": "muttamado",
         "meaning": "freed from pride",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 33"
       },
       {
         "wordId": "kicchamutto",
         "word": "kicchāmutto",
         "meaning": "freed from all distress",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 33"
       },
       {
         "wordId": "mucchamutto",
         "word": "mucchāmutto",
         "meaning": "freed from all infatuation",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 33"
       }
     ]
@@ -1614,42 +1614,42 @@
         "wordId": "dosamutto",
         "word": "dosamutto",
         "meaning": "free from aversion",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 34"
       },
       {
         "wordId": "dohamutto",
         "word": "dohamutto",
         "meaning": "free from injuring",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 34"
       },
       {
         "wordId": "dessamutto",
         "word": "dessamutto",
         "meaning": "free from disagreeableness",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 34"
       },
       {
         "wordId": "muttadiso",
         "word": "muttadiso",
         "meaning": "free from enmity",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 34"
       },
       {
         "wordId": "oghamutto",
         "word": "oghamutto",
         "meaning": "free from depravity",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 34"
       },
       {
         "wordId": "aghamutto",
         "word": "aghamutto",
         "meaning": "free from sin",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 34"
       }
     ]
@@ -1667,42 +1667,42 @@
         "wordId": "sangamutto",
         "word": "saṅgamutto",
         "meaning": "free from attachment",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 35"
       },
       {
         "wordId": "rangamutto",
         "word": "raṅgamutto",
         "meaning": "free from clinging",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 35"
       },
       {
         "wordId": "ragamutto",
         "word": "rāgamutto",
         "meaning": "free from craving",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 35"
       },
       {
         "wordId": "muttarati",
         "word": "muttarati",
         "meaning": "free sensual pleasures",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 35"
       },
       {
         "wordId": "nandimutto",
         "word": "nandīmutto",
         "meaning": "free from longing",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 35"
       },
       {
         "wordId": "tanhamutto",
         "word": "taṇhāmutto",
         "meaning": "free from desires",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 35"
       }
     ]
@@ -1720,42 +1720,42 @@
         "wordId": "itimutto",
         "word": "ītimutto",
         "meaning": "free from calamities",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 36"
       },
       {
         "wordId": "bhitimutto",
         "word": "bhītimutto",
         "meaning": "free from fears",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 36"
       },
       {
         "wordId": "chambhamutto",
         "word": "chambhamutto",
         "meaning": "free from panic",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 36"
       },
       {
         "wordId": "muttabhayo",
         "word": "muttabhayo",
         "meaning": "free from terror",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 36"
       },
       {
         "wordId": "adhimutto",
         "word": "ādhimutto",
         "meaning": "free from mental afflictions",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 36"
       },
       {
         "wordId": "vyadhimutto",
         "word": "vyādhimutto",
         "meaning": "free from physical afflictions",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 36"
       }
     ]
@@ -1773,63 +1773,63 @@
         "wordId": "asamutto",
         "word": "āsāmutto",
         "meaning": "did not entertain hopes",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 37"
       },
       {
         "wordId": "asa-mutto",
         "word": "āsā + mutto",
         "meaning": "desire, hope, longing + liberated",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 37"
       },
       {
         "wordId": "issamutto",
         "word": "issāmutto",
         "meaning": "free from envy",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 37"
       },
       {
         "wordId": "ejamutto",
         "word": "ejāmutto",
         "meaning": "free from craving",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 37"
       },
       {
         "wordId": "eja-mutto",
         "word": "ejā + mutto",
         "meaning": "desire, lust, motion + liberated",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 37"
       },
       {
         "wordId": "mutta-ino",
         "word": "mutta-iṇo",
         "meaning": "free from debt",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 37"
       },
       {
         "wordId": "manamutto",
         "word": "mānamutto",
         "meaning": "free from vanity",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 37"
       },
       {
         "wordId": "vanamutto",
         "word": "vānamutto",
         "meaning": "free from lust",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 37"
       },
       {
         "wordId": "vana",
         "word": "vāna",
         "meaning": "'jungle'",
-        "composition": "of desire, lust",
+        "formation": "of desire, lust",
         "related-verse": "Verse 37"
       }
     ]
@@ -1847,56 +1847,56 @@
         "wordId": "oramutto",
         "word": "oramutto",
         "meaning": "liberated from this world",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 38"
       },
       {
         "wordId": "paramutto",
         "word": "pāramutto",
         "meaning": "liberated from the next world",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 38"
       },
       {
         "wordId": "orapara",
         "word": "orapāra",
         "meaning": "the near and the far shore, the below and the above",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 38"
       },
       {
         "wordId": "ghoramutto",
         "word": "ghoramutto",
         "meaning": "liberated from the horrible",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 38"
       },
       {
         "wordId": "muttagaho",
         "word": "muttagaho",
         "meaning": "without grasping",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 38"
       },
       {
         "wordId": "gaho",
         "word": "gaho",
         "meaning": "one who holds, seizes",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 38"
       },
       {
         "wordId": "kappamutto",
         "word": "kappamutto",
         "meaning": "redeemed from millennia",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 38"
       },
       {
         "wordId": "kalamutto",
         "word": "kālamutto",
         "meaning": "redeemed from the cycles of time",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 38"
       }
     ]
@@ -1914,42 +1914,42 @@
         "wordId": "khandhamutto",
         "word": "khandhamutto",
         "meaning": "free from aggregates",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 39"
       },
       {
         "wordId": "bandhamutto",
         "word": "bandhamutto",
         "meaning": "free from bondage",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 39"
       },
       {
         "wordId": "kalimutto",
         "word": "kalimutto",
         "meaning": "free from sins",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 39"
       },
       {
         "wordId": "kali",
         "word": "kali",
         "meaning": "discord, disaster, bringing bad luck",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 39"
       },
       {
         "wordId": "sabbatha-pipasamutto",
         "word": "sabbathā pipāsāmutto",
         "meaning": "completely redeemed from greed and desires",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 39"
       },
       {
         "wordId": "sabbatha-pipasa-mutto",
         "word": "sabbathā + pipāsā + mutto",
         "meaning": "in every way + thirst, longing, desire + liberated",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 39"
       }
     ]
@@ -1967,70 +1967,70 @@
         "wordId": "vankamutto",
         "word": "vaṅkamutto",
         "meaning": "free from crookedness",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 40"
       },
       {
         "wordId": "vanka",
         "word": "vaṅka",
         "meaning": "deceitful, dishonest, deceptive, crooked",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 40"
       },
       {
         "wordId": "pankamutto",
         "word": "paṅkamutto",
         "meaning": "free from dishonesty",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 40"
       },
       {
         "wordId": "panka",
         "word": "paṅka",
         "meaning": "impurity, mire, mud",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 40"
       },
       {
         "wordId": "khedamutto",
         "word": "khedamutto",
         "meaning": "free from regrets",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 40"
       },
       {
         "wordId": "kheda",
         "word": "kheda",
         "meaning": "regret, despair, distress",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 40"
       },
       {
         "wordId": "muttakhilo",
         "word": "muttakhilo",
         "meaning": "free from stubbornness",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 40"
       },
       {
         "wordId": "khilo",
         "word": "khilo",
         "meaning": "obstinacy, stubbornness",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 40"
       },
       {
         "wordId": "sabbada-atankamutto",
         "word": "sabbadā ātaṅkamutto",
         "meaning": "always free from terror",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 40"
       },
       {
         "wordId": "atanka",
         "word": "ātaṅka",
         "meaning": "sickness, affliction, pain",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 40"
       }
     ]
@@ -2048,49 +2048,49 @@
         "wordId": "ahankara-vinimutto",
         "word": "ahaṅkārā vinimutto",
         "meaning": "completely free from egoism",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 41"
       },
       {
         "wordId": "ahankara:-aham-kara",
         "word": "ahaṅkārā: aham + kārā",
         "meaning": "‘maker of I’, pride, arrogance, selfishness",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 41"
       },
       {
         "wordId": "muni",
         "word": "muni",
         "meaning": "a sage",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 41"
       },
       {
         "wordId": "mamankara-mutto",
         "word": "mamaṅkārā mutto",
         "meaning": "free from selfish attachments",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 41"
       },
       {
         "wordId": "mamankara:-mama-kara",
         "word": "mamaṅkārā: mama + kārā",
         "meaning": "selfishness, self-interest",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 41"
       },
       {
         "wordId": "manavamana-vimutto",
         "word": "mānāvamānā vimutto",
         "meaning": "indifferent to honour and dishonour",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 41"
       },
       {
         "wordId": "manavamana:-mana-avamana",
         "word": "mānāvamānā: māna + āvamānā",
         "meaning": "pride, concet + disrespect, contempt",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 41"
       }
     ]
@@ -2108,49 +2108,49 @@
         "wordId": "sabbada-sammosamutto",
         "word": "sabbadā sammosamutto",
         "meaning": "always free from confusion",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 42"
       },
       {
         "wordId": "sammosa",
         "word": "sammosa",
         "meaning": "confusion, bewilderment, infatuation",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 42"
       },
       {
         "wordId": "sammohamutto",
         "word": "sammohamutto",
         "meaning": "free from infatuation",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 42"
       },
       {
         "wordId": "sabbatha",
         "word": "sabbathā",
         "meaning": "in every way",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 42"
       },
       {
         "wordId": "sabbadhi-",
         "word": "sabbadhi",
         "meaning": "in every respect",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 42"
       },
       {
         "wordId": "santapamutto",
         "word": "santāpamutto",
         "meaning": "liberated from burning",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 42"
       },
       {
         "wordId": "santapa-mutto",
         "word": "santāpa + mutto",
         "meaning": "torment, grief + liberated, freed",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 42"
       }
     ]
@@ -2168,42 +2168,42 @@
         "wordId": "sabbasava-vinimutto",
         "word": "sabbāsavā vinimutto",
         "meaning": "completely freed from all mental defilements",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 43"
       },
       {
         "wordId": "sabba-asava-",
         "word": "sabba + āsavā",
         "meaning": "all + mental defilements",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 43"
       },
       {
         "wordId": "sada-vilaggamanaso",
         "word": "sadā vilaggamānaso",
         "meaning": "always in a state of detachment",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 43"
       },
       {
         "wordId": "vi-lagga-(pp.)-manaso",
         "word": "vi + lagga (pp.) + mānaso",
         "meaning": "attached, fastened + purpose, intention",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 43"
       },
       {
         "wordId": "sabbasajja-vippamutto",
         "word": "sabbāsajjā vippamutto",
         "meaning": "completely indifferent to all attachments",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 43"
       },
       {
         "wordId": "asajja:-ger-of-asadeti:",
         "word": "āsajjā: ger of āsādeti:",
         "meaning": "approach, come near to, having attained",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 43"
       }
     ]
@@ -2221,49 +2221,49 @@
         "wordId": "kamatanha-vinimutto",
         "word": "kāmataṇhā vinimutto",
         "meaning": "completely free from the greed for sensual pleasures",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 44"
       },
       {
         "wordId": "bhavatanhavibhanjako",
         "word": "bhavataṇhāvibhañjako",
         "meaning": "the dissector of craving for existences",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 44"
       },
       {
         "wordId": "bhava-tanha-vi-+bhanjako",
         "word": "bhava + taṇhā + vi +bhañjako",
         "meaning": "becoming + craving + breaker, destroyer",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 44"
       },
       {
         "wordId": "bhanjati",
         "word": "bhañjati",
         "meaning": "destroy, break",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 44"
       },
       {
         "wordId": "vibhavatanhavikkhino",
         "word": "vibhavataṇhāvikkhīṇo",
         "meaning": "destroyer of craving for non-existence",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 44"
       },
       {
         "wordId": "vibhava-tanha-vi+-k + khino",
         "word": "vibhava + taṇhā + vi+ k + khīṇo",
         "meaning": "not becoming + craving + destroyed",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 44"
       },
       {
         "wordId": "vi + khiyati",
         "word": "vi + khīyati",
         "meaning": "go to ruin, be destroyed",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 44"
       }
     ]
@@ -2281,42 +2281,42 @@
         "wordId": "sabbatha-vibbhamamutto",
         "word": "sabbathā vibbhamamutto",
         "meaning": "always free from all illusions",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 45"
       },
       {
         "wordId": "vi-b-bhamati",
         "word": "vi + b + bhamati",
         "meaning": "wander about, go astray",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 45"
       },
       {
         "wordId": "vibbhantimutto-sabbadhi",
         "word": "vibbhantimutto sabbadhi",
         "meaning": "in every way free from all delusions",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 45"
       },
       {
         "wordId": "vibbhanti:-pp.of-vibbhamati",
         "word": "vibbhanti: pp.of vibbhamati",
         "meaning": "confused, straying",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 45"
       },
       {
         "wordId": "sabbavipallasamutto",
         "word": "sabbavipallāsamutto",
         "meaning": "free from all perversions",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 45"
       },
       {
         "wordId": "vipallasa",
         "word": "vipallāsa",
         "meaning": "reversal, change, distortion, corruption",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 45"
       }
     ]
@@ -2334,42 +2334,42 @@
         "wordId": "sabbantarayavimutto",
         "word": "sabbantarāyavimutto",
         "meaning": "free of all hindrances",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 46"
       },
       {
         "wordId": "antarayo",
         "word": "antarāyo",
         "meaning": "obstacle, hindrance, obstruction",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 46"
       },
       {
         "wordId": "aggalamutto-sabbadhi",
         "word": "aggalamutto sabbadhi",
         "meaning": "free of all obstructions",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 46"
       },
       {
         "wordId": "aggala",
         "word": "aggala",
         "meaning": "lit: bolt fasteining the door: can not enter, fig.: obstruction",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 46"
       },
       {
         "wordId": "sabbabyavadhanamutto",
         "word": "sabbabyavadhānamutto",
         "meaning": "free of all fetters and impediments",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 46"
       },
       {
         "wordId": "byavadhana/vyavadhana",
         "word": "byavadhāna/vyavadhāna",
         "meaning": "covering, shelter",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 46"
       }
     ]
@@ -2387,35 +2387,35 @@
         "wordId": "bhavanettiya-vimutto",
         "word": "bhavanettiyā vimutto",
         "meaning": "completely free from the cravings of rebirth",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 47"
       },
       {
         "wordId": "bhavanetti",
         "word": "bhavanetti",
         "meaning": "desire, craving for rebirth",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 47"
       },
       {
         "wordId": "bhavoghamuttamanaso",
         "word": "bhavoghamuttamānaso",
         "meaning": "free from the tides of rebirth",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 47"
       },
       {
         "wordId": "bhava-ogha-mutta-manaso",
         "word": "bhava + ogha + mutta + mānaso",
         "meaning": "becoming + flood, torrent + freed + intention",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 47"
       },
       {
         "wordId": "sabbattha-samyogamutto",
         "word": "sabbattha saṃyogamutto",
         "meaning": "free from bondage everywhere",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 47"
       }
     ]
@@ -2433,42 +2433,42 @@
         "wordId": "sabbatha-sankopamutto",
         "word": "sabbathā saṅkopamutto",
         "meaning": "completely free from abstractions",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 48"
       },
       {
         "wordId": "sanko:-pp.-sankoceti",
         "word": "saṅko: pp. saṅkoceti",
         "meaning": "condensed, abridged",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 48"
       },
       {
         "wordId": "byapadamutto-sabbada",
         "word": "byāpādamutto sabbadā",
         "meaning": "always free from ill will",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 48"
       },
       {
         "wordId": "byapada",
         "word": "byāpāda",
         "meaning": "ill will",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 48"
       },
       {
         "wordId": "sabbadhi-patighamutto",
         "word": "sabbadhi paṭighamutto",
         "meaning": "in any way free from anger",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 48"
       },
       {
         "wordId": "patigha",
         "word": "paṭigha",
         "meaning": "anger, repugnace",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 48"
       }
     ]
@@ -2486,35 +2486,35 @@
         "wordId": "lokamitto",
         "word": "lokamitto",
         "meaning": "a friend of all",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 49"
       },
       {
         "wordId": "lokahito",
         "word": "lokahito",
         "meaning": "worked for the welfare of all",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 49"
       },
       {
         "wordId": "lokabandhu",
         "word": "lokabandhu",
         "meaning": "like a brother",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 49"
       },
       {
         "wordId": "lokasakha",
         "word": "lokasakhā",
         "meaning": "like a friend",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 49"
       },
       {
         "wordId": "tiloke-alokakaro",
         "word": "tiloke ālokakaro",
         "meaning": "produced light in the three worlds",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 49"
       }
     ]
@@ -2532,42 +2532,42 @@
         "wordId": "amatena-(instr.)",
         "word": "amatena (instr.)",
         "meaning": "deathless state",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 50"
       },
       {
         "wordId": "atappi-(a + tappatti;-aor.)",
         "word": "atappi (a + tappatti; aor.)",
         "meaning": "satiate, gratify",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 50"
       },
       {
         "wordId": "megha",
         "word": "megha",
         "meaning": "cloud",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 50"
       },
       {
         "wordId": "pavassako",
         "word": "pavassako",
         "meaning": "raining",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 50"
       },
       {
         "wordId": "assasesi-(aor.-assaseti)",
         "word": "assāsesi (aor. assāseti)",
         "meaning": "comfort, console, solace",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 50"
       },
       {
         "wordId": "cando",
         "word": "cando",
         "meaning": "moon",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 50"
       }
     ]
@@ -2585,35 +2585,35 @@
         "wordId": "santi",
         "word": "santi",
         "meaning": "peace",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 51"
       },
       {
         "wordId": "patto",
         "word": "patto",
         "meaning": "attained",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 51"
       },
       {
         "wordId": "bhuto",
         "word": "bhūto",
         "meaning": "had become",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 51"
       },
       {
         "wordId": "sitali",
         "word": "sītalī",
         "meaning": "cool, cold",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 51"
       },
       {
         "wordId": "sampatto",
         "word": "sampatto",
         "meaning": "achieved",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 51"
       }
     ]
@@ -2631,28 +2631,28 @@
         "wordId": "sada",
         "word": "sadā",
         "meaning": "always calm and tranquil",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 52"
       },
       {
         "wordId": "santi-dado",
         "word": "santi + dado",
         "meaning": "peace + giving",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 52"
       },
       {
         "wordId": "sukhito",
         "word": "sukhito",
         "meaning": "happy, pleased",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 52"
       },
       {
         "wordId": "sukha-dayako",
         "word": "sukha + dāyako",
         "meaning": "happiness + giver",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 52"
       }
     ]
@@ -2670,42 +2670,42 @@
         "wordId": "santa-kayo",
         "word": "santa + kāyo",
         "meaning": "calm + body",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 53"
       },
       {
         "wordId": "santa-vaco",
         "word": "santa + vāco",
         "meaning": "peaceful + speech",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 53"
       },
       {
         "wordId": "santa-citto",
         "word": "santa + citto",
         "meaning": "tranquil + mind",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 53"
       },
       {
         "wordId": "santi+-dharo",
         "word": "santi+ dharo",
         "meaning": "peace + upholder",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 53"
       },
       {
         "wordId": "sabbupadhi-(sabba-upadhi)",
         "word": "sabbūpadhi (sabba + ūpadhi)",
         "meaning": "all + substratum of rebirth",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 53"
       },
       {
         "wordId": "vupasanto",
         "word": "vūpasanto",
         "meaning": "calmed",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 53"
       }
     ]
@@ -2723,42 +2723,42 @@
         "wordId": "santi-dhari",
         "word": "santi + dhārī",
         "meaning": "peace + bearing",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 54"
       },
       {
         "wordId": "santi-kari",
         "word": "santi + kārī",
         "meaning": "peace + doing",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 54"
       },
       {
         "wordId": "santi-cari",
         "word": "santi + cārī",
         "meaning": "peaceful + conduct",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 54"
       },
       {
         "wordId": "santimano",
         "word": "santimano",
         "meaning": "established in peace",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 54"
       },
       {
         "wordId": "santi-sari",
         "word": "santi + sārī",
         "meaning": "peace + wandering, going",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 54"
       },
       {
         "wordId": "santi-thito",
         "word": "santi + ṭhito",
         "meaning": "peace + firmly based",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 54"
       }
     ]
@@ -2776,14 +2776,14 @@
         "wordId": "-panno",
         "word": " pañño",
         "meaning": "wisdom",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 55"
       },
       {
         "wordId": "-annu",
         "word": " aññū",
         "meaning": "knowledge",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 55"
       }
     ]
@@ -2801,14 +2801,14 @@
         "wordId": "-samvuto",
         "word": " saṃvuto",
         "meaning": "restrained",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 56"
       },
       {
         "wordId": "-sada",
         "word": " sadā",
         "meaning": "always",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 56"
       }
     ]
@@ -2826,35 +2826,35 @@
         "wordId": "khama",
         "word": "khama",
         "meaning": "forgiving, enduring",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 57"
       },
       {
         "wordId": "dhira",
         "word": "dhīra",
         "meaning": "wise, constant, firm",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 57"
       },
       {
         "wordId": "uttamo",
         "word": "uttamo",
         "meaning": "excellent, the highest, best",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 57"
       },
       {
         "wordId": "siri",
         "word": "sirī",
         "meaning": "glory, wealth, splendour, beauty",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 57"
       },
       {
         "wordId": "hiri",
         "word": "hiri",
         "meaning": "sense of shame, conscientious, restraint, moral appreciation.",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 57"
       }
     ]
@@ -2872,28 +2872,28 @@
         "wordId": "hita",
         "word": "hita",
         "meaning": "welfare, blessing",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 58"
       },
       {
         "wordId": "modana",
         "word": "modana",
         "meaning": "rejoicing, enjoyment",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 58"
       },
       {
         "wordId": "mudu",
         "word": "mudu",
         "meaning": "soft, tender",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 58"
       },
       {
         "wordId": "siti",
         "word": "sīti",
         "meaning": "cool, cold",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 58"
       }
     ]
@@ -2911,14 +2911,14 @@
         "wordId": "medha",
         "word": "medhā",
         "meaning": "intelligence, intellect",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 59"
       },
       {
         "wordId": "-dhani",
         "word": " dhanī",
         "meaning": "wealth",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 59"
       }
     ]
@@ -2936,42 +2936,42 @@
         "wordId": "ditticitto",
         "word": "ditticitto",
         "meaning": "splendour, light",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 60"
       },
       {
         "wordId": "juti",
         "word": "juti",
         "meaning": "effulgence, brightness",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 60"
       },
       {
         "wordId": "junha",
         "word": "juṇha",
         "meaning": "bright",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 60"
       },
       {
         "wordId": "aloka-do",
         "word": "āloka + do",
         "meaning": "light + giver",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 60"
       },
       {
         "wordId": "kanti",
         "word": "kanti",
         "meaning": "beauty, pleasure",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 60"
       },
       {
         "wordId": "khanti",
         "word": "khanti",
         "meaning": "patience",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 60"
       }
     ]
@@ -2989,28 +2989,28 @@
         "wordId": "java-(adj.)",
         "word": "java (adj.)",
         "meaning": "swift, quick /",
-        "composition": "n.speed",
+        "formation": "n.speed",
         "related-verse": "Verse 61"
       },
       {
         "wordId": "thama",
         "word": "thāma",
         "meaning": "strong, resolute",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 61"
       },
       {
         "wordId": "thita-(pp.-of-titthati)",
         "word": "ṭhita (pp. of tiṭṭhati)",
         "meaning": "immovable, enduring",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 61"
       },
       {
         "wordId": "thira",
         "word": "thira",
         "meaning": "solid, firm, lasting",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 61"
       }
     ]
@@ -3028,35 +3028,35 @@
         "wordId": "santa",
         "word": "santa",
         "meaning": "tranquil",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 62"
       },
       {
         "wordId": "danta-(pp.-of-dameti)-trained,-tamed,-controlled",
         "word": "danta (pp. of dameti) trained, tamed, controlled",
         "meaning": "",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 62"
       },
       {
         "wordId": "vasi",
         "word": "vasī",
         "meaning": "having the senses under control, mastering",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 62"
       },
       {
         "wordId": "vusitava",
         "word": "vusitavā",
         "meaning": "accomplished, ‘lived’, come to perfection",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 62"
       },
       {
         "wordId": "ruci",
         "word": "ruci",
         "meaning": "light, splendour",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 62"
       }
     ]
@@ -3074,28 +3074,28 @@
         "wordId": "gutta-(pp.-of-gopeti)",
         "word": "gutta (pp. of gopeti)",
         "meaning": "protected, guarded, watchful",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 63"
       },
       {
         "wordId": "pasanna-(pp.-of-pasidati)",
         "word": "pasanna (pp. of pasīdati)",
         "meaning": "clear, bright, purified",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 63"
       },
       {
         "wordId": "citta-uju",
         "word": "citta + uju",
         "meaning": "mind + straight",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 63"
       },
       {
         "wordId": "sumana",
         "word": "sumana",
         "meaning": "glad, pure",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 63"
       }
     ]
@@ -3113,42 +3113,42 @@
         "wordId": "paguno",
         "word": "paguṇo",
         "meaning": "full of knowledge, learned, clever",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 64"
       },
       {
         "wordId": "su-panna",
         "word": "su + pañña",
         "meaning": "well + wisdom",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 64"
       },
       {
         "wordId": "samyata",
         "word": "saṃyata",
         "meaning": "controlled, restrained",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 64"
       },
       {
         "wordId": "su-vato",
         "word": "su + vato",
         "meaning": "well + observance, ‘duty’",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 64"
       },
       {
         "wordId": "pa-santi-(pp.-of-sammati)",
         "word": "pa + santi (pp. of sammati)",
         "meaning": "tranquil, peaceful",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 64"
       },
       {
         "wordId": "passaddhi",
         "word": "passaddhi",
         "meaning": "tranquillity, calmness, serenity",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 64"
       }
     ]
@@ -3166,35 +3166,35 @@
         "wordId": "agga",
         "word": "agga",
         "meaning": "highest, top-most, foremost",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 65"
       },
       {
         "wordId": "vijja-(adj.)",
         "word": "vijja (adj.)",
         "meaning": "possessing wisdom",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 65"
       },
       {
         "wordId": "vidva-(rare-pp.-of-vindati)",
         "word": "vidvā (rare pp. of vindati)",
         "meaning": "wise, knowledgeable",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 65"
       },
       {
         "wordId": "vidu",
         "word": "vidū",
         "meaning": "clever, wise",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 65"
       },
       {
         "wordId": "punno",
         "word": "puñño",
         "meaning": "virtuous, righteous",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 65"
       }
     ]
@@ -3212,28 +3212,28 @@
         "wordId": "laddho-(pp.-of-labhati)",
         "word": "laddho (pp. of labhati)",
         "meaning": "obtained, received",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 66"
       },
       {
         "wordId": "agga-akkhato-(pp.-of-akkhati)",
         "word": "agga + akkhāto (pp. of akkhāti)",
         "meaning": "foremost + announced, declared",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 66"
       },
       {
         "wordId": "pantha-pakasako",
         "word": "pantha + pakāsako",
         "meaning": "path + explaining, making known",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 66"
       },
       {
         "wordId": "dassavi",
         "word": "dassāvī",
         "meaning": "one who sees",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 66"
       }
     ]
@@ -3251,21 +3251,21 @@
         "wordId": "aggaggo-(agga+-aggo)",
         "word": "aggaggo (agga+ aggo)",
         "meaning": "foremost + top",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 67"
       },
       {
         "wordId": "nana-aggo",
         "word": "ñāṇa + aggo",
         "meaning": "wisdom + foremost",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 67"
       },
       {
         "wordId": "nana-pungavo",
         "word": "ñāṇa + puṅgavo",
         "meaning": "wisdom + chief, ‘bull’",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 67"
       }
     ]
@@ -3283,21 +3283,21 @@
         "wordId": "vibhusito",
         "word": "vibhūsito",
         "meaning": "adorned with",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 68"
       },
       {
         "wordId": "alankato",
         "word": "alaṅkato",
         "meaning": "embellished with, decorated",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 68"
       },
       {
         "wordId": "su-sobhito",
         "word": "su + sobhito",
         "meaning": "well + resplendent with",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 68"
       }
     ]
@@ -3315,42 +3315,42 @@
         "wordId": "pujito-(pp.-of-pujeti)",
         "word": "pūjito (pp. of pūjeti)",
         "meaning": "worshipped, venerated",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 69"
       },
       {
         "wordId": "thomito-(pp.-of-thometi)",
         "word": "thomito (pp. of thometi)",
         "meaning": "praised",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 69"
       },
       {
         "wordId": "manito-(pp.-of-maneti)",
         "word": "mānito (pp. of māneti)",
         "meaning": "respected, honoured",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 69"
       },
       {
         "wordId": "vandito-(pp.-of-vandati)",
         "word": "vandito (pp. of vandati)",
         "meaning": "venerated, adored",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 69"
       },
       {
         "wordId": "abhi-vadito-(pp.-of-abhivandeti)",
         "word": "abhi + vādito (pp. of abhivāndeti)",
         "meaning": "saluted, honoured",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 69"
       },
       {
         "wordId": "pujjo-(adj.)",
         "word": "pujjo (adj.)",
         "meaning": "to be honoured",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 69"
       }
     ]
@@ -3368,28 +3368,28 @@
         "wordId": "bhusano",
         "word": "bhūsano",
         "meaning": "ornament, embellishment",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 70"
       },
       {
         "wordId": "bhabbo",
         "word": "bhabbo",
         "meaning": "proper, right, fit for",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 70"
       },
       {
         "wordId": "dhiro",
         "word": "dhīro",
         "meaning": "wise, resolute",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 70"
       },
       {
         "wordId": "patitthito-(pp.-of-patitthahati)",
         "word": "patiṭṭhito (pp. of patiṭṭhahati)",
         "meaning": "firm, established, arrayed",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 70"
       }
     ]
@@ -3407,21 +3407,21 @@
         "wordId": "kovido",
         "word": "kovido",
         "meaning": "skillful",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 71"
       },
       {
         "wordId": "amaggassapi-(a-maggassa(gen)-api)",
         "word": "amaggassāpi (a + maggassa(gen) + api)",
         "meaning": "not + path + and, as well",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 71"
       },
       {
         "wordId": "aggamaggamugghatesi-(aggo-maggam-ugghatesi)",
         "word": "aggamaggamugghāṭesi (aggo + maggaṃ + ugghāṭesi)",
         "meaning": "highest + path + has revealed, opened",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 71"
       }
     ]
@@ -3439,49 +3439,49 @@
         "wordId": "aggo",
         "word": "aggo",
         "meaning": "highest, topmost, pre-eminent",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 72"
       },
       {
         "wordId": "gocaro",
         "word": "gocaro",
         "meaning": "resort, domain, range, pasture",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 72"
       },
       {
         "wordId": "gu",
         "word": "gū",
         "meaning": "going, having gone, being perfected in",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 72"
       },
       {
         "wordId": "annu",
         "word": "aññū",
         "meaning": "having knowledge",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 72"
       },
       {
         "wordId": "desako",
         "word": "desako",
         "meaning": "teacher",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 72"
       },
       {
         "wordId": "nani",
         "word": "ñāṇī",
         "meaning": "possessed of wisdom, insight",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 72"
       },
       {
         "wordId": "bhani",
         "word": "bhāṇī",
         "meaning": "teacher, preacher",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 72"
       }
     ]
@@ -3499,21 +3499,21 @@
         "wordId": "khemappatto",
         "word": "khemappatto",
         "meaning": "tranquillity, security, safety + attained",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 73"
       },
       {
         "wordId": "khemangato",
         "word": "khemaṅgato",
         "meaning": "tranquillity, security, safety + gone to",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 73"
       },
       {
         "wordId": "sivappatto",
         "word": "sivappatto",
         "meaning": "happiness + achieved",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 73"
       }
     ]
@@ -3531,21 +3531,21 @@
         "wordId": "patta---reached,-realized-",
         "word": "patta\t- reached, realized",
         "meaning": "",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 74"
       },
       {
         "wordId": "amato",
         "word": "amato",
         "meaning": "the Deathless state",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 74"
       },
       {
         "wordId": "attho",
         "word": "attho",
         "meaning": "goal",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 74"
       }
     ]
@@ -3563,35 +3563,35 @@
         "wordId": "nana",
         "word": "ñāṇa",
         "meaning": "knowledge",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 75"
       },
       {
         "wordId": "medho",
         "word": "medho",
         "meaning": "wisdom",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 75"
       },
       {
         "wordId": "dhammaniyamako",
         "word": "dhammaniyāmako",
         "meaning": "Dhamma + order, law",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 75"
       },
       {
         "wordId": "ananto",
         "word": "ananto",
         "meaning": "infinite",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 75"
       },
       {
         "wordId": "anto",
         "word": "anto",
         "meaning": "end, finite",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 75"
       }
     ]
@@ -3609,14 +3609,14 @@
         "wordId": "-paramatthasaccam-(paramattha-saccam)",
         "word": " paramatthasaccaṃ (paramattha + saccaṃ)",
         "meaning": "ultimate + truth",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 76"
       },
       {
         "wordId": "-accuto",
         "word": " accuto",
         "meaning": "eternal, everlasting",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 76"
       }
     ]
@@ -3644,49 +3644,49 @@
         "wordId": "ritto",
         "word": "ritto",
         "meaning": "empty, devoid",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 78"
       },
       {
         "wordId": "inja",
         "word": "iñjā",
         "meaning": "moving, stirring",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 78"
       },
       {
         "wordId": "indha",
         "word": "indhā",
         "meaning": "fuel, firewood",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 78"
       },
       {
         "wordId": "iccha",
         "word": "icchā",
         "meaning": "longing, desire",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 78"
       },
       {
         "wordId": "agho",
         "word": "agho",
         "meaning": "sin, unwholesomeness",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 78"
       },
       {
         "wordId": "edho",
         "word": "edho",
         "meaning": "firewood, fuel",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 78"
       },
       {
         "wordId": "gedha",
         "word": "gedha",
         "meaning": "greed",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 78"
       }
     ]
@@ -3704,7 +3704,7 @@
         "wordId": "gutto",
         "word": "gutto",
         "meaning": "protected, guarded",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 79"
       }
     ]
@@ -3722,14 +3722,14 @@
         "wordId": "satacca",
         "word": "sātacca",
         "meaning": "continuation, perseverance",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 80"
       },
       {
         "wordId": "samyato",
         "word": "saṃyato",
         "meaning": "restrained",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 80"
       }
     ]
@@ -3747,35 +3747,35 @@
         "wordId": "cakkavatti",
         "word": "cakkavattī",
         "meaning": "a universal monarch",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 81"
       },
       {
         "wordId": "raja",
         "word": "rājā",
         "meaning": "king",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 81"
       },
       {
         "wordId": "dhammacakka",
         "word": "dhammacakka",
         "meaning": "Wheel of Dhamma",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 81"
       },
       {
         "wordId": "vibhusito",
         "word": "vibhūsito",
         "meaning": "adorned",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 81"
       },
       {
         "wordId": "vibhanji",
         "word": "vibhañji",
         "meaning": "broke, destroyed",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 81"
       }
     ]
@@ -3793,28 +3793,28 @@
         "wordId": "muddhabhisitto",
         "word": "muddhābhisitto",
         "meaning": "head + consecrated, sprinkled",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 82"
       },
       {
         "wordId": "maharanno",
         "word": "mahārañño",
         "meaning": "great king",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 82"
       },
       {
         "wordId": "budho",
         "word": "budho",
         "meaning": "wise",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 82"
       },
       {
         "wordId": "thapesi",
         "word": "ṭhāpesi",
         "meaning": "established",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 82"
       }
     ]
@@ -3832,35 +3832,35 @@
         "wordId": "adhipo",
         "word": "ādhipo",
         "meaning": "protector",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 83"
       },
       {
         "wordId": "isi",
         "word": "īsi",
         "meaning": "sage, lord",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 83"
       },
       {
         "wordId": "sammato",
         "word": "sammato",
         "meaning": "consented, agreed",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 83"
       },
       {
         "wordId": "samattho",
         "word": "samattho",
         "meaning": "proficient, able",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 83"
       },
       {
         "wordId": "munindo",
         "word": "munindo",
         "meaning": "sage",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 83"
       }
     ]
@@ -3878,42 +3878,42 @@
         "wordId": "natho",
         "word": "nātho",
         "meaning": "protector, saviour",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 84"
       },
       {
         "wordId": "sami",
         "word": "sāmī",
         "meaning": "husband, owner, master, patron",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 84"
       },
       {
         "wordId": "indo",
         "word": "indo",
         "meaning": "lord",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 84"
       },
       {
         "wordId": "sasako",
         "word": "sāsako",
         "meaning": "belonging to food, providing food",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 84"
       },
       {
         "wordId": "sakko",
         "word": "sakko",
         "meaning": "able, righteous",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 84"
       },
       {
         "wordId": "sattha",
         "word": "satthā",
         "meaning": "teacher",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 84"
       }
     ]
@@ -3931,42 +3931,42 @@
         "wordId": "gutto",
         "word": "gutto",
         "meaning": "protected",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 85"
       },
       {
         "wordId": "papamutto",
         "word": "pāpamutto",
         "meaning": "evil + freed",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 85"
       },
       {
         "wordId": "yutto",
         "word": "yutto",
         "meaning": "yoked, joined",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 85"
       },
       {
         "wordId": "dhani",
         "word": "dhanī",
         "meaning": "wealth",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 85"
       },
       {
         "wordId": "natta",
         "word": "ñatta",
         "meaning": "intelligence, learning",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 85"
       },
       {
         "wordId": "patto",
         "word": "patto",
         "meaning": "obtained, attained",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 85"
       }
     ]
@@ -3984,28 +3984,28 @@
         "wordId": "abhinno",
         "word": "abhiñño",
         "meaning": "special",
-        "composition": "supernormal knowledge",
+        "formation": "supernormal knowledge",
         "related-verse": "Verse 86"
       },
       {
         "wordId": "anna",
         "word": "aññā",
         "meaning": "perfect knowledge, proficiency",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 86"
       },
       {
         "wordId": "dhanno",
         "word": "dhañño",
         "meaning": "lucky, fortunate, blessed",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 86"
       },
       {
         "wordId": "parayano",
         "word": "parāyaṇo",
         "meaning": "support, relief, final aim",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 86"
       }
     ]
@@ -4023,42 +4023,42 @@
         "wordId": "nani",
         "word": "ñāṇī",
         "meaning": "profound knowledge",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 87"
       },
       {
         "wordId": "bhani",
         "word": "bhāṇī",
         "meaning": "preached",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 87"
       },
       {
         "wordId": "bhasi--spoke,-uttered",
         "word": "bhāsī- spoke, uttered",
         "meaning": "",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 87"
       },
       {
         "wordId": "vidu",
         "word": "vidū",
         "meaning": "knew",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 87"
       },
       {
         "wordId": "vadi",
         "word": "vādī",
         "meaning": "spoke",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 87"
       },
       {
         "wordId": "vaci",
         "word": "vācī",
         "meaning": "taught",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 87"
       }
     ]
@@ -4076,21 +4076,21 @@
         "wordId": "muda",
         "word": "mudā",
         "meaning": "gladness, joy",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 88"
       },
       {
         "wordId": "patittha",
         "word": "patiṭṭha",
         "meaning": "support, ground, resting place",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 88"
       },
       {
         "wordId": "attha/attho",
         "word": "aṭṭha/attho",
         "meaning": "attainment, welfare, prosperity",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 88"
       }
     ]
@@ -4108,28 +4108,28 @@
         "wordId": "cari-carin",
         "word": "cārī / cārin",
         "meaning": "living, acting, behaving",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 89"
       },
       {
         "wordId": "dharo",
         "word": "dharo",
         "meaning": "holding, upholding, bearing",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 89"
       },
       {
         "wordId": "dhari",
         "word": "dhārī",
         "meaning": "wearing, bearing",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 89"
       },
       {
         "wordId": "sari",
         "word": "sārī",
         "meaning": "wandering, moving along",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 89"
       }
     ]
@@ -4147,42 +4147,42 @@
         "wordId": "dharako",
         "word": "dhārako",
         "meaning": "someone who carries, bearing",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 90"
       },
       {
         "wordId": "dhoreyyo",
         "word": "dhoreyyo",
         "meaning": "should carry a burden",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 90"
       },
       {
         "wordId": "palako",
         "word": "pālako",
         "meaning": "guardian, keeper",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 90"
       },
       {
         "wordId": "amato",
         "word": "amato",
         "meaning": "eternal, deathless",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 90"
       },
       {
         "wordId": "ogadha",
         "word": "ogadha",
         "meaning": "merging in, plunged into",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 90"
       },
       {
         "wordId": "patto",
         "word": "patto",
         "meaning": "reached, obtained",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 90"
       }
     ]
@@ -4200,28 +4200,28 @@
         "wordId": "patibhana-p-patto",
         "word": "paṭibhāna + p + patto",
         "meaning": "readiness of reply + obtained",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 91"
       },
       {
         "wordId": "patipada-vidu",
         "word": "paṭipadā + vidū",
         "meaning": "path + knowing, skilled",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 91"
       },
       {
         "wordId": "patisambhida",
         "word": "paṭisambhidā",
         "meaning": "analytical insight, discriminating knowledge",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 91"
       },
       {
         "wordId": "magga-annu",
         "word": "magga + aññū",
         "meaning": "path + knowing",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 91"
       }
     ]
@@ -4239,49 +4239,49 @@
         "wordId": "tikicchako",
         "word": "tikicchako",
         "meaning": "physician",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 92"
       },
       {
         "wordId": "cheko",
         "word": "cheko",
         "meaning": "skilful",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 92"
       },
       {
         "wordId": "visallo",
         "word": "visallo",
         "meaning": "free from dart, thorn",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 92"
       },
       {
         "wordId": "salla",
         "word": "salla",
         "meaning": "dart, thorn",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 92"
       },
       {
         "wordId": "kantati",
         "word": "kantati",
         "meaning": "cut",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 92"
       },
       {
         "wordId": "sabbopakari-sabba-upakari",
         "word": "sabbopakārī sabba + upakārī",
         "meaning": "all + benefactor, supporter",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 92"
       },
       {
         "wordId": "bhisakko",
         "word": "bhisakko",
         "meaning": "physician, healer",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 92"
       }
     ]
@@ -4299,35 +4299,35 @@
         "wordId": "siromani",
         "word": "siromaṇi",
         "meaning": "diadem, jewel",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 93"
       },
       {
         "wordId": "sikhara",
         "word": "sikhara",
         "meaning": "top, peak",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 93"
       },
       {
         "wordId": "sekharo",
         "word": "sekharo",
         "meaning": "garland, crest",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 93"
       },
       {
         "wordId": "cuḷamani",
         "word": "cūḷāmaṇi",
         "meaning": "jewel",
-        "composition": "in the crest",
+        "formation": "in the crest",
         "related-verse": "Verse 93"
       },
       {
         "wordId": "caru",
         "word": "cāru",
         "meaning": "beautiful, charming",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 93"
       }
     ]
@@ -4345,42 +4345,42 @@
         "wordId": "bhusana",
         "word": "bhūsana",
         "meaning": "decoration, ornament",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 94"
       },
       {
         "wordId": "bhusito",
         "word": "bhūsito",
         "meaning": "adorned",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 94"
       },
       {
         "wordId": "alankara",
         "word": "ālaṅkāra",
         "meaning": "decoration, ornament",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 94"
       },
       {
         "wordId": "lankato",
         "word": "laṅkato",
         "meaning": "decorated",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 94"
       },
       {
         "wordId": "abharana",
         "word": "ābharaṇa",
         "meaning": "decoration, ornament",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 94"
       },
       {
         "wordId": "sobhito",
         "word": "sobhito",
         "meaning": "splendorous",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 94"
       }
     ]
@@ -4398,35 +4398,35 @@
         "wordId": "samuddo",
         "word": "samuddo",
         "meaning": "sea, ocean",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 95"
       },
       {
         "wordId": "nana-sagaro",
         "word": "ñāṇa + sāgaro",
         "meaning": "knowledge + ocean",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 95"
       },
       {
         "wordId": "nana-va",
         "word": "ñāṇa + vā",
         "meaning": "knowledge + having",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 95"
       },
       {
         "wordId": "panna-varidhi",
         "word": "paññā + vāridhi",
         "meaning": "wisdom + raincloud",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 95"
       },
       {
         "wordId": "panna-va",
         "word": "pañña + vā",
         "meaning": "wisdom + having",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 95"
       }
     ]
@@ -4444,42 +4444,42 @@
         "wordId": "a-dhamma-mutto",
         "word": "a + Dhamma + mutto",
         "meaning": "unrighteousness + free from",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 96"
       },
       {
         "wordId": "dhamma-gu",
         "word": "Dhamma + gū",
         "meaning": "Dhamma + skilled in",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 96"
       },
       {
         "wordId": "a-n-nana-mutto",
         "word": "a + ñ + ñāṇa + mutto",
         "meaning": "no + knowledge + free from",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 96"
       },
       {
         "wordId": "nana-gu",
         "word": "ñāṇa + gū",
         "meaning": "conversant with knowledge",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 96"
       },
       {
         "wordId": "avijja-mutto",
         "word": "avijjā + mutto",
         "meaning": "ignorance + free from",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 96"
       },
       {
         "wordId": "vijja-va",
         "word": "vijjā + vā",
         "meaning": "wisdom + having",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 96"
       }
     ]
@@ -4497,35 +4497,35 @@
         "wordId": "pavahesi-(cond./aor.-of-pavaheti)",
         "word": "pavāhesi (cond./aor. of pavāheti)",
         "meaning": "make flow, remove",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 97"
       },
       {
         "wordId": "papa-dhara",
         "word": "papa + dhārā",
         "meaning": "evil + stream, torrent",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 97"
       },
       {
         "wordId": "nirodhako",
         "word": "nirodhako",
         "meaning": "annihilator",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 97"
       },
       {
         "wordId": "a-titta-(pp.-of-tappati)",
         "word": "a + titta (pp. of tappati)",
         "meaning": "unsatisfied",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 97"
       },
       {
         "wordId": "su-tosesi-(aor.-of-toseti)",
         "word": "su + tosesi (aor. of toseti)",
         "meaning": "pleased",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 97"
       }
     ]
@@ -4543,28 +4543,28 @@
         "wordId": "megho",
         "word": "megho",
         "meaning": "cloud",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 98"
       },
       {
         "wordId": "pavassayi-(aor.-of-pavassati)",
         "word": "pavassayī (aor. of pavassati)",
         "meaning": "rain, shed rain",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 98"
       },
       {
         "wordId": "rajo-jalla",
         "word": "rajo + jalla",
         "meaning": "dirt + mud, mire",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 98"
       },
       {
         "wordId": "vi-dhovesi-(aor.-of-dhovati)",
         "word": "vi + dhovesi (aor. of dhovati)",
         "meaning": "wash, cleanse",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 98"
       }
     ]
@@ -4582,28 +4582,28 @@
         "wordId": "kilesani-(pl)",
         "word": "kilesāni (pl)",
         "meaning": "defilements",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 99"
       },
       {
         "wordId": "anavasesa:-an-avasesa",
         "word": "anavasesa: an + avasesa",
         "meaning": "no + remainder, all",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 99"
       },
       {
         "wordId": "vahayi-(caus.-of-vahati)",
         "word": "vāhayī (caus. of vāhati)",
         "meaning": "leading to",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 99"
       },
       {
         "wordId": "pavahesi-(cond./aor.-of-pavaheti)",
         "word": "pavāhesi (cond./aor. of pavāheti)",
         "meaning": "make flow, remove",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 99"
       }
     ]
@@ -4621,49 +4621,49 @@
         "wordId": "silaggo:-sila-aggo",
         "word": "sīlaggo: sīla + aggo",
         "meaning": "morality + top, first, pre-eminent",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 100"
       },
       {
         "wordId": "samadhi-+p-patto",
         "word": "samādhi +p + patto",
         "meaning": "concentration + attained",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 100"
       },
       {
         "wordId": "panna-p-patto",
         "word": "pañña + p + patto",
         "meaning": "wisdom + attained",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 100"
       },
       {
         "wordId": "su-bhavito",
         "word": "su + bhāvito",
         "meaning": "well + developed",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 100"
       },
       {
         "wordId": "sudha-rasam",
         "word": "sudhā + rasaṃ",
         "meaning": "nectar + taste",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 100"
       },
       {
         "wordId": "pibati/pivati",
         "word": "pibati/pivati",
         "meaning": "drink, swallow",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 100"
       },
       {
         "wordId": "payi-(caus.-of-pibati)",
         "word": "pāyī (caus. of pibati)",
         "meaning": "gave to drink",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 100"
       }
     ]
@@ -4681,42 +4681,42 @@
         "wordId": "anatho",
         "word": "anātho",
         "meaning": "destitude, helpless",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 101"
       },
       {
         "wordId": "bhavana-natho",
         "word": "bhavana + nātho",
         "meaning": "existence, being + protector, saviour",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 101"
       },
       {
         "wordId": "bhiti",
         "word": "bhīti",
         "meaning": "fear",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 101"
       },
       {
         "wordId": "a-bhayam-n-karo",
         "word": "a + bhayaṃ + ṅ + karo",
         "meaning": "no + fear + making",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 101"
       },
       {
         "wordId": "saranam-n-karo",
         "word": "saraṇaṃ + ṅ + karo",
         "meaning": "refuge, salvation + making",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 101"
       },
       {
         "wordId": "dina",
         "word": "dīna",
         "meaning": "base, miserable, mean",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 101"
       }
     ]
@@ -4734,28 +4734,28 @@
         "wordId": "sarana-dayako",
         "word": "saraṇa + dāyako",
         "meaning": "refuge + giver, benefactor",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 102"
       },
       {
         "wordId": "parittanam-p-+pa-dayako",
         "word": "parittāṇaṃ + p +pa + dāyako",
         "meaning": "shelter + giver, benefactor",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 102"
       },
       {
         "wordId": "arakkhanam-data",
         "word": "ārakkhaṇaṃ + dātā",
         "meaning": "protection + giver",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 102"
       },
       {
         "wordId": "sattha",
         "word": "satthā",
         "meaning": "teacher",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 102"
       }
     ]
@@ -4773,35 +4773,35 @@
         "wordId": "bhiru-tano",
         "word": "bhīru + tāṇo",
         "meaning": "scared, fearful + shelter, protection",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 103"
       },
       {
         "wordId": "bhiru-leno",
         "word": "bhīru + leṇo",
         "meaning": "scared, fearful + cave",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 103"
       },
       {
         "wordId": "bhiru-sarana-dayako",
         "word": "bhīru + saraṇa + dāyako",
         "meaning": "fearful + refuge + giver",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 103"
       },
       {
         "wordId": "bhiru-arakkhako",
         "word": "bhīru-ārakkhako",
         "meaning": "fearful + protector",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 103"
       },
       {
         "wordId": "bhiyyo-(ind.)",
         "word": "bhiyyo (ind.)",
         "meaning": "more, exeedingly",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 103"
       }
     ]
@@ -4819,28 +4819,28 @@
         "wordId": "data",
         "word": "dātā",
         "meaning": "giver",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 104"
       },
       {
         "wordId": "tata",
         "word": "tāta",
         "meaning": "father",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 104"
       },
       {
         "wordId": "akkhata",
         "word": "akkhātā",
         "meaning": "expounder, teacher",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 104"
       },
       {
         "wordId": "sakha/sakhi",
         "word": "sakhā/sakhī",
         "meaning": "friend",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 104"
       }
     ]
@@ -4858,42 +4858,42 @@
         "wordId": "sunna",
         "word": "suñña",
         "meaning": "void, empty",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 105"
       },
       {
         "wordId": "tanho",
         "word": "taṇho",
         "meaning": "craving",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 105"
       },
       {
         "wordId": "rango",
         "word": "raṅgo",
         "meaning": "colour",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 105"
       },
       {
         "wordId": "rajo",
         "word": "rajo",
         "meaning": "dirt",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 105"
       },
       {
         "wordId": "chando",
         "word": "chando",
         "meaning": "desire, impulse",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 105"
       },
       {
         "wordId": "nandi",
         "word": "nandī",
         "meaning": "yearning",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 105"
       }
     ]
@@ -4911,35 +4911,35 @@
         "wordId": "roso",
         "word": "roso",
         "meaning": "rage",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 106"
       },
       {
         "wordId": "doho",
         "word": "doho",
         "meaning": "animosity, rancour",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 106"
       },
       {
         "wordId": "daho",
         "word": "daho",
         "meaning": "burning, heat",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 106"
       },
       {
         "wordId": "sapo",
         "word": "sāpo",
         "meaning": "abuse, curse",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 106"
       },
       {
         "wordId": "tapo",
         "word": "tāpo",
         "meaning": "torment, scourges",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 106"
       }
     ]
@@ -4957,42 +4957,42 @@
         "wordId": "asa",
         "word": "āsā",
         "meaning": "hope",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 107"
       },
       {
         "wordId": "issa",
         "word": "issā",
         "meaning": "envy",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 107"
       },
       {
         "wordId": "eja",
         "word": "ejā",
         "meaning": "desire",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 107"
       },
       {
         "wordId": "ino",
         "word": "iṇo",
         "meaning": "debt, liability",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 107"
       },
       {
         "wordId": "inja/injana",
         "word": "iñjā/iñjana",
         "meaning": "motion, agitation",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 107"
       },
       {
         "wordId": "indha/indhana",
         "word": "indhā/indhana",
         "meaning": "firewood, fuel",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 107"
       }
     ]
@@ -5010,42 +5010,42 @@
         "wordId": "papa",
         "word": "papa",
         "meaning": "evil, sin",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 108"
       },
       {
         "wordId": "punna",
         "word": "puñña",
         "meaning": "righteous, meritorious",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 108"
       },
       {
         "wordId": "aham",
         "word": "ahaṃ",
         "meaning": "I",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 108"
       },
       {
         "wordId": "mamo-(gen./dat.-of-aham)",
         "word": "mamo (gen./dat. of ahaṃ)",
         "meaning": "me, mine",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 108"
       },
       {
         "wordId": "kankha",
         "word": "kaṅkhā",
         "meaning": "doubt",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 108"
       },
       {
         "wordId": "sanka",
         "word": "saṅkā",
         "meaning": "doubt, suspicion",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 108"
       }
     ]
@@ -5063,28 +5063,28 @@
         "wordId": "vanta-(pp.-of-vamati)",
         "word": "vanta (pp. of vamati)",
         "meaning": "discharged, given up",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 109"
       },
       {
         "wordId": "malo",
         "word": "malo",
         "meaning": "defilements",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 109"
       },
       {
         "wordId": "kasava/kasaya",
         "word": "kasāva/kasāya",
         "meaning": "fundamental faults of rāga, dosa & moha, stain, defect",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 109"
       },
       {
         "wordId": "igho-(abstr.-from-anigho)",
         "word": "īgho (abstr. from anīgho)",
         "meaning": "evil influence",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 109"
       }
     ]
@@ -5102,21 +5102,21 @@
         "wordId": "nudo-(pp.-of-nudati)",
         "word": "nudo (pp. of nudati)",
         "meaning": "removed, dispelled, rejected",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 110"
       },
       {
         "wordId": "klesa/kilesa",
         "word": "klesa/kilesa",
         "meaning": "depravity, corruption, afflictions",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 110"
       },
       {
         "wordId": "kali",
         "word": "kali",
         "meaning": "bad luck, misfortunes, demerit",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 110"
       }
     ]
@@ -5134,28 +5134,28 @@
         "wordId": "bhuri",
         "word": "bhūri",
         "meaning": "abundant, much, many",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 111"
       },
       {
         "wordId": "medha",
         "word": "medhā",
         "meaning": "intelligence, wisdom",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 111"
       },
       {
         "wordId": "pakasako",
         "word": "pakāsako",
         "meaning": "explaining, illustrating",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 111"
       },
       {
         "wordId": "pasaresi-(aor.-of-pasareti)",
         "word": "pasāresi (aor. of pasāreti)",
         "meaning": "propagated, offered, spread",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 111"
       }
     ]
@@ -5173,42 +5173,42 @@
         "wordId": "akkharo",
         "word": "akkharo",
         "meaning": "letter of the alphabet",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 112"
       },
       {
         "wordId": "sannipata",
         "word": "sannipāta",
         "meaning": " collocation, assemblance",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 112"
       },
       {
         "wordId": "dakkho",
         "word": "dakkho",
         "meaning": " clever, skillful",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 112"
       },
       {
         "wordId": "pubba-paro-ca",
         "word": "pubbā + paro + ca",
         "meaning": "first + last / preceding + following + and",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 112"
       },
       {
         "wordId": "nirutti",
         "word": "nirutti",
         "meaning": " grammatical and logical explanation",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 112"
       },
       {
         "wordId": "pada-kovido",
         "word": "pada + kovido",
         "meaning": "word + proficient, clever",
-        "composition": "",
+        "formation": "",
         "related-verse": "Verse 112"
       }
     ]

@@ -1,8 +1,11 @@
 <script>
+  import { createEventDispatcher } from 'svelte';
   import { fade } from 'svelte/transition'
   export let words;
   export let filterWords;
   export let searchTerm;
+
+  const dispatch = createEventDispatcher();
 </script>
 
 <!-- The Modal -->
@@ -10,7 +13,8 @@
   <div class="modal-content">
     <header id="search-input-cont">    
       <!-- Search Input -->
-        <button id="clear-trash">🗑️</button>
+			<div class="input-cont">
+        <button id="reset-search" on:click={() => dispatch('clear')}>🔄</button>
         <form on:submit|preventDefault>
           <input type="text" 
                 id="search-field" 
@@ -18,19 +22,22 @@
                 autocomplete="off"
                 bind:value={searchTerm}
                 />
-          <button type="submit">GO</button>      
-        </form>   
-      <span class="close" on:click>&times;</span>
+          <button type="submit">🔎</button>      
+        </form>  
+			</div>
+			<div class="closer-cont">
+      	<span class="close" on:click>&times;</span>
+			</div>
   </header>
     <!-- List of Vocabulary -->
     <ul>
       {#if filterWords.length > 0}
         {#each filterWords as wordObj}
-          <li><b>{wordObj.word}</b> - {wordObj.definition} <br>{!wordObj.etymology ? "" : `(${wordObj.etymology})`}</li>    
+          <li><b>{wordObj.word}</b> - {wordObj.meaning} <br>{!wordObj.formation ? "" : `${wordObj.formation}`}</li>    
         {/each}
       {:else}
-        {#each words as {word, definition, etymology}}
-          <li><strong>{word}</strong> - {definition} {etymology ? `${etymology}` : ""}</li>
+        {#each words as {word, meaning, formation}}
+          <li><strong>{word}</strong> - {meaning} <br><span>{formation ? `${formation}` : ""}</span></li>
         {/each}
       {/if}
     </ul>
@@ -55,7 +62,7 @@
   .modal-content {
     position: relative;
     background-color: #fefefe;
-    margin: 10% auto;
+    margin: auto;
     padding: 20px;
     border: 1px solid #888;
     width: 80%; /* Adjust depending on screen size */
@@ -66,17 +73,28 @@
   header {
     width: 85%;
     position: fixed;
-    top: 38px;
-    left: 25px;
+    top: 1px;
     display: flex;
     justify-content: space-between;
     align-items: center;
     background-color: #fff;
     padding: 5px 0;
   }
+	
+	div.input-cont {
+		width: 83%;
+		display: flex;
+    justify-content: center;
+    align-items: center;
+	}
+		
+	div.closer-cont {
+		
+	}
 
-  button#clear-trash {
-    width: 53px;
+  button#reset-search {
+    font-size: 2.3rem;
+    width: 40px;
     height: 42px;
     padding: 0;
     border-top: 1px solid gray;
@@ -85,13 +103,13 @@
   }
 
   form {
-		width: 85%;
+		width: 65%;
 		display: flex;
 		align-items: center;
 	}
 
 	#search-field {
-		width: 100%;
+		width: 90%;
 		font-size: 1.3rem;
 		border: 1px solid gray;
     border-right: 0px;
@@ -100,8 +118,11 @@
 	}
 
   button {
-    width: 25%;
-    padding: 12px 0;
+		position: relative;
+		top: -1px;
+		left: 0px;
+    width: 40px;
+    padding: 11px 0;
     border: 1px solid gray;
     text-align: center;
   }
@@ -120,12 +141,20 @@
     padding: 5px;
     overflow: scroll;
   }
+	
+	li {
+		margin: 5px 0;
+	}
+	
+	li span {
+		color: green
+	}
 
   /* The Close Button */
   .close {
-    /* position: absolute;
-    top: 0;
-    right: 15px; */
+    position: relative;
+    top: -10px;
+    right: 15px;
     color: #aaa;
     font-size: 35px;
     font-weight: bold;

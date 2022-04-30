@@ -30,7 +30,7 @@
   const prevVerse = () => verseNo === 1 ? verseNo = versesQty-1 : verseNo -= 1
   const nextVerse = () => verseNo === versesQty-1 ? verseNo = 1 : verseNo += 1
 
-  // SEARCH FOR A VERSE INPUT
+  // SEARCH FOR A VERSE
   let showVerseSearch = false
 
   const handleGoToVerse = () => {
@@ -47,13 +47,13 @@
     verseNo = null
   }
 
-  // GET ALL VOCABULARY WORDS
+  // GET ALL VOCABULARY WORDS from verses.json
   const vocabFromVerses = versesJSON.reduce((accumArr, currObj) => {
     return [...accumArr, currObj.vocabulary].flat()
     }, [])
-  // $: console.log(vocabFromVerses)
 
-  let words = vocabFromVerses.sort((currWord, nextWord) => {
+  // SORT VOCABULARY WORDS
+  let words = wordsJSON.sort((currWord, nextWord) => {
     if (currWord.wordId > nextWord.wordId) {
       return 1;
     }
@@ -69,7 +69,16 @@
   let filterWords = [];
   //$: console.log(filterWords)
   const handleWordSearch = () => {
-    filterWords = words.filter(word => word.wordId.startsWith(searchTerm))
+    filterWords = words.filter(word => word.wordId.startsWith(searchTerm.toLowerCase()) ||
+      word.word.startsWith(searchTerm.toLowerCase()) ||
+      word.meaning.includes(searchTerm.toLowerCase()) ||
+      word.formation.includes(searchTerm.toLowerCase())
+    )
+  }
+
+  const resetSearch = () => {
+    searchTerm = ""
+    filterWords = []
   }
 
   let modalShowing = false;
@@ -134,7 +143,7 @@
     </div>
     <ol>
         {#each verse.vocabulary as wordObj}
-          <li><b>{wordObj.word}</b> - {wordObj.meaning} <br>{!wordObj.composition ? "" : `(${wordObj.composition})`}</li>    
+          <li><b>{wordObj.word}</b> - {wordObj.meaning} <br>{!wordObj.formation ? "" : `(${wordObj.formation})`}</li>    
         {/each}
     </ol>
     
@@ -144,7 +153,8 @@
                   {filterWords}
                   bind:searchTerm
                   on:submit={handleWordSearch}
-                  on:click={() => modalShowing = !modalShowing} />
+                  on:click={() => modalShowing = !modalShowing}
+                  on:clear={resetSearch} />
     {/if}
   </section>
   
