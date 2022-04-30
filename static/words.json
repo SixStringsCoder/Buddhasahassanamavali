@@ -1,5 +1,107 @@
 [
   {
+    "wordId": "apara",
+    "word": "apārā",
+    "meaning": "not beyond",
+    "formation": "a + pāra +ā(pl)"
+  }, 
+  {
+    "wordId": "athaparam",
+    "word": "athāparaṃ",
+    "meaning": "then + further",
+    "formation": "atha + a + paraṃ"
+  }, 
+  {
+    "wordId": "bahulikata",
+    "word": "bahulīkatā",
+    "meaning": "(pp.)\tmade full,made much of",
+    "formation": "bahulī+ katā"
+  }, 
+  {
+    "wordId": "bhavita",
+    "word": "bhāvitā",
+    "meaning": "developed,cultured",
+    "formation": "bhāveti + pp"
+  }, 
+  {
+    "wordId": "gamanaya",
+    "word": "gamanāya",
+    "meaning": "manner of going",
+    "formation": ""
+  }, 
+  {
+    "wordId": "idam",
+    "word": "idaṃ",
+    "meaning": "thus",
+    "formation": ""
+  }, 
+  {
+    "wordId": "idamavoca",
+    "word": "idamavoca",
+    "meaning": "he spoke thus",
+    "formation": "idaṃ+ avoca"
+  }, 
+  {
+    "wordId": "param",
+    "word": "pāraṃ",
+    "meaning": "beyond,across,over",
+    "formation": ""
+  }, 
+  {
+    "wordId": "samvattanti",
+    "word": "saṃvattantī",
+    "meaning": "they lead, involve",
+    "formation": "saṃ + vattantī"
+  }, 
+  {
+    "wordId": "vatvana",
+    "word": "vatvāna",
+    "meaning": "having spoken",
+    "formation": "vacati (abs)"
+  },
+  {
+    "wordId": "bhasissami",
+    "word": "bhāsissāmī",
+    "meaning": "I will speak",
+    "formation": "bhāsati + issāmī(fut)"
+  }, 
+  {
+    "wordId": "desessami",
+    "word": "desessāmi",
+    "meaning": "I will teach",
+    "formation": "deseti + issāmī(fut)"
+  }, 
+  {
+    "wordId": "karotha",
+    "word": "karotha",
+    "meaning": "imp. you (pl.) should make ",
+    "formation": ""
+  }, 
+  {
+    "wordId": "manasi",
+    "word": "manasi",
+    "meaning": "(rare) loc.\tin the mind",
+    "formation": ""
+  }, 
+  {
+    "wordId": "paccassosum",
+    "word": "paccassosuṃ",
+    "meaning": "(aor.)\tthey replied,agreed",
+    "formation": "paṭi + sunati"
+  }, 
+  {
+    "wordId": "sadhukam",
+    "word": "sādhukaṃ",
+    "meaning": "straight",
+    "formation": "sādhu + ka + ṃ"
+  }, 
+  {
+    "wordId": "sunatha",
+    "word": "suṇātha",
+    "meaning": "imp. you (pl.) should listen",
+    "formation": ""
+  },
+  {
     "wordId": "ekamantam",
     "word": "ekamantaṃ",
     "meaning": "one + end,side",
@@ -3980,8 +4082,8 @@
   {
     "wordId": "anavasesa",
     "word": "anavasesa",
-    "meaning": "an + avasesa - no + remainder, all",
-    "composition": ""
+    "meaning": "no + remainder, all",
+    "composition": "an + avasesa"
   },
   {
     "wordId": "vahayi",
