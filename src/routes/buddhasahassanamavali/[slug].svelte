@@ -67,7 +67,7 @@
   let searchTerm;
 
   let filterWords = [];
-  //$: console.log(filterWords)
+  $: console.log(searchTerm)
   const handleWordSearch = () => {
     filterWords = words.filter(word => word.wordId.startsWith(searchTerm.toLowerCase()) ||
       word.word.startsWith(searchTerm.toLowerCase()) ||
@@ -80,6 +80,8 @@
     searchTerm = ""
     filterWords = []
   }
+
+  $: if (!searchTerm) filterWords = []
 
   let modalShowing = false;
   const handleModal = () => modalShowing = !modalShowing;
@@ -94,17 +96,17 @@
   <section class="verse">
     <!--TITLE HEADING-->
     <h1>Buddhasahassanāmāvali</h1>
-    
-    {#if showVerseSearch}
-      <VerseInput bind:verseNo 
-                  verseURL={URL}
-                  on:click={handleGoToVerse} />
-    {/if}
 
     <div class="title-heading-cont">
       <h2>{verse.id}</h2>
       <span on:click={handleSearchVerse}>🔎</span>
     </div>
+
+    {#if showVerseSearch}
+      <VerseInput bind:verseNo 
+                  verseURL={URL}
+                  on:click={handleGoToVerse} />
+    {/if}
 
     <!--AUDIO-->
     <div class="audio-cont">

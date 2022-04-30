@@ -22,7 +22,7 @@
                 autocomplete="off"
                 bind:value={searchTerm}
                 />
-          <button type="submit">🔎</button>      
+          <button type="submit" id="submit-btn">🔎</button>      
         </form>  
 			</div>
 			<div class="closer-cont">
@@ -83,6 +83,7 @@
 	
 	div.input-cont {
 		width: 83%;
+    max-height: 43px;
 		display: flex;
     justify-content: center;
     align-items: center;
@@ -92,18 +93,22 @@
 		
 	}
 
+  button {
+    position: relative;
+    outline: none;
+    border: none;
+    background: transparent;
+    text-align: center;
+  }
+
   button#reset-search {
-    font-size: 2.3rem;
     width: 40px;
-    height: 42px;
     padding: 0;
-    border-top: 1px solid gray;
-    border-left: 1px solid gray;
-    border-bottom: 1px solid gray;
+    font-size: 40px;
   }
 
   form {
-		width: 65%;
+		width: 85%;
 		display: flex;
 		align-items: center;
 	}
@@ -112,28 +117,23 @@
 		width: 90%;
 		font-size: 1.3rem;
 		border: 1px solid gray;
-    border-right: 0px;
+    margin: 0 5px 0 10px;
 		/* border-radius: 5px 0 0 5px; */
 		padding: 8px;
 	}
 
-  button {
-		position: relative;
+  button#submit-btn {
 		top: -1px;
 		left: 0px;
     width: 40px;
-    padding: 11px 0;
-    border: 1px solid gray;
+    outline: none;
+    background: transparent;
     text-align: center;
-  }
-
-  button:hover {
-    background-color: rgb(12, 184, 46);
+    font-size: 35px;
   }
 
   button:active {
     background-color: #000;
-    color: white
   }
 
   ul {
