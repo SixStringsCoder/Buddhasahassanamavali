@@ -1,5 +1,305 @@
 [
   {
+    "wordId": "addhe",
+    "word": "aḍḍhe",
+    "meaning": "wealthy, rich",
+    "formation": ""
+  }, 
+  {
+    "wordId": "abhirupo",
+    "word": "abhirūpo",
+    "meaning": "of perfect form, very handsome",
+    "formation": "abhi + rūpo"
+  }, 
+  {
+    "wordId": "apayam",
+    "word": "apāyaṃ",
+    "meaning": "going away, state of woe",
+    "formation": ""
+  }, 
+  {
+    "wordId": "appannapanabhojane",
+    "word": "appannapānabhojane",
+    "meaning": "little+food+drink+nourishment",
+    "formation": "appa+ṃ+anna+pāna+bhojane"
+  }, 
+  {
+    "wordId": "bavhabadho",
+    "word": "bavhābādho",
+    "meaning": "many +diseases,of bad health",
+    "formation": "bahu + ābādho"
+  }, 
+  {
+    "wordId": "bheda",
+    "word": "bhedā",
+    "meaning": "breakage",
+    "formation": "bhedā"
+  }, 
+  {
+    "wordId": "candalakule",
+    "word": "caṇḍālakule",
+    "meaning": "outcast + clan",
+    "formation": "caṇḍāla+kule"
+  }, 
+  {
+    "wordId": "dalidde",
+    "word": "dalidde",
+    "meaning": "poor, wretched",
+    "formation": ""
+  }, 
+  {
+    "wordId": "dassaniyo",
+    "word": "dassanīyo",
+    "meaning": "fair to behold",
+    "formation": ""
+  }, 
+  {
+    "wordId": "dubbanno",
+    "word": "dubbaṇṇo",
+    "meaning": "of bad complexion",
+    "formation": "du + b + vaṇṇo"
+  }, 
+  {
+    "wordId": "duccaritam",
+    "word": "duccaritaṃ",
+    "meaning": "badly + code of conduct",
+    "formation": "du + c + caritaṃ"
+  }, 
+  {
+    "wordId": "duddasiko",
+    "word": "duddasiko",
+    "meaning": "bad to be seen",
+    "formation": "du + d + dasiko"
+  }, 
+  {
+    "wordId": "duggatim",
+    "word": "duggatiṃ",
+    "meaning": "badly +gone",
+    "formation": "du+ g+ gatiṃ"
+  }, 
+  {
+    "wordId": "gahapatimahasalakule",
+    "word": "gahapatimahāsālakule",
+    "meaning": "house+master +great+hall +family,householder family of great means",
+    "formation": "gaha+pati+mahā+sāla+kule"
+  }, 
+  {
+    "wordId": "ghasacchado",
+    "word": "ghāsacchādo",
+    "meaning": "food + clothing",
+    "formation": "ghāsa+c+chādo"
+  }, 
+  {
+    "wordId": "jotiparayano",
+    "word": "jotiparāyaṇo",
+    "meaning": "light + having as goal",
+    "formation": "joti+parāyaṇo"
+  }, 
+  {
+    "wordId": "kasiravuttike",
+    "word": "kasiravuttike",
+    "meaning": "hard + livelihood,finding it hard to support oneself",
+    "formation": "kasira+vutti+ka"
+  }, 
+  {
+    "wordId": "kasirena",
+    "word": "kasirena",
+    "meaning": "with difficulty",
+    "formation": "kasira (instr.)"
+  }, 
+  {
+    "wordId": "khanjo",
+    "word": "khañjo",
+    "meaning": "lame",
+    "formation": ""
+  }, 
+  {
+    "wordId": "kule",
+    "word": "kule",
+    "meaning": "family, clan",
+    "formation": ""
+  }, 
+  {
+    "wordId": "kuni",
+    "word": "kuṇī",
+    "meaning": "deformed, crooked",
+    "formation": ""
+  }, 
+  {
+    "wordId": "labbhati",
+    "word": "labbhati",
+    "meaning": "to gain",
+    "formation": ""
+  }, 
+  {
+    "wordId": "malagandhavilepanassa",
+    "word": "mālāgandhavilepanassa",
+    "meaning": "flowers +odour +perfume, embellishments, decorations of women",
+    "formation": "mālā+gandha+vilepana+assa"
+  }, 
+  {
+    "wordId": "manasa",
+    "word": "manasā",
+    "meaning": "by mind",
+    "formation": "manasā"
+  }, 
+  {
+    "wordId": "nice",
+    "word": "nīce",
+    "meaning": "adj. low, inferior",
+    "formation": ""
+  }, 
+  {
+    "wordId": "nesadakule",
+    "word": "nesādakule",
+    "meaning": "hunter + clan",
+    "formation": "nesādakule"
+  }, 
+  {
+    "wordId": "nirayam",
+    "word": "nirayaṃ",
+    "meaning": "hell",
+    "formation": ""
+  }, 
+  {
+    "wordId": "okotimako",
+    "word": "okoṭimako",
+    "meaning": "lit.: having the top lowered; of ugly appearance",
+    "formation": "o +koṭi + mant + ko"
+  }, 
+  {
+    "wordId": "pasadiko",
+    "word": "pāsādiko",
+    "meaning": "pleasing,lovely",
+    "formation": ""
+  }, 
+  {
+    "wordId": "paccajato",
+    "word": "paccājāto",
+    "meaning": "after+birth; coming into existence",
+    "formation": "pacca + jāto"
+  }, 
+  {
+    "wordId": "pahutadhanadhanne",
+    "word": "pahūtadhanadhaññe",
+    "meaning": "having many riches",
+    "formation": "pahūta+dhana+dhaññe"
+  }, 
+  {
+    "wordId": "pahutajataruparajate",
+    "word": "pahūtajātarūparajate",
+    "meaning": "much + gold + silver (coins)",
+    "formation": "pahūta+jātarūpa+rajate"
+  }, 
+  {
+    "wordId": "pahutavittupakarane",
+    "word": "pahūtavittūpakaraṇe",
+    "meaning": "much+prosperity+means of existence",
+    "formation": "pahūta+vitta +ūpakaraṇe"
+  }, 
+  {
+    "wordId": "pakkhahato",
+    "word": "pakkhahato",
+    "meaning": "lit.: struck,paralysed + one side; a cripple",
+    "formation": "pakkha+hato"
+  }, 
+  {
+    "wordId": "pukkusakule",
+    "word": "pukkusakule",
+    "meaning": "refusecleaner + clan",
+    "formation": "pukkusa+kule"
+  }, 
+  {
+    "wordId": "rathakarakule",
+    "word": "rathakārakule",
+    "meaning": "carriagemaker,chariotbuilder + clan",
+    "formation": "ratha+kāra+kule"
+  }, 
+  {
+    "wordId": "samvijjamana",
+    "word": "saṃvijjamānā",
+    "meaning": "to be found",
+    "formation": "saṃvijjati(ger.) + mānā"
+  }, 
+  {
+    "wordId": "saggam",
+    "word": "saggaṃ",
+    "meaning": "heaven",
+    "formation": ""
+  }, 
+  {
+    "wordId": "santo",
+    "word": "santo",
+    "meaning": "existing",
+    "formation": "fr. atthi (p.pr.)"
+  }, 
+  {
+    "wordId": "seyyavasathapadipeyyassa",
+    "word": "seyyāvasathapadīpeyyassa",
+    "meaning": "bed+dwelling+material for lamps,light",
+    "formation": "seyyā+āvasatha+padīpeyya"
+  }, 
+  {
+    "wordId": "sugatim",
+    "word": "sugatiṃ",
+    "meaning": "well + gone",
+    "formation": "su+gatiṃ"
+  }, 
+  {
+    "wordId": "tama",
+    "word": "tama",
+    "meaning": "o darkness,state of suffering,",
+    "ormatioin": ""
+  }, 
+  {
+    "wordId": "tamaparayano",
+    "word": "tamaparāyaṇo",
+    "meaning": "darkness + lit.:finding one’s support,having as destiny",
+    "formation": "tamo/a+parāyaṇo"
+  }, 
+  {
+    "wordId": "ucce",
+    "word": "ucce",
+    "meaning": "high, up",
+    "formation": ""
+  }, 
+  {
+    "wordId": "upapajjati",
+    "word": "upapajjati",
+    "meaning": "up + to rise,to originate",
+    "formation": "upa+pajjati"
+  }, 
+  {
+    "wordId": "vannapokkharataya",
+    "word": "vaṇṇapokkharatāya",
+    "meaning": "appearance + lotusflowerlike",
+    "formation": "vaṇṇa+pokkharatāya"
+  }, 
+  {
+    "wordId": "vatthassa",
+    "word": "vatthassa",
+    "meaning": "with/of clothes",
+    "formation": "vattha + assa"
+  }, 
+  {
+    "wordId": "venakule",
+    "word": "venakule",
+    "meaning": "bamboo + clan; wick worker",
+    "formation": "venakule"
+  }, 
+  {
+    "wordId": "vinipatam",
+    "word": "vinipātaṃ",
+    "meaning": "below + falling down,state of suffering",
+    "formation": "vi+nipāta"
+  }, 
+  {
+    "wordId": "yanassa",
+    "word": "yānassa",
+    "meaning": "with/of vehicles",
+    "formation": "yāna + assa"
+  },
+  {
     "wordId": "anubhavanca",
     "word": "ānubhāvañca",
     "meaning": "dignity, majesty",
