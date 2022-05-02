@@ -1,8 +1,152 @@
 [
   {
+    "wordId": "ajjatagge",
+    "word": "ajjatagge",
+    "meaning": "today + future",
+    "formation": "ajja + t + agge"
+  }, 
+  {
+    "wordId": "annatra",
+    "word": "aññatra",
+    "meaning": "adv. elsewhere",
+    "formation": ""
+  }, 
+  {
+    "wordId": "ayasma",
+    "word": "āyasmā",
+    "meaning": "the Venerable",
+    "formation": ""
+  }, 
+  {
+    "wordId": "bhindissati",
+    "word": "bhindissati",
+    "meaning": "fut.\the will break,split",
+    "formation": ""
+  }, 
+  {
+    "wordId": "danaham",
+    "word": "dānāhaṃ",
+    "meaning": "from now on I",
+    "formation": "idāni + āhaṃ"
+  }, 
+  {
+    "wordId": "karissami",
+    "word": "karissāmi",
+    "meaning": "fut. I will perform",
+    "formation": ""
+  }, 
+  {
+    "wordId": "papamariyehi",
+    "word": "pāpamariyehi",
+    "meaning": "evil,bad + by noble one’s",
+    "formation": "pāpa+m+ariyehi"
+  }, 
+  {
+    "wordId": "pavisi",
+    "word": "pāvisi",
+    "meaning": "aor.\tentered",
+    "formation": ""
+  }, 
+  {
+    "wordId": "pacchabhattam",
+    "word": "pacchābhattaṃ",
+    "meaning": "after + meal",
+    "formation": "paccha + a + bhattaṃ"
+  }, 
+  {
+    "wordId": "pattacivaramadaya",
+    "word": "pattacīvaramādāya",
+    "meaning": "bowl+ upper garment+having dressed",
+    "formation": "patta+cīvara+m+ādāya"
+  }, 
+  {
+    "wordId": "pindaya",
+    "word": "piṇḍāya",
+    "meaning": "for alms",
+    "formation": ""
+  }, 
+  {
+    "wordId": "pindapatapatikkanto",
+    "word": "piṇḍapātapaṭikkanto",
+    "meaning": "food received in alms bowl + returning",
+    "formation": "piṇḍa+pāta+paṭikkanto"
+  }, 
+  {
+    "wordId": "pubbanhasamayam",
+    "word": "pubbaṇhasamayaṃ",
+    "meaning": "forenoon + time",
+    "formation": "pubbaṇha + samayaṃ"
+  }, 
+  {
+    "wordId": "tadahuposathe",
+    "word": "tadahuposathe",
+    "meaning": "then+day+uposatha",
+    "formation": "tadā+aho +uposathe"
+  }, 
+  {
+    "wordId": "udana",
+    "word": "udāna",
+    "meaning": "utterance,exclamation",
+    "formation": ""
+  }, 
+  {
+    "wordId": "udanesi",
+    "word": "udānesi",
+    "meaning": "aor. breathed out/forth,uttered,said",
+    "formation": ""
+  }, 
+  {
+    "wordId": "velayam",
+    "word": "velāyaṃ",
+    "meaning": "time + this",
+    "formation": "velā + ayaṃ"
+  },
+  {
+    "wordId": "dhatusova",
+    "word": "dhātusova",
+    "meaning": "here: by their condition + like",
+    "formation": "dhātuso + eva"
+  }, 
+  {
+    "wordId": "addhanam",
+    "word": "addhānaṃ",
+    "meaning": "time",
+    "formation": "from: addhān"
+  }, 
+  {
+    "wordId": "atitamaddhanam",
+    "word": "atītamaddhānaṃ",
+    "meaning": "in the past",
+    "formation": ""
+  }, 
+  {
+    "wordId": "hinadhimuttikehi",
+    "word": "hīnādhimuttikehi",
+    "meaning": "low + intend upon, inclined to",
+    "formation": "hīna + adhimuttika"
+  }, 
+  {
+    "wordId": "kalyanadhimuttika",
+    "word": "kalyāṇādhimuttikā",
+    "meaning": "beneficial + intend upon, inclined to",
+    "formation": "kalyāṇa + adhimuttika"
+  }, 
+  {
+    "wordId": "samsandati",
+    "word": "saṃsandati",
+    "meaning": "to run together, associate",
+    "formation": ""
+  }, 
+  {
+    "wordId": "sameti",
+    "word": "sameti",
+    "meaning": "to meet, come together",
+    "formation": "saṃ +eti"
+  },
+  {
     "wordId": "apabodhati",
     "word": "apabodhati",
-    "meaning": "to render oneself conspicuos,keep alert",
+    "meaning": "to render oneself conspicuos, keep alert",
     "formation": ""
   }, 
   {
@@ -20,7 +164,7 @@
   {
     "wordId": "hirinisedho",
     "word": "hirīnisedho",
-    "meaning": "shame + prevention,restraining",
+    "meaning": "shame + prevention, restraining",
     "formation": "hirī +nisedho"
   }, 
   {
@@ -38,7 +182,7 @@
   {
     "wordId": "nindam",
     "word": "nindaṃ",
-    "meaning": "blame,finding fault",
+    "meaning": "blame, finding fault",
     "formation": ""
   }, 
   {
@@ -86,7 +230,7 @@
   {
     "wordId": "bavhabadho",
     "word": "bavhābādho",
-    "meaning": "many +diseases,of bad health",
+    "meaning": "many + diseases, of bad health",
     "formation": "bahu + ābādho"
   }, 
   {
