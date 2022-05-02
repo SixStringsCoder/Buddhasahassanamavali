@@ -1,5 +1,65 @@
 [
   {
+    "wordId": "apabodhati",
+    "word": "apabodhati",
+    "meaning": "to render oneself conspicuos,keep alert",
+    "formation": ""
+  }, 
+  {
+    "wordId": "asso",
+    "word": "asso",
+    "meaning": "horse",
+    "formation": ""
+  }, 
+  {
+    "wordId": "bhadro",
+    "word": "bhadro",
+    "meaning": "good, well trained",
+    "formation": ""
+  }, 
+  {
+    "wordId": "hirinisedho",
+    "word": "hirīnisedho",
+    "meaning": "shame + prevention,restraining",
+    "formation": "hirī +nisedho"
+  }, 
+  {
+    "wordId": "kasamiva",
+    "word": "kasāmivā",
+    "meaning": "whip + like",
+    "formation": "kasām + ivā"
+  }, 
+  {
+    "wordId": "koci",
+    "word": "koci",
+    "meaning": "whoever? anyone who?",
+    "formation": "ko + ci(interrog.part.)"
+  }, 
+  {
+    "wordId": "nindam",
+    "word": "nindaṃ",
+    "meaning": "blame,finding fault",
+    "formation": ""
+  }, 
+  {
+    "wordId": "pappuyya",
+    "word": "pappuyya",
+    "meaning": "having obtained",
+    "formation": "pappoti (ger.)"
+  }, 
+  {
+    "wordId": "tanuya",
+    "word": "tanuyā",
+    "meaning": "slender, slim",
+    "formation": ""
+  }, 
+  {
+    "wordId": "visame",
+    "word": "visame",
+    "meaning": "uneven, disharmonious",
+    "formation": ""
+  },
+  {
     "wordId": "addhe",
     "word": "aḍḍhe",
     "meaning": "wealthy, rich",
