@@ -1,5 +1,119 @@
 [
   {
+    "wordId": "anubhavanca",
+    "word": "ānubhāvañca",
+    "meaning": "dignity, majesty",
+    "formation": "ānu + bhāvaṃ + ca"
+  }, 
+  {
+    "wordId": "asim",
+    "word": "āsiṃ",
+    "meaning": "1.pers. I was",
+    "formation": "aor. of atthi,"
+  }, 
+  {
+    "wordId": "acalatthanam",
+    "word": "acalaṭṭhānaṃ",
+    "meaning": "not moving + place,sphere",
+    "formation": "acala+ṭ+ṭhānaṃ"
+  }, 
+  {
+    "wordId": "avadhi",
+    "word": "avadhī",
+    "meaning": "killed",
+    "formation": "aor. of vadhati"
+  }, 
+  {
+    "wordId": "dighamaddhanam",
+    "word": "dīghamaddhānaṃ",
+    "meaning": "long + period",
+    "formation": "dīgha+m+addhānaṃ"
+  }, 
+  {
+    "wordId": "gantva",
+    "word": "gantvā",
+    "meaning": "going",
+    "formation": "gacchati (ger.)"
+  }, 
+  {
+    "wordId": "iddhi",
+    "word": "iddhi",
+    "meaning": "strength, power",
+    "formation": ""
+  }, 
+  {
+    "wordId": "jutinca",
+    "word": "jutiñca",
+    "meaning": "splendor, effulgence + and",
+    "formation": "jutiṃ + ca"
+  }, 
+  {
+    "wordId": "manḍukoham",
+    "word": "maṇḍūkohaṃ",
+    "meaning": "a frog + I am",
+    "formation": "maṇḍūka + o+ahaṃ "
+  }, 
+  {
+    "wordId": "muhuttam",
+    "word": "muhuttaṃ",
+    "meaning": "moment, minute",
+    "formation": ""
+  }, 
+  {
+    "wordId": "passa",
+    "word": "passa",
+    "meaning": "seeing",
+    "formation": ""
+  }, 
+  {
+    "wordId": "patta",
+    "word": "pattā",
+    "meaning": "attained,gained",
+    "formation": "pāpuṇati (pp.p.)"
+  }, 
+  {
+    "wordId": "socare",
+    "word": "socare",
+    "meaning": "they do not grieve",
+    "formation": "socati (p.3rd.pl)"
+  }, 
+  {
+    "wordId": "sunantassa",
+    "word": "suṇantassa",
+    "meaning": "by hearing",
+    "formation": "suṇāti(p.pr.) + assa"
+  }, 
+  {
+    "wordId": "tava",
+    "word": "tava",
+    "meaning": "via you",
+    "formation": "tvaṃ (gen.dat.)"
+  }, 
+  {
+    "wordId": "udake",
+    "word": "udake",
+    "meaning": "in water",
+    "formation": ""
+  }, 
+  {
+    "wordId": "varigocaro",
+    "word": "vārigocaro",
+    "meaning": "water + dwelling in",
+    "formation": "vāri +gocaro"
+  }, 
+  {
+    "wordId": "vacchapalako",
+    "word": "vacchapālako",
+    "meaning": "calf + guardian, cowherd",
+    "formation": "\tvaccha+pālako"
+  }, 
+  {
+    "wordId": "yasanca",
+    "word": "yasañca",
+    "meaning": "glory, fame + and",
+    "formation": "yasaṃ + ca"
+  },
+  {
     "wordId": "aramaramaneyyakam",
     "word": "ārāmarāmaṇeyyakaṃ",
     "meaning": "pleasure parks + enjoyable",
