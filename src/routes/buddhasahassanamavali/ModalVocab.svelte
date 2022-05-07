@@ -63,7 +63,7 @@
     position: relative;
     background-color: #fefefe;
     margin: auto;
-    padding: 20px;
+    padding: 0 20px 20px;
     border: 1px solid #888;
     width: 80%; /* Adjust depending on screen size */
     height: 550px;
@@ -71,9 +71,9 @@
   }
 
   header {
-    width: 85%;
-    position: fixed;
-    top: 1px;
+    position: sticky;
+    top: 0;
+    left: 58px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -82,8 +82,7 @@
   }
 	
 	div.input-cont {
-		width: 83%;
-    max-height: 43px;
+		width: 100%;
 		display: flex;
     justify-content: center;
     align-items: center;
@@ -140,7 +139,7 @@
   }
 
   ul {
-    margin-top: 35px;
+    margin-top: 10px;
     padding: 5px;
     overflow: scroll;
   }
@@ -156,8 +155,8 @@
   /* The Close Button */
   .close {
     position: relative;
-    top: -10px;
-    right: 15px;
+    top: 0px;
+    right: -5px;
     color: #aaa;
     font-size: 35px;
     font-weight: bold;

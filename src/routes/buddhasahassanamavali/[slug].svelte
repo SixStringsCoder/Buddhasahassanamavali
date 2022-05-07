@@ -15,7 +15,7 @@
   import versesJSON from '../../../static/verses.json'
   import wordsJSON from '../../../static/words.json'
   import ModalVocab from './ModalVocab.svelte'
-  // import SearchInput from './SearchInput.svelte'
+  import SearchVerses from './SearchVerses.svelte'
   import VerseInput from './VerseInput.svelte'
 
   export let verse
@@ -25,12 +25,16 @@
   let verseNo = 1
   let rootURL = "http://localhost:3000"
   $: URL = `${rootURL}/buddhasahassanamavali/verse-${verseNo}`
-  $: console.log(params.slug, verseNo, URL, verse)
+  
 
   const prevVerse = () => verseNo === 1 ? verseNo = versesQty-1 : verseNo -= 1
   const nextVerse = () => verseNo === versesQty-1 ? verseNo = 1 : verseNo += 1
 
-  // SEARCH FOR A VERSE
+  // SEARCH A VERSE FOR WORD OR PHRASE
+  let searchVersesTerm
+	let script = "English"
+  $: console.log(script)
+  // SEARCH FOR A VERSE BY NUMBER
   let showVerseSearch = false
 
   const handleGoToVerse = () => {
@@ -96,6 +100,8 @@
   <section class="verse">
     <!--TITLE HEADING-->
     <h1>Buddhasahassanāmāvali</h1>
+
+    <SearchVerses bind:script bind:searchVersesTerm />
 
     <div class="title-heading-cont">
       <h2>{verse.id}</h2>
