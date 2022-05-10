@@ -27,13 +27,37 @@
   $: URL = `${rootURL}/buddhasahassanamavali/verse-${verseNo}`
   
 
-  const prevVerse = () => verseNo === 1 ? verseNo = versesQty-1 : verseNo -= 1
-  const nextVerse = () => verseNo === versesQty-1 ? verseNo = 1 : verseNo += 1
+  const prevVerse = () => verseNo === 1 ? verseNo = versesQty : verseNo -= 1
+  const nextVerse = () => verseNo === versesQty ? verseNo = 1 : verseNo += 1
 
   // SEARCH A VERSE FOR WORD OR PHRASE
   let searchVersesTerm
 	let script = "English"
-  $: console.log(script)
+  let verseMatches = [];
+  $: console.log(verseNo, versesQty)
+
+  $: if (!searchVersesTerm) {
+		verseMatches = [];
+		searchVersesTerm = null
+	}
+	
+	const handleVerseSearch = () => {
+    verseMatches = versesJSON.filter(verse => {
+			if (script === "Roman Pali") {
+				return verse.romanpali.includes(searchVersesTerm) 
+			} else if (script === "Devanagari Pali") {
+				return verse.devanagari.includes(searchVersesTerm) 
+			}
+			return verse.english.includes(searchVersesTerm) 
+		})
+	}
+	
+	const handleVerseLinkFromSearch = (e) => {
+		verseNo = e.target.id
+		verseMatches = [];
+	}
+
+
   // SEARCH FOR A VERSE BY NUMBER
   let showVerseSearch = false
 
@@ -101,7 +125,11 @@
     <!--TITLE HEADING-->
     <h1>Buddhasahassanāmāvali</h1>
 
-    <SearchVerses bind:script bind:searchVersesTerm />
+    <SearchVerses bind:script 
+                  bind:searchVersesTerm
+                  {verseMatches}
+									on:input={handleVerseSearch}
+									on:click={handleVerseLinkFromSearch} />
 
     <div class="title-heading-cont">
       <h2>{verse.id}</h2>
@@ -225,7 +253,7 @@
   }
 
   pre {
-    width: 300px;
+    width: 335px;
     text-align: center;
     line-height: 125%;
     margin: 0;
