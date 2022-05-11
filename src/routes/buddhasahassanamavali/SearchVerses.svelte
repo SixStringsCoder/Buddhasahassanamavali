@@ -2,6 +2,7 @@
 	export let searchVersesTerm
 	export let script
 	export let verseMatches = []
+	export let URL;
 </script>
 
 
@@ -35,7 +36,7 @@
 			<ul id="search-results">
 				{#each verseMatches as verse}
 					<li id={String(verse.id.match(/\d+/) - 1)} on:click>
-						{verse.id}			
+						<a href={URL}>{verse.id}</a>			
 					</li>
 				{/each}
 			</ul>

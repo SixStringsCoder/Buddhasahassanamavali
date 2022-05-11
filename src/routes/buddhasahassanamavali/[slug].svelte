@@ -5,11 +5,13 @@
     const response = await fetch(`../verses.json`); // stored in static folder
     const verses = await response.json();
     const verse = verses.find(verse => verse.slug === params.slug)
+    console.log(verse)
     return {
-      props: { verse }
+      props: verse 
     }
   }
 </script>  -->
+
 
 <script>
   import versesJSON from '../../../static/verses.json'
@@ -34,7 +36,7 @@
   let searchVersesTerm
 	let script = "English"
   let verseMatches = [];
-  $: console.log(verseNo, versesQty)
+  $: console.log(verse)
 
   $: if (!searchVersesTerm) {
 		verseMatches = [];
@@ -54,6 +56,7 @@
 	
 	const handleVerseLinkFromSearch = (e) => {
 		verseNo = e.target.id
+    console.log(verseNo)
 		verseMatches = [];
 	}
 
@@ -128,6 +131,7 @@
     <SearchVerses bind:script 
                   bind:searchVersesTerm
                   {verseMatches}
+                  {URL}
 									on:input={handleVerseSearch}
 									on:click={handleVerseLinkFromSearch} />
 
