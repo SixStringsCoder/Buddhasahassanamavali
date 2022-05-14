@@ -1,5 +1,401 @@
 [
   {
+    "wordId": "anagatappajappaya",
+    "word": "anāgatappajappāya",
+    "meaning": "future + longing for",
+    "formation": "anāgata+p+pajappāya"
+  }, 
+  {
+    "wordId": "atitam",
+    "word": "atītaṃ",
+    "meaning": "lit.: not standing: past",
+    "formation": "atītaṃ"
+  }, 
+  {
+    "wordId": "atitassanusocana",
+    "word": "atītassānusocanā",
+    "meaning": "of past + lamenting, worrying",
+    "formation": "atīta+assa+ānu+socanā"
+  }, 
+  {
+    "wordId": "bala",
+    "word": "bālā",
+    "meaning": "fools",
+    "formation": ""
+  }, 
+  {
+    "wordId": "bhunjamananam",
+    "word": "bhuñjamānānaṃ",
+    "meaning": "by eating, enjoying",
+    "formation": "bhuñjati (p.p./gen.pl.)"
+  }, 
+  {
+    "wordId": "ekabhattam",
+    "word": "ekabhattaṃ",
+    "meaning": "one + meal",
+    "formation": "eka + bhattaṃ"
+  }, 
+  {
+    "wordId": "gathaya",
+    "word": "gāthāya",
+    "meaning": "by verses",
+    "formation": ""
+  }, 
+  {
+    "wordId": "harito",
+    "word": "harito",
+    "meaning": "green",
+    "formation": ""
+  }, 
+  {
+    "wordId": "luto",
+    "word": "luto",
+    "meaning": "cut off, broken",
+    "formation": "lampati (p.p.)"
+  }, 
+  {
+    "wordId": "nagatam",
+    "word": "nāgataṃ",
+    "meaning": "lit.:not yet come: future",
+    "formation": "na+ āgataṃ"
+  }, 
+  {
+    "wordId": "nanusocanti",
+    "word": "nānusocanti",
+    "meaning": "not + they wail, moan",
+    "formation": "na + anusocanti"
+  }, 
+  {
+    "wordId": "naḷova",
+    "word": "naḷova",
+    "meaning": "reed + like",
+    "formation": "naḷa + eva"
+  }, 
+  {
+    "wordId": "nappajappanti",
+    "word": "nappajappanti",
+    "meaning": "not + prattle, crave, long for",
+    "formation": "na+p+pajappati"
+  }, 
+  {
+    "wordId": "paccuppannena",
+    "word": "paccuppannena",
+    "meaning": "lit.:what has just arisen: present",
+    "formation": "paṭi + uppajjati (p.p./instr.)"
+  }, 
+  {
+    "wordId": "santanam",
+    "word": "santānaṃ",
+    "meaning": "of saints",
+    "formation": ""
+  }, 
+  {
+    "wordId": "sussanti",
+    "word": "sussanti",
+    "meaning": "they wither away",
+    "formation": ""
+  }, 
+  {
+    "wordId": "yapenti",
+    "word": "yāpenti",
+    "meaning": "they live on",
+    "formation": "yāti (caus.): yāpeti"
+  },
+  {
+    "wordId": "anussaretha",
+    "word": "anussaretha",
+    "meaning": "you should remember",
+    "formation": "opt. 2nd pl."
+  }, 
+  {
+    "wordId": "aranne",
+    "word": "araññe",
+    "meaning": "in the forest",
+    "formation": ""
+  }, 
+  {
+    "wordId": "bhayam",
+    "word": "bhayaṃ",
+    "meaning": "fear",
+    "formation": ""
+  }, 
+  {
+    "wordId": "chambhitattam",
+    "word": "chambhitattaṃ",
+    "meaning": "stupefied, state of stupefaction",
+    "formation": "chambheti(p.p.)"
+  }, 
+  {
+    "wordId": "hessati",
+    "word": "hessati",
+    "meaning": "will be",
+    "formation": "bhavati(fut.)"
+  }, 
+  {
+    "wordId": "lokajettham",
+    "word": "lokajeṭṭhaṃ",
+    "meaning": "world +formost, highest",
+    "formation": "loka + jeṭṭhaṃ"
+  }, 
+  {
+    "wordId": "lomahamso",
+    "word": "lomahaṃso",
+    "meaning": "hair of body + horripilation",
+    "formation": "loma+haṃso"
+  }, 
+  {
+    "wordId": "narasabham",
+    "word": "narāsabhaṃ",
+    "meaning": "man + bull",
+    "formation": "nara + usabhaṃ"
+  }, 
+  {
+    "wordId": "niyyanikam",
+    "word": "niyyānikaṃ",
+    "meaning": "profitable, leading out of saṃsara",
+    "formation": ""
+  }, 
+  {
+    "wordId": "punnakkhettam",
+    "word": "puññakkhettaṃ",
+    "meaning": "merit + field",
+    "formation": "puñña+k+khettaṃ"
+  }, 
+  {
+    "wordId": "rukkhamule",
+    "word": "rukkhamūle",
+    "meaning": "at the root of a tree",
+    "formation": "rukkha+mūle"
+  }, 
+  {
+    "wordId": "sareyyatha",
+    "word": "sareyyātha",
+    "meaning": "you should remember",
+    "formation": "sāreti (opt.)"
+  }, 
+  {
+    "wordId": "siya",
+    "word": "siyā",
+    "meaning": "should be",
+    "formation": "atthi(pres. opt.)"
+  }, 
+  {
+    "wordId": "sunnagareva",
+    "word": "suññāgāreva",
+    "meaning": "empty space + likewise",
+    "formation": "suññāgāra+eva"
+  },
+  {
+    "wordId": "ahuneyyo",
+    "word": "āhuneyyo",
+    "meaning": "worthy of gifts, of adoration",
+    "formation": "āhuneyyo"
+  }, 
+  {
+    "wordId": "anjali-karaniyo",
+    "word": "añjali-karaṇīyo",
+    "meaning": "worthy of reference with folded hands",
+    "formation": "añjali-karaṇīyo"
+  }, 
+  {
+    "wordId": "attha-purisa-puggala",
+    "word": "aṭṭha-purisa-puggalā",
+    "meaning": "eight kinds of individuals",
+    "formation": "aṭṭha + purisa + puggalā"
+  }, 
+  {
+    "wordId": "dakkhineyyo",
+    "word": "dakkhiṇeyyo",
+    "meaning": "worthy of offerings",
+    "formation": "dakkhiṇeyyo"
+  }, 
+  {
+    "wordId": "nayapatipanno",
+    "word": "ñāyapaṭipanno",
+    "meaning": "wisely + practice",
+    "formation": "ñāya + paṭipanno"
+  }, 
+  {
+    "wordId": "pahuneyyo",
+    "word": "pāhuneyyo",
+    "meaning": "worthy of hospitality",
+    "formation": "pāhuneyyo"
+  }, 
+  {
+    "wordId": "patipanno",
+    "word": "paṭipanno",
+    "meaning": "live, act, practise, obtain, conduct oneself",
+    "formation": "paṭipajjatii (pp)"
+  }, 
+  {
+    "wordId": "punnakkhettam",
+    "word": "puññakkhettaṃ",
+    "meaning": "merit + field",
+    "formation": "puñña + k +khettaṃ"
+  }, 
+  {
+    "wordId": "purisa-yugani",
+    "word": "purisa-yugāni",
+    "meaning": "persons + pairs",
+    "formation": "purisa + yugāni"
+  }, 
+  {
+    "wordId": "samicipatipanno",
+    "word": "sāmīcipaṭipanno",
+    "meaning": "proper + practice",
+    "formation": "sāmīci + paṭipanno"
+  }, 
+  {
+    "wordId": "supatipanno",
+    "word": "supaṭipanno",
+    "meaning": "good + practice",
+    "formation": "su + paṭipanno"
+  }, 
+  {
+    "wordId": "ujupatipanno",
+    "word": "ujupaṭipanno",
+    "meaning": "upright + practice",
+    "formation": "uju + paṭipanno"
+  },
+  {
+    "wordId": "asamsuka",
+    "word": "āsaṃsukā",
+    "meaning": "adj.\tfull of expectation, hankering",
+    "formation": ""
+  }, 
+  {
+    "wordId": "akammakama",
+    "word": "akammakāmā",
+    "meaning": "",
+    "formation": "a+kamma+kāmā\tnot + doing + desiring"
+  }, 
+  {
+    "wordId": "alasa",
+    "word": "alasā",
+    "meaning": "idle, lazy + opposite",
+    "formation": "analasā"
+  }, 
+  {
+    "wordId": "bhoti",
+    "word": "bhoti",
+    "meaning": "you (address)",
+    "formation": "bhavant (f. sing.nom.)"
+  }, 
+  {
+    "wordId": "dani",
+    "word": "dāni",
+    "meaning": "now",
+    "formation": "idāni (indecl.)"
+  }, 
+  {
+    "wordId": "dhunanti",
+    "word": "dhunanti",
+    "meaning": "they shake, destroy",
+    "formation": ""
+  }, 
+  {
+    "wordId": "ekaggacitta",
+    "word": "ekaggacittā",
+    "meaning": " well directed mind, one-pointedness",
+    "formation": "eka+g+gata+cittā\tone+gone+mind:"
+  }, 
+  {
+    "wordId": "hirannam",
+    "word": "hiraññaṃ",
+    "meaning": "gold and money, bullion",
+    "formation": ""
+  }, 
+  {
+    "wordId": "kammasetthassa",
+    "word": "kammaseṭṭhassa",
+    "meaning": "doer + highest work + of the",
+    "formation": "kamma+seṭṭha+assa"
+  }, 
+  {
+    "wordId": "kittesi",
+    "word": "kittesi",
+    "meaning": "you praise, proclaim",
+    "formation": ""
+  }, 
+  {
+    "wordId": "nanakula",
+    "word": "nānākulā",
+    "meaning": "of different + families",
+    "formation": "nānā+kulā"
+  }, 
+  {
+    "wordId": "nesam",
+    "word": "nesaṃ",
+    "meaning": "their, of these",
+    "formation": "so (gen./dat.pl)"
+  }, 
+  {
+    "wordId": "pabujjhasi",
+    "word": "pabujjhasi",
+    "meaning": "you wake up",
+    "formation": ""
+  }, 
+  {
+    "wordId": "pahinesam",
+    "word": "pahīnesaṃ",
+    "meaning": "destroyed + these",
+    "formation": "pahīna(pp) + esaṃ"
+  }, 
+  {
+    "wordId": "pannasilaparakkamam",
+    "word": "paññāsīlaparakkamaṃ",
+    "meaning": "paññā+sīla+excertion",
+    "formation": "paññā+sīla+parakkama"
+  }, 
+  {
+    "wordId": "paradattupajivino",
+    "word": "paradattūpajīvino",
+    "meaning": "others+given+living on",
+    "formation": "para+datta+ūpajīvino"
+  }, 
+  {
+    "wordId": "parakkamam",
+    "word": "parakkamaṃ",
+    "meaning": "effort",
+    "formation": "para + k +kamaṃ"
+  }, 
+  {
+    "wordId": "pavecchasi",
+    "word": "pavecchasi",
+    "meaning": "you bestow, give",
+    "formation": ""
+  }, 
+  {
+    "wordId": "pucchami",
+    "word": "pucchāmi",
+    "meaning": "I ask",
+    "formation": ""
+  }, 
+  {
+    "wordId": "rupiyam",
+    "word": "rūpiyaṃ",
+    "meaning": "silver",
+    "formation": ""
+  }, 
+  {
+    "wordId": "supi",
+    "word": "supi",
+    "meaning": "slept",
+    "formation": "supati (aor.)"
+  }, 
+  {
+    "wordId": "suvannam",
+    "word": "suvaṇṇaṃ",
+    "meaning": "gold",
+    "formation": ""
+  }, 
+  {
+    "wordId": "vipulam",
+    "word": "vipulaṃ",
+    "meaning": "plentyfold",
+    "formation": ""
+  },
+  {
     "wordId": "ajjatagge",
     "word": "ajjatagge",
     "meaning": "today + future",

@@ -19,7 +19,7 @@
   import ModalVocab from './ModalVocab.svelte'
   import SearchVerses from './SearchVerses.svelte'
   import VerseInput from './VerseInput.svelte'
-
+  
   export let verse
   export let params
 
